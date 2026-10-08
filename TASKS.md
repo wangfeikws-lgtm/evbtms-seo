@@ -8,7 +8,7 @@
 
 ## T0 — 协作流程冒烟测试
 
-- **状态**：TODO
+- **状态**：DOING
 - **目标和背景**：在动生产站之前，先跑通协作全流程：认领 → 执行 → 写报告 →
   推送 → Muse 验收。此任务不碰网站，零风险。
 - **涉及页面或URL**：本仓库（https://github.com/wangfeikws-lgtm/evbtms-seo）
