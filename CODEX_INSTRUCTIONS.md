@@ -11,7 +11,10 @@
 ## 工作方式
 
 1. **认领**：选一个 TODO 任务，把它在 `TASKS.md` 里的状态改为 `DOING`，提交。
-2. **执行**：在 https://evbtms.com/（WordPress + Elementor，Hostinger 托管）上完成任务。
+2. **先发现后新建（DISCOVER 优先）**：开工前先读仓库已有文件（TASKS.md、REPORTS/、
+   KEYWORDS.md、TEMPLATES/），确认没有重复任务或已有结论；能复用已有产物就不重做，
+   避免重复工作。
+3. **执行**：在 https://evbtms.com/（WordPress + Elementor，Hostinger 托管）上完成任务。
    - 动生产环境前先备份相关文件/设置
    - 不要改动与任务无关的东西
    - 遇到拿不准的，标记为 BLOCKED 并写清需要什么输入，不要瞎猜
