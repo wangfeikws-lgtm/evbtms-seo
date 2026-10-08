@@ -5,16 +5,18 @@
 
 ## 品类一：制动电阻 Braking Resistor（P0，新品类，页面待建）
 
-🔬 SERP 调研进行中 → 初稿 `REPORTS/serp-braking-resistor-ev.md`
+✅ SERP 已验证（2026-10-08，简报 `REPORTS/serp-braking-resistor-ev.md`，Muse 已复核）。
+核心结论：EV 定向词竞争弱（仅 Cressall、REO 两家真对手，内容老化 3–4 年）；"brake chopper resistor EV" 内容真空；
+"electric bus" 修饰词被 Google 判为工业意图（勿硬打）；工业词（VFD/电梯/起重机）为价格绞肉机，战略放弃。
 
 候选方向（⏳ 待验证，调研后定稿）：
 | # | 候选关键词 | 页面类型建议 |
 |---|-----------|-------------|
-| R1 | braking resistor for electric bus | 产品分类页（主） |
-| R2 | dynamic braking resistor electric vehicle | 落地页/分类页 |
-| R3 | brake chopper resistor EV | 落地页 |
-| R4 | regenerative braking resistor manufacturer | 采购意向页 |
-| R5 | braking resistor VFD / elevator / crane | 工业对比组（**待 Peter 决策是否做**） |
+| R1 | braking resistor EV | 产品分类页（主）✅ |
+| R2 | brake chopper resistor EV | 博客 B1（内容真空）✅ |
+| R3 | EV braking resistor sizing / how to size | 博客 B2（选型缺口）✅ |
+| R4 | electric vehicle braking resistor manufacturer | 采购页（marketplace 主导，谨慎）⏳ |
+| R5 | braking resistor VFD / elevator / crane | ❌ 战略放弃（价格绞肉机，见 SERP 简报 §10） |
 
 ## 品类二：三合一控制器 Three-in-One Controller（P1）
 
