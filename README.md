@@ -34,6 +34,12 @@
 - 是否达到验收标准
 - 遗留问题
 
+## 内容工作流（SERP 优先铁律）
+
+写英文文章前必须先做 SERP 调研，由 Muse 按 `TEMPLATES/serp-brief.md` 输出简报，
+存 `REPORTS/serp-<关键词slug>.md`。文章任务在 TASKS.md 中引用对应的简报。
+Codex 只负责发布排版，不写文案、不做 SERP。
+
 ## 网站技术信息
 
 - 新站：https://evbtms.com/ — WordPress + Elementor，Hostinger 托管，Microsoft Clarity 已装，GA4 未关联
