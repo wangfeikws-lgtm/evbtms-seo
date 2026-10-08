@@ -6,6 +6,28 @@
 
 ---
 
+## T0 — 协作流程冒烟测试
+
+- **状态**：TODO
+- **目标和背景**：在动生产站之前，先跑通协作全流程：认领 → 执行 → 写报告 →
+  推送 → Muse 验收。此任务不碰网站，零风险。
+- **涉及页面或URL**：本仓库（https://github.com/wangfeikws-lgtm/evbtms-seo）
+- **原始证据/数据来源**：无（流程测试）。
+- **执行要求**：
+  1. 把本任务状态改为 DOING 并推送
+  2. 在 `REPORTS/` 下新建 `T0-smoke-test.md`，内容包含：
+     - “Codex 已就绪”
+     - 你的运行环境一句话描述（如本地 Windows / Codex CLI 版本）
+     - 确认已读 README.md、TASKS.md、CODEX_INSTRUCTIONS.md
+  3. 把任务状态改为 DONE 并推送
+- **验收标准**：
+  - `REPORTS/T0-smoke-test.md` 存在且内容完整
+  - TASKS.md 中 T0 状态为 DONE
+- **风险和禁止事项**：本任务禁止触碰生产网站；只改仓库内 T0 相关内容。
+- **报告**：`REPORTS/T0-smoke-test.md`（本任务的报告就是交付物本身）
+
+---
+
 ## T1 — 排查 22 个被 noindex 排除的页面
 
 - **状态**：TODO
