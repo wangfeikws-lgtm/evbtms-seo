@@ -38,7 +38,7 @@
 | 2 | high voltage heater for hydrogen fuel cell bus | ✅（SERP GO·小众，简报 `serp-h2-hydrogen-fuel-cell-bus-heater.md`） |
 | 3 | DC870V PTC coolant heater for mining truck | ✅（SERP GO·高优，简报 `serp-h3-dc870v-mining-truck.md`） |
 | 4 | high voltage battery heater for electric truck | ✅（SERP GO·高优，简报 `serp-h4-battery-heater-electric-truck.md`） |
-| 5 | PTC coolant heater with CAN control | ⏳ |
+| 5 | PTC coolant heater with CAN control | ✅（SERP GO·中优，简报 `serp-h5-ptc-can-control.md`） |
 
 ### B. 场景/问题词 → 博客
 | # | 关键词 | 状态 |
