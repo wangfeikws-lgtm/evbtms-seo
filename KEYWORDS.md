@@ -9,7 +9,7 @@
 核心结论：EV 定向词竞争弱（仅 Cressall、REO 两家真对手，内容老化 3–4 年）；"brake chopper resistor EV" 内容真空；
 "electric bus" 修饰词被 Google 判为工业意图（勿硬打）；工业词（VFD/电梯/起重机）为价格绞肉机，战略放弃。
 
-候选方向（⏳ 待验证，调研后定稿）：
+候选方向（✅ 已验证，见 SERP 简报 §10）：
 | # | 候选关键词 | 页面类型建议 |
 |---|-----------|-------------|
 | R1 | braking resistor EV | 产品分类页（主）✅ |
@@ -20,20 +20,21 @@
 
 ## 品类二：三合一控制器 Three-in-One Controller（P1）
 
-⏳ 待 SERP 验证：
-| # | 候选关键词 | 页面类型建议 |
-|---|-----------|-------------|
-| T1 | three in one controller electric vehicle | 产品分类页（主） |
-| T2 | 3 in 1 EV controller OBC DC DC | 落地页 |
-| T3 | integrated power control unit electric bus | 落地页 |
-| T4 | three in one controller manufacturer supplier | 采购意向页 |
+✅ 已验证（2026-10-09，简报 `REPORTS/serp-three-in-one-controller.md`）：T2 `3 in 1 EV controller OBC DC DC` GO（待真实规格）；T1/T3/T4 放弃（意图混乱/分散）。
+产品类型已确认为 OBC + DC/DC + PDU（电源电子三合一）；推荐英文主名 `3-in-1 Onboard Power Supply (OBC + DC/DC + PDU)`，不用 `Three-in-One Controller` 作主名。
+| # | 候选关键词 | 页面类型建议 | 状态 |
+|---|-----------|-------------|------|
+| T1 | three in one controller electric vehicle | 产品分类页（主） | ❌ 放弃（意图混乱） |
+| T2 | 3 in 1 EV controller OBC DC DC | 落地页 | ✅ GO（待真实规格） |
+| T3 | integrated power control unit electric bus | 落地页 | ❌ 放弃（意图分散） |
+| T4 | three in one controller manufacturer supplier | 采购意向页 | ❌ 放弃（意图分散，并入 T2） |
 
 ## 品类三：高压冷却液加热器 High Voltage Coolant Heater（P2）
 
 ### A. 产品长尾词 → 落地页
 | # | 关键词 | 状态 |
 |---|--------|------|
-| 1 | 800V high voltage PTC coolant heater for electric bus | ⏳ |
+| 1 | 800V high voltage PTC coolant heater for electric bus | ✅（SERP GO，简报 `serp-h1-800v-ptc-coolant-heater-ebus.md`） |
 | 2 | high voltage heater for hydrogen fuel cell bus | ⏳ |
 | 3 | DC870V PTC coolant heater for mining truck | ⏳ |
 | 4 | high voltage battery heater for electric truck | ⏳ |
@@ -62,9 +63,8 @@
 
 ## 验证路线图
 
-- ✅ 已完成：#7（1 个）
-- 🔬 进行中：制动电阻组 R1–R5（SERP 初稿撰写中）
-- ⏳ 待排期：三合一 T1–T4、加热器/BTMS 剩余 11 词（Muse 按优先级逐批验证）
+- ✅ 已完成：#7、#1、制动电阻 R 组、三合一 T 组（简报均已推送）
+- ⏳ 待排期：加热器/BTMS 剩余 10 词（#2–6、#8–12）＋ BTMS 增补 2 词，Muse 按优先级逐批验证
 
 ## 执行规则（对应 TASKS.md）
 
