@@ -170,7 +170,7 @@
 - **备注**：Muse 读完后会将关键信息记入长期记忆。Peter 要求：Muse 与 Codex 直接通过仓库协作，不经 Peter 传话。
 ## T10 — 三合一博客 1：《集成控制器如何给电动大巴热系统降本》
 
-- **状态**：`READY`（2026-10-09：SERP 验证 GO，大纲 Peter 已批，英文正文已完成待 Peter 过目 → Codex 发布）
+- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
 - **任务目标**：英文博客，算账式内容：3 个独立控制器变 1 个三合一，省零部件/线束/接口，量化降本逻辑，CTA 导向三合一分类页和询盘。
 - **优先级**：P1（TH2 转博客，无品类词可抢，问题词内容是流量抓手）
 - **输入资料**：`REPORTS/three-in-one-thermal-strategy-review.md`；`REPORTS/product-brief-three-in-one-thermal-controller.md`
@@ -187,7 +187,7 @@
 
 ## T11 — 三合一博客 2：《电动汽车热管理控制策略：压缩机/膨胀阀/风机》
 
-- **状态**：`READY`（2026-10-09：SERP 验证 GO，大纲 Peter 已批，英文正文已完成待 Peter 过目 → Codex 发布）
+- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
 - **任务目标**：英文博客，工程师干货：压缩机按水温调速、膨胀阀按过热度调开度、风机按冷凝压力启停（~13 bar），讲透三合一的控制逻辑，树立技术权威，CTA 导向询盘。
 - **优先级**：P1（工厂刚给的独家干货，竞品没有）
 - **输入资料**：`REPORTS/product-brief-three-in-one-thermal-controller.md`（控制逻辑表）
