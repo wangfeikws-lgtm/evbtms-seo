@@ -20,14 +20,18 @@
 
 ## 品类二：三合一控制器 Three-in-One Controller（P1）
 
-✅ 已验证（2026-10-09，简报 `REPORTS/serp-three-in-one-controller.md`）：T2 `3 in 1 EV controller OBC DC DC` GO（待真实规格）；T1/T3/T4 放弃（意图混乱/分散）。
-产品类型已确认为 OBC + DC/DC + PDU（电源电子三合一）；推荐英文主名 `3-in-1 Onboard Power Supply (OBC + DC/DC + PDU)`，不用 `Three-in-One Controller` 作主名。
+✅ **产品类型已澄清（2026-10-09）**：工厂 Q&A ＋ 网站现页面（`/products/three-in-one-controller/`，H1 "Three-in-One EV Thermal Management Controller"）一致确认为**热管理三合一控制器**（压缩机控制器＋制冷系统 ECU＋高压 PTC 控制器）。
+⚠️ 早前"OBC + DC/DC + PDU 电源电子"的理解系误会，作废；T1–T4 的 SERP 验证同步作废，需按热管理方向重做。
+英文主名：`Three-in-One Controller` / `3-in-1 Thermal Management Controller`。
+产品档案：`REPORTS/product-brief-three-in-one-thermal-controller.md`。
+
+⏳ 待 SERP 验证（热管理方向）：
 | # | 候选关键词 | 页面类型建议 | 状态 |
 |---|-----------|-------------|------|
-| T1 | three in one controller electric vehicle | 产品分类页（主） | ❌ 放弃（意图混乱） |
-| T2 | 3 in 1 EV controller OBC DC DC | 落地页 | ✅ GO（待真实规格） |
-| T3 | integrated power control unit electric bus | 落地页 | ❌ 放弃（意图分散） |
-| T4 | three in one controller manufacturer supplier | 采购意向页 | ❌ 放弃（意图分散，并入 T2） |
+| TH1 | three in one thermal management controller | 现有分类页优化 | ⏳ |
+| TH2 | integrated thermal management controller electric bus | 落地页 | ⏳ |
+| TH3 | EV thermal management controller | 落地页 | ⏳ |
+| TH4 | electric compressor controller | 落地页 | ⏳ |
 
 ## 品类三：高压冷却液加热器 High Voltage Coolant Heater（P2）
 
@@ -63,8 +67,9 @@
 
 ## 验证路线图
 
-- ✅ 已完成：#7、#1、#2、#3、#4、制动电阻 R 组、三合一 T 组（简报均已推送）
-- ⏳ 待排期：#5、#6、#8、#9、#10、#11、#12 ＋ BTMS 增补 2 词，Muse 按优先级逐批验证
+- ✅ 已完成：#7、#1、#2、#3、#4、#5、制动电阻 R 组（简报均已推送）
+- ⚠️ 三合一 T 组作废重做：产品澄清为热管理三合一（非 OBC+DC/DC+PDU），T1–T4 验证作废，改按 TH1–TH4（热管理方向）重做
+- ⏳ 待排期：#6、#8、#9、#10、#11、#12 ＋ BTMS 增补 2 词 ＋ TH1–TH4，Muse 按优先级逐批验证
 
 ## 执行规则（对应 TASKS.md）
 
