@@ -28,10 +28,12 @@
 ⏳ 待 SERP 验证（热管理方向）：
 | # | 候选关键词 | 页面类型建议 | 状态 |
 |---|-----------|-------------|------|
-| TH1 | three in one thermal management controller | 现有分类页优化 | ⏳ |
-| TH2 | integrated thermal management controller electric bus | 落地页 | ⏳ |
-| TH3 | EV thermal management controller | 落地页 | ⏳ |
-| TH4 | electric compressor controller | 落地页 | ⏳ |
+| TH1 | three in one thermal management controller | — | ❌ 放弃（意图混乱，指代 Webasto Heated Chiller 等其他产品） |
+| TH2 | integrated thermal management controller electric bus | 博客 | ⚠️ 转博客（SERP 全是整套系统，无控制器产品页） |
+| TH3 | EV thermal management controller | 博客 | ⚠️ 转博客（技术信息型） |
+| TH4 | electric compressor controller | — | ❌ 放弃（意图跑偏，搜出来是工业空压机） |
+
+**策略修正（2026-10-09）**：英文自然搜索无现成"三合一热管理控制器"品类词。策略＝守住品牌词（现有分类页）＋打场景问题词（博客）＋阿里/社媒带品牌搜索。详见 `REPORTS/three-in-one-thermal-strategy-review.md`。
 
 ## 品类三：高压冷却液加热器 High Voltage Coolant Heater（P2）
 
@@ -68,8 +70,8 @@
 ## 验证路线图
 
 - ✅ 已完成：#7、#1、#2、#3、#4、#5、制动电阻 R 组（简报均已推送）
-- ⚠️ 三合一 T 组作废重做：产品澄清为热管理三合一（非 OBC+DC/DC+PDU），T1–T4 验证作废，改按 TH1–TH4（热管理方向）重做
-- ⏳ 待排期：#6、#8、#9、#10、#11、#12 ＋ BTMS 增补 2 词 ＋ TH1–TH4，Muse 按优先级逐批验证
+- ✅ 三合一：产品澄清为热管理三合一；TH1–TH4 已验证（TH1/TH4 放弃，TH2/TH3 转博客）；完整复盘见 `REPORTS/three-in-one-thermal-strategy-review.md`
+- ⏳ 待排期：#6、#8、#9、#10、#11、#12 ＋ BTMS 增补 2 词，Muse 按优先级逐批验证
 
 ## 执行规则（对应 TASKS.md）
 
