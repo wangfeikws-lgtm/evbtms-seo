@@ -35,9 +35,9 @@
 | # | 关键词 | 状态 |
 |---|--------|------|
 | 1 | 800V high voltage PTC coolant heater for electric bus | ✅（SERP GO，简报 `serp-h1-800v-ptc-coolant-heater-ebus.md`） |
-| 2 | high voltage heater for hydrogen fuel cell bus | ⏳ |
-| 3 | DC870V PTC coolant heater for mining truck | ⏳ |
-| 4 | high voltage battery heater for electric truck | ⏳ |
+| 2 | high voltage heater for hydrogen fuel cell bus | ✅（SERP GO·小众，简报 `serp-h2-hydrogen-fuel-cell-bus-heater.md`） |
+| 3 | DC870V PTC coolant heater for mining truck | ✅（SERP GO·高优，简报 `serp-h3-dc870v-mining-truck.md`） |
+| 4 | high voltage battery heater for electric truck | ✅（SERP GO·高优，简报 `serp-h4-battery-heater-electric-truck.md`） |
 | 5 | PTC coolant heater with CAN control | ⏳ |
 
 ### B. 场景/问题词 → 博客
@@ -63,8 +63,8 @@
 
 ## 验证路线图
 
-- ✅ 已完成：#7、#1、制动电阻 R 组、三合一 T 组（简报均已推送）
-- ⏳ 待排期：加热器/BTMS 剩余 10 词（#2–6、#8–12）＋ BTMS 增补 2 词，Muse 按优先级逐批验证
+- ✅ 已完成：#7、#1、#2、#3、#4、制动电阻 R 组、三合一 T 组（简报均已推送）
+- ⏳ 待排期：#5、#6、#8、#9、#10、#11、#12 ＋ BTMS 增补 2 词，Muse 按优先级逐批验证
 
 ## 执行规则（对应 TASKS.md）
 
