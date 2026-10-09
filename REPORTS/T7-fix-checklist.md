@@ -32,9 +32,8 @@
 - 现状：alt = `Data Center Liquid Cooling`
 - 改为：`Energy Storage`
 
-### 6. 加热器页全角冒号
-- 位置：产品卡文本 `Rated Voltage：Customizable`
-- 改为：`Rated Voltage: Customizable`（半角冒号）
+### 6. 加热器页全角冒号 → 已转 Codex（见 🟡-12）
+- 2026-10-09 Muse 浏览器实测：全角冒号共 2 处（第 1 个 "800v 35kw" 卡、第 4 个 "400v 24kw" 卡的图像框小部件"描述"文本框）；程序化 fill 无法持久化（Elementor React 受控组件限制），需人工手动修改
 
 ## 🟡 Codex 工单（结构级，他做完 Muse 验收）
 
@@ -56,3 +55,8 @@
 ### 11. 重复链接确认
 - 现状：加热器页前 8 张卡全链 Q-3 页面，13–20 张全链 a3-series
 - 需 Peter 确认：是否刻意（如是，H3 标题需体现差异；如否，修正链接）
+
+### 12. 全角冒号手动修复（Muse 浏览器无法完成，转 Codex）
+- 位置：加热器页 Elementor 编辑 → 2 处"图像框"小部件的"描述"文本框（第 1 个 "800v 35kw" 卡下方、第 4 个 "400v 24kw" 卡下方）
+- 操作：人工用真实键盘/鼠标将 `Rated Voltage：Customizable` 的全角冒号改为半角 `Rated Voltage: Customizable`，点"更新"，清 LiteSpeed 缓存后前端验证
+- 原因：程序化 fill 后点更新会导致编辑器 UI 崩溃、修改不持久化（2026-10-09 实测）
