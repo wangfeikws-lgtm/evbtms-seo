@@ -86,7 +86,7 @@
   3. 第一阶段只读审计，不修改生产站
 - **是否涉及正式网站修改**：第一阶段否；第二阶段（应用优化）是 → 走 `WAITING_APPROVAL`
 - **Muse 审核意见**（2026-10-08）：无需 SERP 前置，可立即执行；与 T1/T2 同属技术基建，互不阻塞。
-- **Muse 督办**（2026-10-09）：请 Codex 今日认领并启动审计，**下班前交付报告**并转 REVIEW。→ 14:41 Codex 仍未认领，Muse 接管执行并于当日完成，报告见 REPORTS/T7-category-onpage-audit.md。整改应用需 Peter 批准。
+- **Muse 督办**（2026-10-09）：请 Codex 今日认领并启动审计，**下班前交付报告**并转 REVIEW。→ 14:41 Codex 仍未认领，Muse 接管执行并于当日完成，报告见 REPORTS/T7-category-onpage-audit.md。整改应用需 Peter 批准。→ Peter 2026-10-09 14:47 已批准执行。🟢 简单项（6 项，精确到字段）见 REPORTS/T7-fix-checklist.md，由 Peter 亲手在 WP 后台执行；🟡 结构项（5 项：H3 去重、页脚空 H2、面包屑、中文文件名、重复链接确认）派给 Codex，完成后转 REVIEW 由 Muse 验收。
 
 ## T8 — 制动电阻产品页 + 英文博客建设
 - **状态**：`BACKLOG`
