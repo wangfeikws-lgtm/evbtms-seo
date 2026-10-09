@@ -9,7 +9,17 @@
 - (a) **电驱三合一**：电机 + 电机控制器 + 减速器（如 accio.com 的 FAQ 所说 "combines the electric motor, motor controller, and reducer"）
 - (b) **电源三合一**：OBC + DC/DC + PDU（如 DPC 3-in-1 Power Control Unit）
 
-**这是本品类的最大风险点**：如果产品是 (b) 却按 (a) 的词去打（或反之），流量全是错的。在 Peter 确认产品到底是哪种集成之前，**T1/T3/T4 不得建生产页**，只有 T2（词本身已限定 OBC DC DC）在确认产品类型后可推进。
+**这是本品类的最大风险点**：如果产品是 (b) 却按 (a) 的词去打（或反之），流量全是错的。
+
+**2026-10-09 更新（已确认）**：Peter 提供了产品实物图（EVLINK 鳍片散热壳体 + 高低压接插件），并经法莱奥对标确认为 **(b) OBC + DC/DC + PDU 电源三合一**。
+法莱奥官方叫法：
+- "3-in-1 bi-directional Combo power electronics"（Mahindra 订单官方口径）
+- "On Board Power Supply 3-in-1 combo unit"（Pune 工厂口径）
+- 官网产品页标题："High Voltage On-Board Charger & DCDC converter Combo"
+- 行业报告通用名："OBC+DC/DC+PDU Three-in-One On-board Charger"
+- 对 EVLINK 的英文命名建议：**3-in-1 Onboard Power Supply (OBC + DC/DC + PDU)** ——不要用 "Three-in-One Controller" 做主名，英文里 controller 易被误解为电机控制器。
+
+T1/T3/T4 维持放弃/换词；T2 转为 GO（等真实规格）。
 
 ---
 
@@ -76,9 +86,9 @@
 - 支撑文章：后续可配一篇 "OBC vs DC/DC vs PDU: What Does 3-in-1 Integration Mean for EVs" 反链回落地页
 
 ### 9. Go / No-Go
-- **决策：有条件写（CONDITIONAL GO）**
-- 条件：Peter 确认产品为 (b) OBC+DC/DC+PDU 电源三合一，并提供真实规格
-- 拟定 H1：3-in-1 EV Power Controller (OBC + DC/DC + PDU) | EVLINK
+- **决策：GO（2026-10-09 产品类型已确认，等真实规格）**
+- 条件：Peter 提供真实规格（OBC 功率、DC/DC 功率、电压范围、冷却方式、IP 等级、认证）
+- 拟定 H1：3-in-1 Onboard Power Supply (OBC + DC/DC + PDU) for Electric Vehicles | EVLINK
 - 大纲（H2）：What Is a 3-in-1 Controller / Key Specifications / 3-in-1 vs Discrete: How to Choose / Applications (bus/truck/special vehicles) / FAQ / CTA
 
 ---
@@ -115,5 +125,5 @@
 | T4 | ❌ 放弃（并入 T2） | 被电商/内容农场占据 |
 
 **需 Peter 决定的事（阻断后续）：**
-1. 三合一产品到底是哪种集成：(a) 电机+电控+减速器，还是 (b) OBC+DC/DC+PDU？
+1. ~~三合一产品到底是哪种集成~~ ✅ 已确认：(b) OBC+DC/DC+PDU（2026-10-09，产品图 + 法莱奥对标）
 2. 真实规格清单（功率、电压、冷却、防护、认证、MOQ/交期）——无规格不得写正文、不得建生产页
