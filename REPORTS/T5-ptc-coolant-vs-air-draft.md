@@ -94,7 +94,7 @@ Air heaters warm cabin air directly through the HVAC ducts — simple and fast. 
 Yes. That is their decisive advantage for commercial EVs. Circulating warm coolant through the battery loop brings cells into their efficient temperature window, which improves both driving range and charging speed in cold weather.
 
 **How much range does winter heating consume?**
-Industry data indicates heating can consume 20–30% of battery energy in temperatures below 5 °C. Keeping the battery warm — not just the cabin — is the most effective way to protect winter range.
+Industry data indicates electric vehicles typically lose 10–30% of real-world range in temperatures below 5 °C, with heating loads a major contributor. Keeping the battery warm — not just the cabin — is the most effective way to protect winter range.
 
 **Which is better for electric buses?**
 For full-size electric buses, especially in cold climates, coolant heaters are generally the better fit: the cabin volumes are large, door openings dump heat constantly, and battery conditioning directly affects fleet uptime. Air heaters suit smaller vehicles and mild climates.
@@ -104,14 +104,16 @@ Yes, and many operators do. The heat pump handles efficient heating in mild cond
 
 ## Talk to a Manufacturer Before You Spec
 
-Catalog comparisons only go so far. The right heater depends on your vehicle type, voltage platform, cabin layout, and the coldest route on your network. As a manufacturer of high-voltage PTC heating systems for electric commercial vehicles — including units deployed on electric bus and hydrogen fuel cell bus fleets — we size and configure heaters against real operating conditions, not just datasheets.
+Catalog comparisons only go so far. The right heater depends on your vehicle type, voltage platform, cabin layout, and the coldest route on your network. As a manufacturer of high-voltage PTC heating systems for electric commercial vehicles, we size and configure heaters against real operating conditions, not just datasheets.
 
 Share your vehicle type, voltage platform, and operating climate, and we will recommend a heating configuration with honest trade-offs.
 
 ---
 
 ### Sources & notes (for transparency, not published)
-- Cabin heating energy share (20–30% below 5 °C), market shares, warm-up times: high-voltage PTC heater market research (Dataintelo, P.W. Consulting).
+- Warm-up times (2–5 min), market shares (air ~56% / liquid ~44%, liquid CAGR ~13%): high-voltage PTC heater market research (Dataintelo 2025).
+- Winter range loss (10–30% below 5 °C): independent cold-weather EV testing (RAC/Auto Express/US DOE via industry press 2025–2026).
+- Bus heating load (~13–14 kW for 12-m bus): peer-reviewed e-bus thermal studies (MDPI).
 - Air vs water PTC heating principles, heat pump COP vs cold-weather fade: peer-reviewed BEV thermal management literature (MDPI Energies).
-- Sizing bands and −15 °C threshold: commercial EV heater application guides; extended to coach/heavy-truck classes as engineering guideline.
-- Product references kept generic (no model numbers invented); case mentions (bus / hydrogen fuel cell bus fleets) per existing company assets — Peter to confirm wording before publish.
+- Sizing bands: commercial EV heater application guides; extended to coach/heavy-truck classes as engineering guideline.
+- Product references kept generic (no model numbers invented); fleet-deployment claim REMOVED 2026-10-09 (unverifiable) — restore only if Peter confirms real deployments.

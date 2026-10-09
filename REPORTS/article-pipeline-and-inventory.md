@@ -18,7 +18,7 @@
 
 | # | 文章 | 状态 | 位置 | 可否发布 |
 |---|------|------|------|----------|
-| T5 | PTC Coolant Heater vs Air Heater（~1900词） | READY（待 Peter 确认措辞） | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后 |
+| T5 | PTC Coolant Heater vs Air Heater（~1500词） | ✅ 措辞已定（Peter 授权 Muse 按数据核验，2026-10-09 修订 2 处） | REPORTS/T5-ptc-coolant-vs-air-draft.md | ✅ 可发布 |
 | T10 | 集成控制器如何给电动大巴热系统降本 | BACKLOG（待 SERP→大纲→Peter批→正文） | — | ❌ 未写完 |
 | T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | BACKLOG（同上） | — | ❌ 未写完 |
 | T8-1 | Brake Chopper Resistor in EVs: How It Works | 规划（缺真实规格，禁写） | — | ❌ |
