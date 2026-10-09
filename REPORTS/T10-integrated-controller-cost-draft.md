@@ -71,7 +71,7 @@ The most common objection to integration is loss of flexibility: "If I consolida
 - **CAN customization is retained.** CAN protocol, CAN ID, baud rate, and control logic can all be customized per project, so the unit adapts to the vehicle's existing network architecture rather than forcing a redesign.
 - **Compressor compatibility is open.** The controller can be adapted to the customer's own compressor; the customer provides the compressor's technical and motor parameters, and the drive is configured accordingly. You are not forced onto a single compressor SKU.
 - **Cooling is proven, not experimental.** SiC power devices plus the open-fin housing design handle thermal loads with natural air cooling — no liquid cold plate, no additional pump circuit to maintain.
-- **Environmental robustness is specified.** IP67 protection and an operating ambient range of −40℃ to +60℃ cover the climates electric buses actually operate in. The unit weighs 6 kg and mounts vertically.
+- **Environmental robustness is specified.** IP67 protection and an operating ambient range of −40℃ to +65℃ cover the climates electric buses actually operate in. The unit weighs 6 kg and mounts vertically.
 
 In short: what gets standardized is the duplicated infrastructure — housings, supplies, network nodes, cooling. What stays flexible is everything project-specific.
 
@@ -95,5 +95,5 @@ Catalog comparisons only go so far. The right controller depends on your vehicle
 - Integrated power electronics saving "up to 25%" vs discrete: IDTechEx — cited as analogy from power-electronics domain, NOT a measured thermal-controller figure.
 - TMC integration reducing discrete drivers and ECU failure rates: ResearchAndMarkets NEV Thermal Management Market Outlook (via GlobeNewswire summary).
 - Integration benefit checklist (fewer HV cables/connectors, less cooling redundancy, fewer housings, lower BOM, fewer leak points, simpler harness, manufacturing consistency): INFAC / Vicor integration case materials.
-- Product facts: 3-in-1 = compressor controller + refrigeration system ECU + HV PTC controller; 600V/800V platforms; HV input 250–750V / 600–1000V DC; LV 24V DC (16–32V); CAN 2.0 customizable (protocol/ID/baud/logic); IP67; natural air cooling (open-fin, ≥3.5 m/s at mounting point); SiC devices; 6 kg; vertical mounting; operating ambient −40℃~+60℃ (factory) — factory Q&A 2026-10-09.
+- Product facts: 3-in-1 = compressor controller + refrigeration system ECU + HV PTC controller; 600V/800V platforms; HV input 250–750V / 600–1000V DC; LV 24V DC (16–32V); CAN 2.0 customizable (protocol/ID/baud/logic); IP67; natural air cooling (open-fin, ≥3.5 m/s at mounting point); SiC devices; 6 kg; vertical mounting; operating ambient −40℃~+65℃ (official spec sheet 2026-10-09; supersedes verbal +60℃).
 - No invented power ratings, dimensions (beyond verified 6 kg), certifications, CAN frames, or customer/case claims. Cross-link URL is a placeholder for Codex to confirm at publish.
