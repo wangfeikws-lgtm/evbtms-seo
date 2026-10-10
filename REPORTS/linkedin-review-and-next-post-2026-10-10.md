@@ -48,3 +48,13 @@ Planning an integration review? Contact Peter Wang on LinkedIn with your non-con
 
 ## 配图制作记录
 内置imagegen生成并编辑。主提示：Three-in-One Thermal Control / Define the signals before evaluating the sample；三卡片对应Water temperature & target、Superheat、High-side pressure；EVLINK蓝绿白，底部Project-specific calibration is essential。编辑明确删除所有图表、曲线、坐标轴和模拟数据。最终素材原路径：C:/Users/Administrator/.codex/generated_images/01a11908-2d6b-7513-bed5-3680bf20180d/exec-01af5a5c-6a9e-4bc0-a2bb-033a7f17d570.png。
+
+## 正式发布收尾（覆盖前述尚未发布状态）
+- 状态：PUBLISHED / REVIEW。
+- 正式URL：https://www.linkedin.com/feed/update/urn:li:activity:7514545560205336577/
+- 最近动态去重：10月9日HVCH帖及7月29日两条旧帖，无本主题重复。
+- 已核验成功发布提示、英文正文、4个标签、配图、Alt和公开范围；进入正式URL保存截图。
+- 截图：REPORTS/linkedin-published-2026-10-10.png。
+- 图片上传调用长时间未返回，但恢复会话后图片已存在；没有重复上传或重复发布。Alt保存成功。
+- 匿名可见性、手机实机未独立验收；没有新增询盘/效果结论。
+- 互动建议：有工程问题评论时按产品资料回应，具体参数先审核项目输入。下一步复查自然触达与真实买家互动。

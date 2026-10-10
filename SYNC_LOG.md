@@ -51,3 +51,5 @@ Previous post verified; 18 impressions / 10 members reached / 1 profile viewer /
 - T10 9949 / T11 9951 published, REVIEW: https://evbtms.com/integrated-thermal-management-controller-cost/ and https://evbtms.com/ev-thermal-management-control-strategy/ .
 - Both public HTTP200, self-canonical, index; desktop and 390px preview evidence recorded. Distinct feature diagrams and SEO present; T11 mobile entry animation resolved by actual rendered-body inspection. No global settings modified.
 - T5 matching live topic 9941: https://evbtms.com/ptc-coolant-heater-vs-air-heater/ HTTP200. Existing automatic article, not a verbatim Muse draft; REVIEW for content mapping, no duplicate publication.
+## LinkedIn 正式发布收尾 — 2026-10-10执行包
+PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:7514545560205336577/ 。已完成近期去重、正文/原创配图/Alt预览、公开动态发布成功核验与正式URL截图。此前未发布状态由本记录覆盖。TASKS S-LI-20261010及对应报告已更新，勿重复发布。
