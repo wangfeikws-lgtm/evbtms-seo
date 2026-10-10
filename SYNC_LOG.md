@@ -59,3 +59,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - `OPERATING_SYSTEM.md` 已加入“每小时增量同步 SOP”：只读变化、READY 连续执行、最小回写、同轮推送、无变化保持安静。
 - 后续每轮不再重复通读全部历史；以公开结果、验收证据和 GitHub 提交作为交付标准。
 
+## 2026-10-10 Codex — 建立 Muse 每日计划派工入口
+
+- 新增 `DAILY_PLAN.md`：Muse 每日 08:15 前整理当天可执行任务，必须关联 `TASKS.md` 编号、输入、批准状态、验收标准和负责人。
+- Codex 08:30 去重校验并分配到对应子项目；整点领取临时新增；子项目只执行并回交证据。
+- 每日计划、执行、验收、回写形成闭环，避免子项目无任务或重复工作。
+
