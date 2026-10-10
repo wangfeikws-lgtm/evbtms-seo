@@ -208,3 +208,11 @@
 - **预期输出**：`REPORTS/T11-*.md`（大纲＋正文），WordPress 博客文章 1 篇
 - **验收标准**：同 T10
 - **是否涉及正式网站修改**：是（发布 → `WAITING_APPROVAL`）
+
+## S-IG-20261009 — Instagram HVCH三页轮播（跨项目协助）
+- **状态**：`BLOCKED`（2026-10-09）
+- **目标账号**：@evlinkautoparts。
+- **唯一阻塞**：Evlink Electronics Co., Ltd.主页的Meta Business Suite尚未关联该Instagram账号。
+- **唯一用户操作**：在该Business Suite绑定@evlinkautoparts并完成平台登录/验证。
+- **发布边界**：仅Instagram普通轮播，已有发布授权；不重复发布Facebook，不创建广告。
+- **证据与报告**：`REPORTS/2026-10-09-facebook-instagram-assistance-sync.md`。

@@ -30,3 +30,9 @@
 ## 2026-10-10 LinkedIn — REVIEW
 Previous post verified; 18 impressions / 10 members reached / 1 profile viewer / 0 reactions-comments-reposts. New original three-in-one English post and image prepared, NOT published. Sources: product brief + T10/T11. Report: REPORTS/linkedin-review-and-next-post-2026-10-10.md. Pending: recent-content duplicate check and publication preview. No profile edits, messages, invitations or ads.
 
+### 2026-10-09 +08 — Codex Facebook协助
+
+- Facebook：BTMS普通帖子已发布且核验，正式URL见REPORTS/2026-10-09-facebook-instagram-assistance-sync.md；未创建广告，不重复发布。
+- Instagram：当时Business Suite未关联@evlinkautoparts；该旧阻碍已由Instagram直接登录发布成功所取代，以上方2026-10-10 closeout为准。
+- T7：总中心已验收，不再修改。T10/T11：本协助聊天尚未发布，维持READY，不能报告完成。
+- 详细进度及操作边界见上述报告。
