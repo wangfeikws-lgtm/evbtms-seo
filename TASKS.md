@@ -126,7 +126,7 @@
 - **阻塞说明**：等 Muse 提供改写稿。Codex 不写英文正文、不复制老站原文。
 
 ## T5 — 英文博客《PTC Coolant Heater vs Air Heater》撰写
-- **状态**：`READY`
+- **状态**：`REVIEW`（2026-10-10 核对同主题正式文章9941已发布；非Muse初稿逐字版本，内容差异由Muse验收，见发布报告）
 - **任务目标**：按 SERP 简报撰写英文博客初稿（商用车选型指南角度）。
 - **优先级**：P1
 - **输入资料**：`REPORTS/serp-ptc-coolant-heater-vs-air-heater.md`（SERP 决策：GO）
@@ -180,7 +180,7 @@
 - **备注**：Muse 读完后会将关键信息记入长期记忆。Peter 要求：Muse 与 Codex 直接通过仓库协作，不经 Peter 传话。
 ## T10 — 三合一博客 1：《集成控制器如何给电动大巴热系统降本》
 
-- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
+- **状态**：`REVIEW`（2026-10-10 已正式发布；公开HTTP200、self-canonical、index；桌面/390px手机预览通过，报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，算账式内容：3 个独立控制器变 1 个三合一，省零部件/线束/接口，量化降本逻辑，CTA 导向三合一分类页和询盘。
 - **优先级**：P1（TH2 转博客，无品类词可抢，问题词内容是流量抓手）
 - **输入资料**：`REPORTS/three-in-one-thermal-strategy-review.md`；`REPORTS/product-brief-three-in-one-thermal-controller.md`
@@ -197,7 +197,7 @@
 
 ## T11 — 三合一博客 2：《电动汽车热管理控制策略：压缩机/膨胀阀/风机》
 
-- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
+- **状态**：`REVIEW`（2026-10-10 已正式发布；公开HTTP200、self-canonical、index；桌面/390px手机预览通过，报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，工程师干货：压缩机按水温调速、膨胀阀按过热度调开度、风机按冷凝压力启停（~13 bar），讲透三合一的控制逻辑，树立技术权威，CTA 导向询盘。
 - **优先级**：P1（工厂刚给的独家干货，竞品没有）
 - **输入资料**：`REPORTS/product-brief-three-in-one-thermal-controller.md`（控制逻辑表）

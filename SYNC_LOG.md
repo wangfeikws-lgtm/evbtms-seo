@@ -46,3 +46,8 @@ Previous post verified; 18 impressions / 10 members reached / 1 profile viewer /
 ### 2026-10-10 +08 — Instagram task-state correction
 - 拉取main并读取快速交付标准；S-IG-20261009从旧BLOCKED更正为REVIEW，对应已发布正式URL及报告。无需Peter绑定Business Suite；无新增帖子。
 
+
+### 2026-10-10 +08 — Codex article publication closeout
+- T10 9949 / T11 9951 published, REVIEW: https://evbtms.com/integrated-thermal-management-controller-cost/ and https://evbtms.com/ev-thermal-management-control-strategy/ .
+- Both public HTTP200, self-canonical, index; desktop and 390px preview evidence recorded. Distinct feature diagrams and SEO present; T11 mobile entry animation resolved by actual rendered-body inspection. No global settings modified.
+- T5 matching live topic 9941: https://evbtms.com/ptc-coolant-heater-vs-air-heater/ HTTP200. Existing automatic article, not a verbatim Muse draft; REVIEW for content mapping, no duplicate publication.
