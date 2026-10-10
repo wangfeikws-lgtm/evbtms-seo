@@ -126,7 +126,7 @@
 - **阻塞说明**：等 Muse 提供改写稿。Codex 不写英文正文、不复制老站原文。
 
 ## T5 — 英文博客《PTC Coolant Heater vs Air Heater》撰写
-- **状态**：`READY`
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：9941 已正式发布 https://evbtms.com/ptc-coolant-heater-vs-air-heater/ ；公开HTTP200、self-canonical、index、唯一 meta 描述；非 Muse 初稿逐字版本（自动文章），内容映射验收：主题/意图/CTA/FAQ 吻合，无编造参数、无认证声明；Peter 2026-10-10 交付指令覆盖发布批准）
 - **任务目标**：按 SERP 简报撰写英文博客初稿（商用车选型指南角度）。
 - **优先级**：P1
 - **输入资料**：`REPORTS/serp-ptc-coolant-heater-vs-air-heater.md`（SERP 决策：GO）
@@ -180,7 +180,7 @@
 - **备注**：Muse 读完后会将关键信息记入长期记忆。Peter 要求：Muse 与 Codex 直接通过仓库协作，不经 Peter 传话。
 ## T10 — 三合一博客 1：《集成控制器如何给电动大巴热系统降本》
 
-- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：线上为软化版——Codex 在 Peter 原批准后改写（8b59a4c1），Peter 待确认保留或恢复原版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，算账式内容：3 个独立控制器变 1 个三合一，省零部件/线束/接口，量化降本逻辑，CTA 导向三合一分类页和询盘。
 - **优先级**：P1（TH2 转博客，无品类词可抢，问题词内容是流量抓手）
 - **输入资料**：`REPORTS/three-in-one-thermal-strategy-review.md`；`REPORTS/product-brief-three-in-one-thermal-controller.md`
@@ -197,7 +197,7 @@
 
 ## T11 — 三合一博客 2：《电动汽车热管理控制策略：压缩机/膨胀阀/风机》
 
-- **状态**：`READY`（2026-10-09：Peter 已批准正文 → 待 Codex 发布；发布后转 REVIEW，Muse 验收）
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：线上为软化版——Codex 在 Peter 原批准后改写（8b59a4c1），Peter 待确认保留或恢复原版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，工程师干货：压缩机按水温调速、膨胀阀按过热度调开度、风机按冷凝压力启停（~13 bar），讲透三合一的控制逻辑，树立技术权威，CTA 导向询盘。
 - **优先级**：P1（工厂刚给的独家干货，竞品没有）
 - **输入资料**：`REPORTS/product-brief-three-in-one-thermal-controller.md`（控制逻辑表）
@@ -210,7 +210,7 @@
 - **是否涉及正式网站修改**：是（发布 → `WAITING_APPROVAL`）
 
 ## S-IG-20261009 — Instagram HVCH三页轮播（跨项目协助）
-- **状态**：`VERIFIED`（2026-10-10；Muse验收通过：正式链接可访问且文案一致、三页Alt与标签已核验、无重复发布、无Facebook跨帖；手机实机与匿名访问未独立验收，后续用七天数据跟进）。
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：正文/三页轮播Alt/6标签/正式URL/账号20帖无重复/FB不交叉发布均已核验；余项：匿名访问与手机实机未独立验收（7天互动回看计划已立）；勿重复发帖）
 - **目标账号**：@evlinkautoparts。
 - **正式链接**：https://www.instagram.com/p/DeRNYCPm5PC/
 - **发布时间**：2026-10-09 17:40:29 +08。
@@ -218,3 +218,11 @@
 - **发布边界**：只发布一条Instagram普通轮播，无Facebook重复发布、广告或账号绑定变更。
 - **验收余项**：手机实机与匿名访问未独立验收；详见报告，勿重复发帖。
 - **证据与报告**：`REPORTS/instagram-HVCH-published-2026-10-09.md`；旧协助报告保留作历史。
+
+## S-LI-20261010 — LinkedIn 三合一控制策略图文
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：报告核验发布成功提示、完整英文正文、4个标签、原创配图+Alt、公开范围；终版已删示意曲线（防误读为测试数据）；余项：匿名可见性、手机实机未独立验收，无询盘/效果结论）
+- **账号**：Peter Wang / wang-peter-evlink。
+- **正式URL**：https://www.linkedin.com/feed/update/urn:li:activity:7514545560205336577/
+- **验收**：成功发布提示、完整英文正文、4个标签、原创配图及Alt已核验；公开动态范围。匿名及手机实机未独立验收。
+- **报告**：REPORTS/linkedin-review-and-next-post-2026-10-10.md；截图 linkedin-published-2026-10-10.png。
+
