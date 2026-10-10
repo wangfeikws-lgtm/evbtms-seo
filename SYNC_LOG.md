@@ -27,4 +27,6 @@
 - 旧BLOCKED/未发布状态已被正式页面、正文和三页Alt核验覆盖；勿重复发布。
 - 详情：REPORTS/instagram-HVCH-published-2026-10-09.md。手机实机及匿名可见性未独立验收。
 
+## 2026-10-10 LinkedIn — REVIEW
+Previous post verified; 18 impressions / 10 members reached / 1 profile viewer / 0 reactions-comments-reposts. New original three-in-one English post and image prepared, NOT published. Sources: product brief + T10/T11. Report: REPORTS/linkedin-review-and-next-post-2026-10-10.md. Pending: recent-content duplicate check and publication preview. No profile edits, messages, invitations or ads.
 
