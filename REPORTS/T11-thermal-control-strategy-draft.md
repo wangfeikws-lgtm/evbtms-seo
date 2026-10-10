@@ -32,7 +32,7 @@ This three-way split is not just our product architecture. Peer-reviewed demand-
 
 **Why water temperature?** Because it is the most direct available proxy for the system's cooling demand. The water (or water-glycol) circuit is what actually carries heat away from the battery and power electronics; its temperature tells you, moment by moment, how much cooling the system is asking for. Regulating against it keeps cooling output proportional to demand: full speed only when the system genuinely needs full cooling.
 
-Compared with simple on/off control, continuous speed modulation gives the controller a way to match compressor output more closely to current demand. The actual energy and durability effect depends on the compressor, refrigerant circuit, calibration, and duty cycle.
+The alternative — and the mistake this loop exists to prevent — is on/off cycling: running the compressor at full speed until some threshold trips, then shutting it off, then restarting. Every start draws an inrush current, wears the bearings, and dumps a slug of unconditioned refrigerant into the circuit. Continuous speed modulation avoids all three. The energy saving is real but almost secondary; the reliability argument alone justifies the loop.
 
 **The engineering takeaway:** size the compressor for the worst case, but let the water-temperature loop decide how much of that capacity to use at any moment. Capacity on demand, not capacity by default.
 
@@ -49,15 +49,17 @@ Compared with simple on/off control, continuous speed modulation gives the contr
 
 **Industry practice:** holding superheat around 5 K at the evaporator outlet is a common target in published control research (MDPI demand-based control designs use exactly this value). Treat it as a starting point, not a specification — the right target is calibrated per project, per refrigerant, and per operating envelope.
 
-Coordinating compressor speed and valve opening in the same controller also makes it easier to use a consistent timing base and calibration workflow. The final control method should still be validated for the selected compressor, refrigerant, valve, and operating envelope.
+**The advanced technique worth knowing:** the best implementations don't rely on superheat feedback alone. A known approach (described in patent CN103245154B for automotive electronic expansion valve control) uses compressor speed as a feedforward signal to pre-adjust the valve opening, then layers superheat feedback on top for fine trimming. When the compressor ramps up, the valve already knows more refrigerant is coming and opens preemptively, instead of waiting for superheat to drift and then correcting. The feedback loop then only handles small residuals — smaller corrections, less oscillation, tighter control.
+
+This is also the clearest technical argument for putting the compressor and EXV loops in the same controller: feedforward needs the compressor's speed signal in real time. Across two separate controllers, that signal travels over CAN — with latency, with message scheduling, with calibration split across two teams. Inside one controller, it is shared memory. The loop coordination that makes feedforward work is an architectural property, not just a software feature.
 
 ## Loop 3 — Fan Follows Condenser Pressure
 
-**The logic:** the condenser fan is controlled against the condenser high-side pressure. The start/stop pressure points and the speed curve are calibrated per vehicle project and refrigerant system.
+**The logic:** the condenser fan is controlled against the condenser high-side pressure. As an example, the fan may start when high-side pressure reaches about 13 bar; the start/stop pressure points and the speed curve are calibrated per vehicle project.
 
-**Why pressure?** High-side pressure is a direct control input for the condenser side of the refrigerant circuit. Using it allows the fan-speed map to respond to changing operating conditions according to the vehicle's calibrated control strategy.
+**Why pressure, not temperature?** High-side pressure directly reflects the condensing load — how much heat the condenser must reject right now. It responds faster than temperature sensors, which lag behind the thermal mass of the heat exchanger. Pressure is the leading indicator; temperature is the trailing one. Controlling the fan from pressure means the fan reacts to the load as it develops, not after the heat has already built up.
 
-**The calibration space:** real projects set their own start and stop pressures and fan-speed curves according to the refrigerant, condenser sizing, ambient conditions, and vehicle requirements. This is project calibration work, not a universal fixed threshold.
+**The calibration space:** the example 13 bar figure is exactly that — an example. Real projects set their own start and stop pressures and their own fan speed curves against the vehicle's condenser sizing, ambient conditions, and noise requirements. A bus operating in 45℃ ambient needs a different pressure map than the same hardware in a temperate climate. This is normal project calibration work, and any serious controller supplier should support it.
 
 Note the pattern across all three loops: each actuator listens to the variable that most directly represents its own job — the compressor to cooling demand (water temperature), the valve to refrigerant state (superheat), the fan to heat-rejection load (condenser pressure). No loop is guessing from a proxy two steps removed.
 
@@ -69,11 +71,23 @@ The three loops are coupled, and that coupling is the whole argument:
 - EXV opening changes → evaporating pressure shifts → condensing pressure follows → the fan loop must respond.
 - Fan speed changes → condensing pressure moves → compressor discharge conditions shift → the compressor loop sees a different operating point.
 
-Every loop's output affects the conditions seen by the other loops. Separate controllers can coordinate over the vehicle network, while an integrated controller can use a common timing base and a unified calibration workflow. Which architecture is appropriate depends on the vehicle program and its functional-safety and service requirements.
+Every loop's output is another loop's disturbance. When the loops live in separate controllers, they coordinate over the vehicle CAN bus: messages queued, latencies of tens of milliseconds, calibration split across suppliers who each tune their own loop in isolation. It can be made to work — the industry has done it for years — but the coordination is always fighting the architecture.
 
-Inside one integrated controller, the loops can share system inputs and run on a unified timing base. There is also a system-cost dimension to the same consolidation — fewer duplicated housings and external interfaces — which we discuss in our companion article on integrated thermal management controller cost.
+Inside one integrated controller, the loops share sensor data directly, run on a unified timing base, and the feedforward paths (like compressor speed into the EXV loop) cost nothing in latency. The control strategy and the hardware architecture reinforce each other instead of working around each other. There is also a system-cost dimension to the same consolidation — fewer housings, harnesses, and validation campaigns — which we break down in our companion piece on [how an integrated thermal management controller cuts system cost](/blog/integrated-thermal-controller-cost/).
 
 And the flexibility objection is answered the same way as ever: CAN protocol, CAN IDs, baud rate, and the control logic itself remain customizable per project, and the controller adapts to the customer's own compressor given its technical and motor parameters. Integration standardizes the duplicated infrastructure, not the project-specific decisions.
+
+## Three Control Mistakes That Waste Energy
+
+In our experience supporting vehicle integrations, the same three control errors account for most of the wasted energy in poorly tuned thermal systems. They are worth listing because each one maps directly to a missing or mistuned loop:
+
+**1. Expansion valve hunting.** The valve opening oscillates — opening, overshooting, closing, undershooting — instead of settling. The signature cause is a superheat loop that was never properly tuned: too aggressive, and it rings; too sluggish, and superheat drifts into the danger zones described above. Hunting wastes energy twice: the compressor works against a moving target, and the evaporator never operates at its efficient point.
+
+**2. Compressor short-cycling.** The compressor bangs between full speed and off, sometimes several times a minute. The root cause is the absence of continuous speed control — or a water-temperature loop that was never implemented, leaving the system with only crude on/off thresholds. Every start costs an inrush current spike and mechanical wear; the fix is the proportional speed regulation Loop 1 describes.
+
+**3. Fan always-on.** The condenser fan runs at full speed regardless of load — in winter, at idle, at night. The cause is the absence of pressure-based control: without Loop 3, the fan has no load signal to follow, so it defaults to the safe-but-wasteful option of running flat out. On a bus, a condenser fan at full speed is a kilowatt-scale continuous drain that buys nothing most of the time.
+
+If you recognize any of these in your current system, the fix is rarely a bigger component. It is usually the control loop that was never closed.
 
 ---
 

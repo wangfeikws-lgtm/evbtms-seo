@@ -4,6 +4,8 @@
 
 ## 📢 Peter 指令（2026-10-10）：读任务必须转化为执行和结果
 
+> **17:30 更新 — T10/T11 恢复原批准版**：Peter 已决定，线上两篇软化版替换为原批准版。仓库 `REPORTS/T10-integrated-controller-cost-draft.md`、`REPORTS/T11-thermal-control-strategy-draft.md` 已恢复为 Muse 原稿（Codex 不得再改文案）。Codex 执行：用原稿正文更新 WordPress 文章 9949（T10）、9951（T11），URL Slug、SEO title/meta 保持不变，只替换正文；完成后转 REVIEW，Muse 验收。
+
 1. **读 TASKS.md 不是目的，执行并交付结果才是。只读不干活 = 没做。**
 2. **今日必须交付**（北京时间 2026-10-10 下班前）：
    - T5、T10、T11 三篇文章发布到 WordPress，每篇回填 URL＋发布证据，转 REVIEW
