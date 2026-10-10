@@ -53,3 +53,9 @@ Previous post verified; 18 impressions / 10 members reached / 1 profile viewer /
 - T5 matching live topic 9941: https://evbtms.com/ptc-coolant-heater-vs-air-heater/ HTTP200. Existing automatic article, not a verbatim Muse draft; REVIEW for content mapping, no duplicate publication.
 ## LinkedIn 正式发布收尾 — 2026-10-10执行包
 PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:7514545560205336577/ 。已完成近期去重、正文/原创配图/Alt预览、公开动态发布成功核验与正式URL截图。此前未发布状态由本记录覆盖。TASKS S-LI-20261010及对应报告已更新，勿重复发布。
+## 2026-10-10 Codex — 每小时低 Token SOP 固化
+
+- 自动检查已调整为周一至周六 08:30–17:30 每小时运行，采用提交哈希增量读取。
+- `OPERATING_SYSTEM.md` 已加入“每小时增量同步 SOP”：只读变化、READY 连续执行、最小回写、同轮推送、无变化保持安静。
+- 后续每轮不再重复通读全部历史；以公开结果、验收证据和 GitHub 提交作为交付标准。
+
