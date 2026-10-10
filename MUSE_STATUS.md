@@ -20,13 +20,13 @@
 | 任务 | 状态 | 说明 |
 |------|------|------|
 | T0 冒烟测试 | VERIFIED | 2026-10-08 验收通过 |
-| T1 noindex 排查 | READY | P0，待 Codex 认领（第一阶段只读审计） |
-| T2 失败资源排查 | READY | P0，待 Codex 认领（第一阶段只读排查） |
+| T1 noindex 排查 | VERIFIED | 2026-10-09 验收通过（22 真实 URL 全清单） |
+| T2 失败资源排查 | VERIFIED | 2026-10-09 验收通过（22 资源全清单＋原因分类） |
 | T3 长尾词落地页 | BACKLOG | 已拆 T3a（Muse：SERP 验证）/ T3b（Codex：建页，需 Peter 批准发布） |
 | T4 老站迁移改写 | BACKLOG | 待 Muse 改写稿；Codex 不写英文正文 |
-| T5 英文博客撰写 | READY | 初稿已完成，待 Peter 确认内容 → Codex 发布（WAITING_APPROVAL） |
+| T5 英文博客撰写 | VERIFIED | 2026-10-10 验收通过（9941 已发布上线） |
 | T6 Google Ads 投放 | BACKLOG | 账户验证已通过 ✅；拆 T6A（下周 3 品类 $32/天）/ T6B（制动电阻 $18/天，页上线后） |
-| T7 分类页 on-page 审计 | READY | P1，待 Codex 认领（3 个分类页逐页审计） |
+| T7 分类页 on-page 审计 | VERIFIED | 2026-10-09 验收通过；5 项生产修复已执行，结构项转 Codex |
 | T8 制动电阻建站 | BACKLOG | 4 级门禁：SERP✅ → 待 Peter 确认 EV-only + 规格 → Muse 大纲 → Peter 批准 → Codex 执行 |
 | T9 Codex 背景同步 | VERIFIED | 2026-10-08 验收通过 |
 
