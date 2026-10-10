@@ -210,9 +210,11 @@
 - **是否涉及正式网站修改**：是（发布 → `WAITING_APPROVAL`）
 
 ## S-IG-20261009 — Instagram HVCH三页轮播（跨项目协助）
-- **状态**：`BLOCKED`（2026-10-09）
+- **状态**：`REVIEW`（2026-10-10；已发布，待Muse验收）。
 - **目标账号**：@evlinkautoparts。
-- **唯一阻塞**：Evlink Electronics Co., Ltd.主页的Meta Business Suite尚未关联该Instagram账号。
-- **唯一用户操作**：在该Business Suite绑定@evlinkautoparts并完成平台登录/验证。
-- **发布边界**：仅Instagram普通轮播，已有发布授权；不重复发布Facebook，不创建广告。
-- **证据与报告**：`REPORTS/2026-10-09-facebook-instagram-assistance-sync.md`。
+- **正式链接**：https://www.instagram.com/p/DeRNYCPm5PC/
+- **发布时间**：2026-10-09 17:40:29 +08。
+- **结果**：通过已登录Instagram直接发布，正文、三页轮播Alt及正式页面已核验；旧Business Suite未关联不再阻碍该帖，不需要用户绑定。
+- **发布边界**：只发布一条Instagram普通轮播，无Facebook重复发布、广告或账号绑定变更。
+- **验收余项**：手机实机与匿名访问未独立验收；详见报告，勿重复发帖。
+- **证据与报告**：`REPORTS/instagram-HVCH-published-2026-10-09.md`；旧协助报告保留作历史。

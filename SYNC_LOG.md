@@ -42,3 +42,7 @@ Previous post verified; 18 impressions / 10 members reached / 1 profile viewer /
 - 完成三合一自然帖英文草稿与配图需求，基于本地Muse product brief v2；远端最新版本因SSH认证与公开抓取失败未确认。
 - 报告：REPORTS/facebook-closeout-2026-10-10.md；草稿：REPORTS/facebook-three-in-one-draft-2026-10-10.md。
 - 未投广告、未发私信、未排期。实时验收待浏览器控制恢复；main推送此前审批拒绝，未绕过。
+
+### 2026-10-10 +08 — Instagram task-state correction
+- 拉取main并读取快速交付标准；S-IG-20261009从旧BLOCKED更正为REVIEW，对应已发布正式URL及报告。无需Peter绑定Business Suite；无新增帖子。
+
