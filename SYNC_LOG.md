@@ -36,3 +36,9 @@ Previous post verified; 18 impressions / 10 members reached / 1 profile viewer /
 - Instagram：当时Business Suite未关联@evlinkautoparts；该旧阻碍已由Instagram直接登录发布成功所取代，以上方2026-10-10 closeout为准。
 - T7：总中心已验收，不再修改。T10/T11：本协助聊天尚未发布，维持READY，不能报告完成。
 - 详细进度及操作边界见上述报告。
+
+### 2026-10-10 +08 — Codex Facebook收尾
+- 原BTMS帖历史正文/配图证据已复核，未重复发布；当前公开抓取失败，互动基线未知，不记录0。
+- 完成三合一自然帖英文草稿与配图需求，基于本地Muse product brief v2；远端最新版本因SSH认证与公开抓取失败未确认。
+- 报告：REPORTS/facebook-closeout-2026-10-10.md；草稿：REPORTS/facebook-three-in-one-draft-2026-10-10.md。
+- 未投广告、未发私信、未排期。实时验收待浏览器控制恢复；main推送此前审批拒绝，未绕过。
