@@ -20,3 +20,11 @@
 - 状态变化：Windows沙箱启动故障已修复；浏览器页面读取仍存在偶发超时。LinkedIn已进入发帖流程，等待最终发布结果与链接后补记。
 - 交接给：Muse可直接审阅今日目录中的策略、事实边界与缺口，避免重复调研或重写。
 - 需要Peter：LinkedIn最终公开发布按界面行动时确认；YouTube需真实产品图和Logo；阿里商品上线前需补齐真实规格、证书、MOQ、交期和质保。
+
+### 2026-10-10 +08 — Instagram closeout
+- PUBLISHED / REVIEW：@evlinkautoparts HVCH三页轮播，2026-10-09 17:40:29 +08。
+- https://www.instagram.com/p/DeRNYCPm5PC/
+- 旧BLOCKED/未发布状态已被正式页面、正文和三页Alt核验覆盖；勿重复发布。
+- 详情：REPORTS/instagram-HVCH-published-2026-10-09.md。手机实机及匿名可见性未独立验收。
+
+
