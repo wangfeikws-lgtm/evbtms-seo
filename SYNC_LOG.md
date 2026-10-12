@@ -80,3 +80,5 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Live account20 posts, newest old HVCH; no duplicate created. BTMS source recovered and three1080x1350 text slides delivered for review. No new READY publication task in current plan; no post published.
 - REPORTS/instagram-BTMS-review-package-2026-10-12.md; local assets E:\codex项目\instagram\review-package-BTMS-2026-10-12. Caption/Alt/CTA included; actual upload preview pending.
 
+## 2026-10-12 LinkedIn — PUBLISHED / REVIEW
+发布三张Peter产品图配英文样件评估五项输入清单；正式URL https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/ 。公开范围/正文/三图/标签核验；390px正文预览通过，图片移动完整视觉验收待补。10月10日帖14回应/144展示。报告已回写，勿重复发布。
