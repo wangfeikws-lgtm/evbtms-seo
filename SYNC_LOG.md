@@ -75,3 +75,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Peter确认电脑通常08:40已开机，首次读取和派工由08:30改为08:45。
 - 后续增量检查为10:45、12:45、14:45、16:45；17:30保留独立收尾。
 
+
+### 2026-10-12 +08 — Instagram review package
+- Live account20 posts, newest old HVCH; no duplicate created. BTMS source recovered and three1080x1350 text slides delivered for review. No new READY publication task in current plan; no post published.
+- REPORTS/instagram-BTMS-review-package-2026-10-12.md; local assets E:\codex项目\instagram\review-package-BTMS-2026-10-12. Caption/Alt/CTA included; actual upload preview pending.
+
