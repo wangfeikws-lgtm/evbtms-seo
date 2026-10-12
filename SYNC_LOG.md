@@ -80,3 +80,22 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - WAITING_APPROVAL：未找到针对该新帖的具体发布批准，未发布/排期。英文终稿、Alt及原创1200×1200品牌文字图已完成，视觉核验无文字溢出。
 - 成品：REPORTS/facebook-three-in-one-review-2026-10-12/。只普通有机帖子，禁止广告/Boost/预算/私信。
 
+### 2026-10-12 +08 — Instagram review package
+- Live account20 posts, newest old HVCH; no duplicate created. BTMS source recovered and three1080x1350 text slides delivered for review. No new READY publication task in current plan; no post published.
+- REPORTS/instagram-BTMS-review-package-2026-10-12.md; local assets E:\codex项目\instagram\review-package-BTMS-2026-10-12. Caption/Alt/CTA included; actual upload preview pending.
+
+## 2026-10-12 LinkedIn — PUBLISHED / REVIEW
+发布三张Peter产品图配英文样件评估五项输入清单；正式URL https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/ 。公开范围/正文/三图/标签核验；390px正文预览通过，图片移动完整视觉验收待补。10月10日帖14回应/144展示。报告已回写，勿重复发布。
+
+### 2026-10-12 +08 — Instagram product-photo publication
+- S-IG-20261012 REVIEW：BTMS原图6087衍生封面+两页信息卡，已按Peter直接授权发布；https://www.instagram.com/p/DeYevQglE0t/，13:26:53 +08。
+- 正文、CTA、六标签、三页Alt、AI标签与正式URL核验；旧审核包被本次发布版替代，不再单独发布。REPORTS/instagram-BTMS-published-2026-10-12.md。
+
+### LinkedIn mobile closeout 2026-10-12
+390x844 three images visually verified and screenshot archived locally. Report updated. Peter approved screenshot/report upload to wangfeikws-lgtm/evbtms-seo on 2026-10-12; no duplicate post.
+
+### 2026-10-12 — Codex website report synchronization
+- Peter直接批准本次仓库合并同步；保留本地Facebook记录与远端LinkedIn/Instagram/T3a记录，不强推。
+- 上午9955已由Peter发布，公开HTTP/SEO/图/5内链验收报告入仓；视觉验收未完成，不重复发布。
+- HVCH仍DOING研究断点，未成稿；T7仅范围复核、未新增生产修改；T3b排期/规格清单提交REVIEW，已按新T3a裁决更新，不建生产页。
+- 本条仅同步实际状态，不把未完成项、配置ACTIVE或任务转达计为交付。

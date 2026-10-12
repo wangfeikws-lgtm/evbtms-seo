@@ -4,7 +4,7 @@
 
 ## 📢 Peter 指令（2026-10-10）：读任务必须转化为执行和结果
 
-> **17:30 更新 — T10/T11 恢复原批准版**：Peter 已决定，线上两篇软化版替换为原批准版。仓库 `REPORTS/T10-integrated-controller-cost-draft.md`、`REPORTS/T11-thermal-control-strategy-draft.md` 已恢复为 Muse 原稿（Codex 不得再改文案）。Codex 执行：用原稿正文更新 WordPress 文章 9949（T10）、9951（T11），URL Slug、SEO title/meta 保持不变，只替换正文；完成后转 REVIEW，Muse 验收。
+> **17:30 更新 — T10/T11 恢复原批准版**：Peter 已决定，线上两篇软化版替换为原批准版。仓库 `REPORTS/T10-integrated-controller-cost-draft.md`、`REPORTS/T11-thermal-control-strategy-draft.md` 已恢复为 Muse 原稿（Codex 不得再改文案）。✅ 已完成（2026-10-12）：Codex 三日未执行，Muse 接管完成恢复——WP 9949/9951 正文已换回原批准版（只换正文，Slug、SEO title/meta 不变），Muse 独立复验通过（Dataintelo 市场段、Validation cost、13 bar、CN103245154B 均在位，两页 HTTP 200、互链正确）。
 
 1. **读 TASKS.md 不是目的，执行并交付结果才是。只读不干活 = 没做。**
 2. **今日必须交付**（北京时间 2026-10-10 下班前）：
@@ -182,7 +182,7 @@
 - **备注**：Muse 读完后会将关键信息记入长期记忆。Peter 要求：Muse 与 Codex 直接通过仓库协作，不经 Peter 传话。
 ## T10 — 三合一博客 1：《集成控制器如何给电动大巴热系统降本》
 
-- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：线上为软化版——Codex 在 Peter 原批准后改写（8b59a4c1），Peter 待确认保留或恢复原版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：Codex 曾在 Peter 批准后改写为软化版（8b59a4c1）；Peter 2026-10-10 决定恢复原批准版，Muse 于 2026-10-12 接管执行恢复并复验通过，线上现为原批准版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，算账式内容：3 个独立控制器变 1 个三合一，省零部件/线束/接口，量化降本逻辑，CTA 导向三合一分类页和询盘。
 - **优先级**：P1（TH2 转博客，无品类词可抢，问题词内容是流量抓手）
 - **输入资料**：`REPORTS/three-in-one-thermal-strategy-review.md`；`REPORTS/product-brief-three-in-one-thermal-controller.md`
@@ -199,7 +199,7 @@
 
 ## T11 — 三合一博客 2：《电动汽车热管理控制策略：压缩机/膨胀阀/风机》
 
-- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：线上为软化版——Codex 在 Peter 原批准后改写（8b59a4c1），Peter 待确认保留或恢复原版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
+- **状态**：`VERIFIED`（2026-10-10 Muse 验收通过：已正式发布；Muse 独立核验公开HTTP200、self-canonical、index、唯一 meta 描述；技术参数取自产品简报 v2（-40℃~+65℃、6kg±10%、16–32V DC、CAN 2.0、IP67），无认证声明、无编造阈值；CTA 链接齐全。版本说明：Codex 曾在 Peter 批准后改写为软化版（8b59a4c1）；Peter 2026-10-10 决定恢复原批准版，Muse 于 2026-10-12 接管执行恢复并复验通过，线上现为原批准版。Peter 2026-10-10 交付指令覆盖本次发布。报告见 REPORTS/T10-T11-published-2026-10-10.md）
 - **任务目标**：英文博客，工程师干货：压缩机按水温调速、膨胀阀按过热度调开度、风机按冷凝压力启停（~13 bar），讲透三合一的控制逻辑，树立技术权威，CTA 导向询盘。
 - **优先级**：P1（工厂刚给的独家干货，竞品没有）
 - **输入资料**：`REPORTS/product-brief-three-in-one-thermal-controller.md`（控制逻辑表）
@@ -229,8 +229,39 @@
 - **报告**：REPORTS/linkedin-review-and-next-post-2026-10-10.md；截图 linkedin-published-2026-10-10.png。
 
 
+## W-BTMS-20261012 — coolant-loop air removal
+- 状态：REVIEW（Peter已发布9955；技术公开验收完成，桌面/手机视觉未独立验收）。
+- URL：https://evbtms.com/btms-coolant-loop-air-removal/
+- HTTP200、index、self-canonical、唯一H1；SEO标题/描述与特色图9954及alt已核验，5个正文内链HTTP200。
+- 报告：REPORTS/btms-air-removal-published-2026-10-12.md。不得重复发布。
+
+## W-HVCH-20261012 — warm-up response validation
+- 状态：DOING（研究断点，未成稿/草稿/发布；本时段未完成）。
+- 报告：REPORTS/hvch-warm-up-response-2026-10-12.md。
+
+## T3b — page schedule and specification preparation
+- 状态：REVIEW（仅排期与规格清单；未新建生产页）。
+- 已复用Muse最新T3a裁决，R4不建独立页、并入R1；逐页仍需真实规格和生产批准。
+- 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
+
+## T7 — application checkpoint supplement
+- 状态：待执行/复核，不能把历史审计VERIFIED当本次结构修改完成。
+- 本次没有新增生产修改；旧清单须当前实况复核后逐项执行，URL/重定向/删除图片不在本轮范围。
+- 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
+
 ## S-FB-20261012 — 三合一Facebook普通主页帖子
 - **状态**：WAITING_APPROVAL（终稿与配图完成；尚无该新帖具体发布批准）。
 - **成品**：REPORTS/facebook-three-in-one-review-2026-10-12/。
 - **待验收**：正文/图片批准后，近期去重、普通帖发布、公开URL及截图核验。
+## S-LI-20261012 — 产品图样件评估清单
+- **状态**：`VERIFIED`（2026-10-12 Muse 验收通过：Muse 独立公开抓取正式页核验，英文正文、五项样件输入（电气/压缩机/安装/CAN/验证）、4 个标签与报告一致；无编造参数、无认证声明、无量化节能/可靠性声明，未重复 10-10 控制逻辑帖；余项：移动端图片视觉完整性未独立验收、截图未归档仓库（报告已如实披露 EPERM），勿重复发帖）
+- URL：https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/
+- 报告：REPORTS/linkedin-published-2026-10-12.md。
+
+## S-IG-20261012 — BTMS真实产品图轮播
+- **状态**：REVIEW（已发布，待验收）。
+- Peter在Instagram聊天明确批准使用公司图片、润色场景、上传发布。
+- 正式URL：https://www.instagram.com/p/DeYevQglE0t/；2026-10-12 13:26:53 +08。
+- 三页图片、全文、六标签、逐页Alt已核验；AI标注ON；无Facebook同步。
+- 报告：REPORTS/instagram-BTMS-published-2026-10-12.md；手机实机/匿名访问未独立验收。
 
