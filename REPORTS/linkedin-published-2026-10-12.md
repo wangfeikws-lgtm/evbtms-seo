@@ -11,3 +11,6 @@
 上一条7514545560205336577在本轮近期动态显示14次回应、144次展示；10月9日旧帖36次展示。非询盘效果，不推断点赞人群质量。
 互动建议：回复公开工程问题前核对型号资料，具体项目引导非保密输入；不主动私信或加人。
 下一步：下轮记录自然触达、主页访问与真实工程评论，补足移动图片视觉证据；勿重复发布本帖。
+
+## Mobile image evidence closeout — 2026-10-12
+Exact post 7515219048998264832 checked at 390x844. Text and all three product views (4,3,5 order) visually verified in the one-large/two-small grid. Screenshot: linkedin-mobile-three-images-2026-10-12.png. Supersedes missing mobile-image visual evidence. Responsive preview, not physical-phone test. No duplicate publication. Peter explicitly approved uploading this screenshot and verification record to wangfeikws-lgtm/evbtms-seo on 2026-10-12.
