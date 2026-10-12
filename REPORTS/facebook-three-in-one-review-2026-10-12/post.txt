@@ -1,0 +1,14 @@
+Three thermal control functions. One integrated unit.
+
+EVLINK’s Three-in-One Thermal Management Controller combines the compressor controller, refrigeration system ECU and high-voltage PTC controller for 600 V / 800 V commercial-vehicle platforms.
+
+The control logic links compressor speed to system water temperature, expansion valve opening to superheat, and condenser fan operation to high-side pressure. Fan thresholds and speed curves are calibrated for the project.
+
+Using your own compressor? Adaptation requires its technical and motor parameters. CAN protocol, IDs, baud rate and control logic can also be customized for the vehicle program.
+
+Explore the controller:
+https://evbtms.com/products/three-in-one-controller/
+
+For a project discussion, share your vehicle platform, voltage and compressor parameters.
+
+#ThermalManagement #ElectricBus #CommercialEV

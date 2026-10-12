@@ -228,3 +228,9 @@
 - **验收**：成功发布提示、完整英文正文、4个标签、原创配图及Alt已核验；公开动态范围。匿名及手机实机未独立验收。
 - **报告**：REPORTS/linkedin-review-and-next-post-2026-10-10.md；截图 linkedin-published-2026-10-10.png。
 
+
+## S-FB-20261012 — 三合一Facebook普通主页帖子
+- **状态**：WAITING_APPROVAL（终稿与配图完成；尚无该新帖具体发布批准）。
+- **成品**：REPORTS/facebook-three-in-one-review-2026-10-12/。
+- **待验收**：正文/图片批准后，近期去重、普通帖发布、公开URL及截图核验。
+

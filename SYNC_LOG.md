@@ -75,3 +75,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Peter确认电脑通常08:40已开机，首次读取和派工由08:30改为08:45。
 - 后续增量检查为10:45、12:45、14:45、16:45；17:30保留独立收尾。
 
+
+## 2026-10-12 Facebook 三合一审核包
+- WAITING_APPROVAL：未找到针对该新帖的具体发布批准，未发布/排期。英文终稿、Alt及原创1200×1200品牌文字图已完成，视觉核验无文字溢出。
+- 成品：REPORTS/facebook-three-in-one-review-2026-10-12/。只普通有机帖子，禁止广告/Boost/预算/私信。
+
