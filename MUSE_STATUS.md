@@ -1,7 +1,7 @@
 # MUSE_STATUS.md — Muse 协作状态
 
 - 状态：CONNECTED
-- 最后检查时间：2026-10-12 09:25 +08
+- 最后检查时间：2026-10-12 16:55 +08
 - 当前待验收任务：无
 - 协作方式：GitHub 唯一工作台（BACKLOG→READY→DOING→REVIEW→VERIFIED→DONE）
 - 双轨作战：A 轨 Google Ads（即时询盘，T6）+ B 轨 SEO（收录与流量，T1–T5、T7、T8）
@@ -30,6 +30,9 @@
 | T8 制动电阻建站 | BACKLOG | 4 级门禁：SERP✅ → 待 Peter 确认 EV-only + 规格 → Muse 大纲 → Peter 批准 → Codex 执行 |
 | T9 Codex 背景同步 | VERIFIED | 2026-10-08 验收通过 |
 | S-LI-20261012 LinkedIn 样件评估清单 | VERIFIED | 2026-10-12 Muse 独立核验正式页通过；移动端图片视觉/截图归档为余项 |
+| S-IG-20261012 Instagram BTMS 产品图轮播 | VERIFIED | 2026-10-12 Muse 经 Instagram 接口独立核验正式帖通过（公开可见/正文/6 标签/21 帖无重复/三页内容与 Alt 描述一致）；Alt 原文、AI 标注、FB 未同步为报告自述余项，手机实机未验收 |
+| W-BTMS-20261012 BTMS 冷却回路排气博客 | VERIFIED | 2026-10-12 Muse 独立公开核验 9955 通过（HTTP200/index/canonical/唯一 H1/标题描述/特色图/5 内链）；桌面手机视觉未独立验收为余项 |
+| T3b 建页排期与规格准备 | VERIFIED | 2026-10-12 Muse 验收通过（规划稿与 T3a 裁决一致，规格清单齐全）；不构成生产页发布批准 |
 
 ## 分工边界（避免重复工作）
 - **Muse**：SERP 验证、搜索意图判断、英文文案撰写/改写、任务验收、策略方向；WP 后台只读抽查（为规划拉一手数据，**不等同于** T1/T2/T7 的正式审计报告）。

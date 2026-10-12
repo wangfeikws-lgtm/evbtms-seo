@@ -230,7 +230,7 @@
 
 
 ## W-BTMS-20261012 — coolant-loop air removal
-- 状态：REVIEW（Peter已发布9955；技术公开验收完成，桌面/手机视觉未独立验收）。
+- 状态：`VERIFIED`（2026-10-12 Muse 验收通过：Muse 独立公开核验正式页 HTTP200、index、self-canonical、唯一 H1、SEO 标题/描述与报告一致、特色图 9954 可达、5 个正文内链全部 HTTP200；余项：桌面/手机视觉渲染未独立验收，报告已如实披露，勿重复发布）。
 - URL：https://evbtms.com/btms-coolant-loop-air-removal/
 - HTTP200、index、self-canonical、唯一H1；SEO标题/描述与特色图9954及alt已核验，5个正文内链HTTP200。
 - 报告：REPORTS/btms-air-removal-published-2026-10-12.md。不得重复发布。
@@ -240,7 +240,7 @@
 - 报告：REPORTS/hvch-warm-up-response-2026-10-12.md。
 
 ## T3b — page schedule and specification preparation
-- 状态：REVIEW（仅排期与规格清单；未新建生产页）。
+- 状态：`VERIFIED`（2026-10-12 Muse 验收通过：规划稿与 T3a 最新裁决一致——R4 NO-GO 并入 R1、TH1/TH4 放弃、TH2/TH3 转博客、BTMS manufacturer China OEM 并入 #10；排期按依赖分批、无未获批上线日期承诺；四品类规格清单齐全且未知项不填虚构值；本验收仅针对排期与规格准备交付，不构成任何生产页发布批准，逐页仍需真实规格 + Peter 发布批准）。
 - 已复用Muse最新T3a裁决，R4不建独立页、并入R1；逐页仍需真实规格和生产批准。
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
@@ -250,7 +250,7 @@
 - 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
 
 ## S-FB-20261012 — 三合一Facebook普通主页帖子
-- **状态**：WAITING_APPROVAL（终稿与配图完成；尚无该新帖具体发布批准）。
+- **状态**：READY（Peter 已于 2026-10-12 17:01 明确批准发布。Codex 执行：以 Page 普通主页帖发布，发布后回填公开 URL 与截图、做近期去重核验，转 REVIEW，Muse 验收）。
 - **成品**：REPORTS/facebook-three-in-one-review-2026-10-12/。
 - **待验收**：正文/图片批准后，近期去重、普通帖发布、公开URL及截图核验。
 ## S-LI-20261012 — 产品图样件评估清单
@@ -259,7 +259,7 @@
 - 报告：REPORTS/linkedin-published-2026-10-12.md。
 
 ## S-IG-20261012 — BTMS真实产品图轮播
-- **状态**：REVIEW（已发布，待验收）。
+- **状态**：`VERIFIED`（2026-10-12 Muse 验收通过：Muse 经 Instagram 接口独立核验正式帖——@evlinkautoparts、carousel、公开可见、正文与报告一致（冷浸泡三项输入、无编造温度/乙二醇比例/认证/客户案例/效果保证、产品图示意与配置相关声明在位）、6 个标签齐全；账号共 21 帖，该帖与 cold-soak 主题均仅 1 次，无重复发布；三页内容与报告 Alt 描述一致（BTMS 三风扇产品图＋标题页 / 三项输入页 / DM 询盘卡）；Peter 已在 Instagram 聊天明确批准使用公司图片、润色场景与发布；余项：逐页 Alt 原文、AI 标注 ON、Facebook 未同步为报告自述，接口无法独立核验；手机实机未独立验收；勿重复发帖）
 - Peter在Instagram聊天明确批准使用公司图片、润色场景、上传发布。
 - 正式URL：https://www.instagram.com/p/DeYevQglE0t/；2026-10-12 13:26:53 +08。
 - 三页图片、全文、六标签、逐页Alt已核验；AI标注ON；无Facebook同步。
