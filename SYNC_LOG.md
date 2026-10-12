@@ -82,3 +82,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 
 ## 2026-10-12 LinkedIn — PUBLISHED / REVIEW
 发布三张Peter产品图配英文样件评估五项输入清单；正式URL https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/ 。公开范围/正文/三图/标签核验；390px正文预览通过，图片移动完整视觉验收待补。10月10日帖14回应/144展示。报告已回写，勿重复发布。
+
+### 2026-10-12 +08 — Instagram product-photo publication
+- S-IG-20261012 REVIEW：BTMS原图6087衍生封面+两页信息卡，已按Peter直接授权发布；https://www.instagram.com/p/DeYevQglE0t/，13:26:53 +08。
+- 正文、CTA、六标签、三页Alt、AI标签与正式URL核验；旧审核包被本次发布版替代，不再单独发布。REPORTS/instagram-BTMS-published-2026-10-12.md。
+

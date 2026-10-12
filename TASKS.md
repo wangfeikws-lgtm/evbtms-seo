@@ -233,3 +233,11 @@
 - **状态**：`VERIFIED`（2026-10-12 Muse 验收通过：Muse 独立公开抓取正式页核验，英文正文、五项样件输入（电气/压缩机/安装/CAN/验证）、4 个标签与报告一致；无编造参数、无认证声明、无量化节能/可靠性声明，未重复 10-10 控制逻辑帖；余项：移动端图片视觉完整性未独立验收、截图未归档仓库（报告已如实披露 EPERM），勿重复发帖）
 - URL：https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/
 - 报告：REPORTS/linkedin-published-2026-10-12.md。
+
+## S-IG-20261012 — BTMS真实产品图轮播
+- **状态**：REVIEW（已发布，待验收）。
+- Peter在Instagram聊天明确批准使用公司图片、润色场景、上传发布。
+- 正式URL：https://www.instagram.com/p/DeYevQglE0t/；2026-10-12 13:26:53 +08。
+- 三页图片、全文、六标签、逐页Alt已核验；AI标注ON；无Facebook同步。
+- 报告：REPORTS/instagram-BTMS-published-2026-10-12.md；手机实机/匿名访问未独立验收。
+
