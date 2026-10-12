@@ -239,7 +239,9 @@
 - 状态：DOING（研究断点，未成稿/草稿/发布；本时段未完成）。
 - 报告：REPORTS/hvch-warm-up-response-2026-10-12.md。
 
-## T3b — page schedule and specification preparation
+## T3b — 新站 evbtms.com 新增SEO页面建设计划：BTMS采购页、电动卡车应用页、HVCH采购页及定制PTC页的排期与规格清单
+- 给Peter的说明：本任务交付的是“新增哪些页面、先做哪页、各页缺哪些真实产品资料”的计划；不是已建好页面，也不是已发布。
+- 建议顺序：BTMS采购页 → 电动卡车BTMS应用页 → 高压冷却液加热器OEM采购页 → 定制PTC页；先核对既有页面是否已承接同一意图，再决定新增或补强。
 - 状态：`VERIFIED`（2026-10-12 Muse 验收通过：规划稿与 T3a 最新裁决一致——R4 NO-GO 并入 R1、TH1/TH4 放弃、TH2/TH3 转博客、BTMS manufacturer China OEM 并入 #10；排期按依赖分批、无未获批上线日期承诺；四品类规格清单齐全且未知项不填虚构值；本验收仅针对排期与规格准备交付，不构成任何生产页发布批准，逐页仍需真实规格 + Peter 发布批准）。
 - 已复用Muse最新T3a裁决，R4不建独立页、并入R1；逐页仍需真实规格和生产批准。
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
