@@ -104,3 +104,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - T3b标题已改为中文具体任务名，明确站点、页面类型、排期和规格清单；编号保留作内部索引。
 - 后续仓库新任务与对Peter汇报应使用“中文具体任务名 + 编号”，说明做哪个站/页面、交付什么、是计划/草稿/已发布。不得仅写T3b、T7等代号让Peter猜内容。
 - 此次仅调整可读性，保留Muse的VERIFIED验收及未建生产页边界，未改变发布权限。
+
+### 2026-10-13 — HVCH升温响应文章9963正式发布
+- Peter直接确认“预览正常，发布”；Codex通过已验证WordPress API发布，未改已验收正文，未增加参数。
+- https://evbtms.com/hvch-warm-up-response-validation/ ：HTTP200、index、self-canonical、唯一H1、SEO、特色图和5内链核验。
+- 视觉确认来自Peter，不记为代理独立手机/桌面检查；实际Google收录未知。
+- 发布前备份及验收报告已保存；TASKS转REVIEW，Muse下一步独立验收。旧草稿状态被本次发布结果覆盖，勿重复发布。
