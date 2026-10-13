@@ -101,7 +101,7 @@
 - **Muse 督办**（2026-10-09）：请 Codex 今日认领并启动审计，**下班前交付报告**并转 REVIEW。→ 14:41 Codex 仍未认领，Muse 接管执行并于当日完成，报告见 REPORTS/T7-category-onpage-audit.md。整改应用需 Peter 批准。→ Peter 2026-10-09 14:47 已批准执行。🟢 简单项（6 项，精确到字段）见 REPORTS/T7-fix-checklist.md，由 Peter 亲手在 WP 后台执行；🟡 结构项（5 项：H3 去重、页脚空 H2、面包屑、中文文件名、重复链接确认）派给 Codex，完成后转 REVIEW 由 Muse 验收。
 
 ## T8 — 制动电阻产品页 + 英文博客建设
-- **状态**：`BACKLOG`
+- **状态**：`READY`（2026-10-13 Peter 批准建页，待 Codex 认领搭建）
 - **任务目标**：新建制动电阻产品分类页 + 1–2 篇英文博客（Codex 执行搭建，Muse 出大纲并审稿）。
 - **优先级**：P0（Peter 明确的 #1 品类）
 - **输入资料**（按依赖顺序）：
@@ -117,6 +117,7 @@
 - **是否涉及正式网站修改**：是（新建页面/发布 → `WAITING_APPROVAL`）
 - **阻塞说明**：4 级门禁（见输入资料）。第 1 步已完成，当前待 Peter 确认市场范围（EV-only vs 工业）+ 真实规格。
 - **中文宣传 PPT 子任务**：`VERIFIED`（2026-10-13 Muse 验收通过：11 页文案与冻结内容包 `REPORTS/T8-promo-content-pack-2026-10-13.md` 完全一致；红线通过——无虚构参数、无认证声明、无船舶应用、概念图已标注；规格参数与 Peter 提供的真实资料一致。成品：`REPORTS/EVLINK-T8-liquid-cooled-braking-resistor-promo-2026-10-13.pptx`；Codex 自查：`REPORTS/T8-promo-ppt-acceptance-2026-10-13.md`（自查报告文件名与仓库实际不一致，验收以仓库实际文件为准）。不代表英文分类页已发布。）
+- **产品页建页指令**（2026-10-13 Peter 批准）：Codex 按 `REPORTS/T8-product-page-build-plan-2026-10-13.md` 施工单搭建 `/products/braking-resistor/`（文案源 `REPORTS/T8-category-page-copy-2026-10-13.md` ＋施工单 §6 manufacturer 段，Codex 不写不改英文文案）；完成后转 REVIEW，Muse 按施工单 §8 验收，再交 Peter 审核正式发布。发布前不得投 T6B 广告。
 
 ## T4 — 老站内容迁移改写
 - **状态**：`BACKLOG`
