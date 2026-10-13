@@ -27,7 +27,7 @@
 | T5 英文博客撰写 | VERIFIED | 2026-10-10 验收通过（9941 已发布上线） |
 | T6 Google Ads 投放 | BACKLOG | 账户验证已通过 ✅；拆 T6A（下周 3 品类 $32/天）/ T6B（制动电阻 $18/天，页上线后） |
 | T7 分类页 on-page 审计 | VERIFIED | 2026-10-09 验收通过；5 项生产修复已执行，结构项转 Codex |
-| T8 制动电阻建站 | BACKLOG | 4 级门禁：SERP✅ → 待 Peter 确认 EV-only + 规格 → Muse 大纲 → Peter 批准 → Codex 执行 |
+| T8 制动电阻建站 | BACKLOG（PPT 子任务 VERIFIED） | 中文宣传 PPT 2026-10-13 Muse 验收通过（11 页与冻结内容包一致，红线通过）；英文分类页/博客仍走原门禁链，未发布 |
 | T9 Codex 背景同步 | VERIFIED | 2026-10-08 验收通过 |
 | S-LI-20261012 LinkedIn 样件评估清单 | VERIFIED | 2026-10-12 Muse 独立核验正式页通过；移动端图片视觉/截图归档为余项 |
 | S-IG-20261012 Instagram BTMS 产品图轮播 | VERIFIED | 2026-10-12 Muse 经 Instagram 接口独立核验正式帖通过（公开可见/正文/6 标签/21 帖无重复/三页内容与 Alt 描述一致）；Alt 原文、AI 标注、FB 未同步为报告自述余项，手机实机未验收 |
