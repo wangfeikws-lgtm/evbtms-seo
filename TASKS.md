@@ -116,6 +116,7 @@
   3. 所有技术参数（阻值/功率/电压/防护等级）来自 Peter 确认的真实规格
 - **是否涉及正式网站修改**：是（新建页面/发布 → `WAITING_APPROVAL`）
 - **阻塞说明**：4 级门禁（见输入资料）。第 1 步已完成，当前待 Peter 确认市场范围（EV-only vs 工业）+ 真实规格。
+- **中文宣传 PPT 子任务**：`REVIEW`（2026-10-13 Codex 已按 `REPORTS/T8-promo-content-pack-2026-10-13.md` 完成 11 页中文成品；第 3 页已按 Peter 提供的圆筒式实物/CAD结构参考重绘，并标注“概念效果图，非实物照片”。成品：`REPORTS/EVLINK-T8-liquid-cooled-braking-resistor-promo-2026-10-13.pptx`；自查：`REPORTS/T8-promo-ppt-acceptance-2026-10-13.md`。待 Muse 验收，不代表英文分类页已发布。）
 
 ## T4 — 老站内容迁移改写
 - **状态**：`BACKLOG`

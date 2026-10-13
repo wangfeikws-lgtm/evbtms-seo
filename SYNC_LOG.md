@@ -110,3 +110,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - https://evbtms.com/hvch-warm-up-response-validation/ ：HTTP200、index、self-canonical、唯一H1、SEO、特色图和5内链核验。
 - 视觉确认来自Peter，不记为代理独立手机/桌面检查；实际Google收录未知。
 - 发布前备份及验收报告已保存；TASKS转REVIEW，Muse下一步独立验收。旧草稿状态被本次发布结果覆盖，勿重复发布。
+
+### 2026-10-13 — T8液冷制动电阻中文宣传PPT交付 / REVIEW
+- Codex按 `REPORTS/T8-promo-content-pack-2026-10-13.md` 完成11页中文宣传PPT，只做版式与视觉执行，未擅自扩写技术结论。
+- Peter提供的实物图与CAD图已用于第3页结构参考：圆筒壳体、大圆端盖、冷却接口、高压连接器、吊耳和安装支架；图中醒目标注“概念效果图，非实物照片”。
+- 成品：`REPORTS/EVLINK-T8-liquid-cooled-braking-resistor-promo-2026-10-13.pptx`；验收说明：`REPORTS/T8-promo-ppt-acceptance-2026-10-13.md`。
+- 11页包完整性、版面越界、元素重叠检查通过；6条内容冻结红线已逐项自查。状态转 REVIEW，交 Muse 做内容终审；英文分类页仍为独立任务，不得把本次PPT交付误报为网站上线。
