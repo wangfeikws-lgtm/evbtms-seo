@@ -236,9 +236,9 @@
 - 报告：REPORTS/btms-air-removal-published-2026-10-12.md。不得重复发布。
 
 ## W-HVCH-20261012 — 高压冷却液加热器升温响应：OEM测试方案文章9963发布
-- 状态：REVIEW（2026-10-13正式发布，待Muse验收；Peter在本聊天确认预览正常并批准发布）。
+- 状态：VERIFIED（2026-10-13 Muse 独立验收通过；Peter已批准发布）。
 - 正式URL：https://evbtms.com/hvch-warm-up-response-validation/
-- HTTP200、index、自指canonical、唯一H1、SEO标题/描述、特色图9962及5个正文内链通过；视觉依据为Peter人工预览确认，不宣称Codex独立桌面/390px验收。
+- HTTP200、index、自指canonical、唯一H1；SEO标题/描述、特色图9962 HTTP200且alt保留illustrative边界、5个正文内链HTTP200已核验；正文明确不宣称EVLINK实测升温时间与认证，无编造参数；视觉依据为Peter人工预览确认，不宣称Codex独立桌面/390px验收。
 - 报告：REPORTS/HVCH9963-published-2026-10-13.md；原研究过程仍保留于REPORTS/hvch-warm-up-response-2026-10-12.md。勿重复发布。
 
 ## T3b — 新站 evbtms.com 新增SEO页面建设计划：BTMS采购页、电动卡车应用页、HVCH采购页及定制PTC页的排期与规格清单
