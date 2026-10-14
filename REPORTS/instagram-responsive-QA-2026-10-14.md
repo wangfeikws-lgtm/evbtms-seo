@@ -1,0 +1,7 @@
+# Instagram responsive evidence supplement — 2026-10-14
+Baseline main285339e. No Instagram READY publication task found; continued independent QA while previous publication remains VERIFIED.
+Post https://www.instagram.com/p/DeYevQglE0t/ remains accessible in authenticated session. Profile21 posts, old formal URLs intact; no repeat upload/Share or edits.
+Completed live browser390x844 responsive check: three carousel pages advanced in order, screenshots captured and visually inspected. Cover product, heading and scope line visible; checklist rows visible; third-page input list and DM CTA visible. Native next/back overlay partly overlaps the row edge in mobile layout; content remains readable, no confirmed text truncation. AI-content marker visible. Existing desktop full Caption and six hashtags re-read; image Alt descriptions visible in DOM. Viewport reset at end.
+Screenshots: E:\codex项目\instagram\publish-package-BTMS-2026-10-12\mobile390-slide1-2026-10-14.png; mobile390-slide2-2026-10-14.png; mobile390-slide3-2026-10-14.png.
+This is responsive browser evidence, not real-phone device or anonymous access verification. Session remains authenticated; did not log out or manipulate cookies to simulate anonymous. Muse already independently confirmed public visibility via interface per TASKS; no new anonymous test claimed.
+Next independent item: existing HVCH warm-up draft remains available; actual product identity/rights evidence and artwork still need completion. No ads, messages or security changes. No Peter action required for completed responsive QA.

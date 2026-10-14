@@ -287,3 +287,7 @@
 - 三页图片、全文、六标签、逐页Alt已核验；AI标注ON；无Facebook同步。
 - 报告：REPORTS/instagram-BTMS-published-2026-10-12.md；手机实机/匿名访问未独立验收。
 
+
+### S-IG-20261012 响应式补验（2026-10-14）
+- 保留VERIFIED；已补齐390x844浏览器三页截图、Alt与AI标注可见性，未修改/重复发布。报告REPORTS/instagram-responsive-QA-2026-10-14.md。手机实机/匿名浏览器仍未独立验收。
+

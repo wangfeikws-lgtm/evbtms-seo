@@ -128,3 +128,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 已核对普通公开主页帖、三合一产品主图、全文和速推关闭；未创建广告、Boost、预算或私信。
 - TASKS 状态由 READY 更正为 REVIEW；匿名访问、手机实机和互动指标仍未独立验收。
 - 报告：REPORTS/facebook-three-in-one-published-status-correction-2026-10-14.md。
+
+### 2026-10-14 +08 — Instagram independent QA
+- 基线285339e；无新Instagram READY项，补齐S-IG-20261012三页390px响应式证据，保持VERIFIED，无线上写操作。
+- REPORTS/instagram-responsive-QA-2026-10-14.md；不把等待验收当停工，下一项HVCH素材核验仍可独立推进。
+
