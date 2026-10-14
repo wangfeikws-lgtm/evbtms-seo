@@ -79,7 +79,7 @@ Second, resistance. It has to match your DC bus. Ours is built around 2.24 Ω fo
 
 Third, duty and cooling. How long the grade lasts, and what your coolant loop can carry away.
 
-The mistakes we see most: sizing for peak power instead of continuous, forgetting how long the descent actually is, and leaving out temperature sensing and interlock. Every unit we ship carries an NTC sensor and an HVIL loop. Check that whoever you buy from does the same.
+The mistakes we see most: sizing for peak power instead of continuous, forgetting how long the descent actually is, and leaving out temperature sensing and interlock. The design includes an NTC sensor and an HVIL loop. Check that whoever you buy from does the same.
 
 ## §8 FAQ
 
@@ -116,6 +116,6 @@ Send us your vehicle weight, typical grade and speed, and bus voltage. Our engin
 ## 建页备注（Codex）
 
 - 内链：BTMS 分类页、PTC 加热器产品页、三合一控制器产品页（热量回收段落互链）。
-- 图片位：主图、三种形态示意，全部标注"待实物图"（Photo pending — product in production）。
+- 图片位：主图、三种形态示意，全部标注"待实物图"（Real product photos will be added after production.）。
 - 面包屑：Home / Products / Braking Resistor。
 - 红线自查（Muse 2026-10-13）：✓ 无平台目标值 ✓ 无峰值 ✓ 无认证宣称 ✓ 无后缀 ✓ 无流量数字 ✓ 无 MOQ/交期 ✓ 无船舶 ✓ 无编造案例 ✓ 人味写作（禁用 delve/furthermore/moreover/it's important to note/in conclusion；破折号仅 2 处）。
