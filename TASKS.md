@@ -243,6 +243,16 @@
 - HTTP200、index、自指canonical、唯一H1；SEO标题/描述、特色图9962 HTTP200且alt保留illustrative边界、5个正文内链HTTP200已核验；正文明确不宣称EVLINK实测升温时间与认证，无编造参数；视觉依据为Peter人工预览确认，不宣称Codex独立桌面/390px验收。
 - 报告：REPORTS/HVCH9963-published-2026-10-13.md；原研究过程仍保留于REPORTS/hvch-warm-up-response-2026-10-12.md。勿重复发布。
 
+## W-BTMS-20261014 — 电池包温差排查文章10019已发布
+- 状态：REVIEW；用户验收后发布。HTTP200、index/self-canonical/唯一H1、SEO、新特色图10020及内链通过。此前仓库未同步不等于未发布。
+- URL：https://evbtms.com/btms-temperature-spread-diagnosis/
+- 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。
+
+## W-HVCH-20261014 — 指令功率、电输入与供热验证文章10031
+- 状态：发布前待验收；完整原创稿、独立特色图10030、SEO/摘要/分类及正文回读通过；桌面/手机可靠预览尚未通过，不发布。
+- 预览：https://evbtms.com/?p=10031&preview=true
+- 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。持续发布授权已存在，非重复审批问题。
+
 ## T3b — 新站 evbtms.com 新增SEO页面建设计划：BTMS采购页、电动卡车应用页、HVCH采购页及定制PTC页的排期与规格清单
 - 给Peter的说明：本任务交付的是“新增哪些页面、先做哪页、各页缺哪些真实产品资料”的计划；不是已建好页面，也不是已发布。
 - 建议顺序：BTMS采购页 → 电动卡车BTMS应用页 → 高压冷却液加热器OEM采购页 → 定制PTC页；先核对既有页面是否已承接同一意图，再决定新增或补强。
