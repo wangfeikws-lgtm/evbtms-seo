@@ -249,7 +249,8 @@
 - 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。
 
 ## W-HVCH-20261014 — 指令功率、电输入与供热验证文章10031
-- 状态：发布前待验收；完整原创稿、独立特色图10030、SEO/摘要/分类及正文回读通过；桌面/手机可靠预览尚未通过，不发布。
+- 状态：REVIEW（2026-10-14 Peter直接要求发布后已上线）；HTTP200、index/self-canonical/唯一H1、SEO/特色图10030和5站内目标通过。代理独立390px截图未完成，不记通过。
+- 正式URL：https://evbtms.com/hvch-power-verification/；报告：REPORTS/HVCH10031-published-2026-10-14.md。旧预览状态被发布记录覆盖，勿重复发布。
 - 预览：https://evbtms.com/?p=10031&preview=true
 - 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。持续发布授权已存在，非重复审批问题。
 

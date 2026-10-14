@@ -111,6 +111,11 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 视觉确认来自Peter，不记为代理独立手机/桌面检查；实际Google收录未知。
 - 发布前备份及验收报告已保存；TASKS转REVIEW，Muse下一步独立验收。旧草稿状态被本次发布结果覆盖，勿重复发布。
 
+### 2026-10-14下午 — HVCH10031用户指令后发布 / REVIEW
+- https://evbtms.com/hvch-power-verification/ ：HTTP200、SEO、特色图10030、index/self-canonical/唯一H1及5内链通过。上午/下午日更均发布；不重发T8草稿。
+- 已读取LinkedIn解释型内容方法，后续网站内容按买家问题和证据适配，不机械复制或新增跨平台动作。
+- 证据：REPORTS/HVCH10031-published-2026-10-14.md。
+
 ### 2026-10-14下午 — BTMS10019发布对账与HVCH10031新稿
 - 上午10019已发布REVIEW，下午10031完整草稿与特色图10030已保存，阶段9待可靠预览，未发布。
 - 核实T8最新10016为draft，遵守撤回不重发；旧图验收不覆盖当前状态。审批服务恢复后补齐此前未同步的文章记录。
