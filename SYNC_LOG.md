@@ -111,6 +111,11 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 视觉确认来自Peter，不记为代理独立手机/桌面检查；实际Google收录未知。
 - 发布前备份及验收报告已保存；TASKS转REVIEW，Muse下一步独立验收。旧草稿状态被本次发布结果覆盖，勿重复发布。
 
+### 2026-10-14 — T8液冷制动电阻英文页发布与主图同步 / REVIEW
+- 页面10016正式发布。生成缓存刷新后正文媒体9971效果图及非实拍说明公开生效，两个其他占位保留。
+- HTTP200/index/self-canonical/唯一H1/三产品内链通过。独立桌面/390px截图待补，Google收录未知。不重复建页。
+- 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
+
 ### 2026-10-13 — T8液冷制动电阻中文宣传PPT交付 / REVIEW
 - Codex按 `REPORTS/T8-promo-content-pack-2026-10-13.md` 完成11页中文宣传PPT，只做版式与视觉执行，未擅自扩写技术结论。
 - Peter提供的实物图与CAD图已用于第3页结构参考：圆筒壳体、大圆端盖、冷却接口、高压连接器、吊耳和安装支架；图中醒目标注“概念效果图，非实物照片”。

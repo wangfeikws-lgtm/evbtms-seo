@@ -250,6 +250,11 @@
 - 已复用Muse最新T3a裁决，R4不建独立页、并入R1；逐页仍需真实规格和生产批准。
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
+## T8 — 液冷制动电阻英文产品页发布及主图同步
+- 状态：REVIEW（2026-10-14）；页面10016已发布，正文主图与非实拍说明公开生效，两个其他占位保留；HTTP200/index/self-canonical/唯一H1/三内链通过。桌面与390px截图待独立补齐。
+- URL：https://evbtms.com/products/braking-resistor/
+- 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
+
 ## T7 — application checkpoint supplement
 - 状态：待执行/复核，不能把历史审计VERIFIED当本次结构修改完成。
 - 本次没有新增生产修改；旧清单须当前实况复核后逐项执行，URL/重定向/删除图片不在本轮范围。
