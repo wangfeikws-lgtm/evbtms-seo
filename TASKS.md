@@ -268,6 +268,7 @@
 - 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
 
 ## 800V 大巴 PTC 选型指南英文落地页（2026-10-14 Peter 已批准建页）
+- 最新结果：REVIEW，10033正式发布。HTTP200/index/self-canonical/唯一H1/源稿SEO/CTA/三内链通过；桌面390px预览来自总中心。报告REPORTS/800V10033-published-2026-10-14.md。下方READY为旧派工，勿重复建页或发布。
 - 状态：READY（Peter 已批准上线，Codex 执行建页）
 - 文案源：`REPORTS/800v-ptc-coolant-heater-ebus-copy-2026-10-14.md`（以 10-14 版为准；Peter 已批大纲，QA 系列规格直接用）
 - URL（新建）：`https://evbtms.com/products/800v-ptc-coolant-heater-electric-bus/`（父级 Products）
