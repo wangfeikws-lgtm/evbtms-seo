@@ -121,3 +121,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Peter提供的实物图与CAD图已用于第3页结构参考：圆筒壳体、大圆端盖、冷却接口、高压连接器、吊耳和安装支架；图中醒目标注“概念效果图，非实物照片”。
 - 成品：`REPORTS/EVLINK-T8-liquid-cooled-braking-resistor-promo-2026-10-13.pptx`；验收说明：`REPORTS/T8-promo-ppt-acceptance-2026-10-13.md`。
 - 11页包完整性、版面越界、元素重叠检查通过；6条内容冻结红线已逐项自查。状态转 REVIEW，交 Muse 做内容终审；英文分类页仍为独立任务，不得把本次PPT交付误报为网站上线。
+
+### 2026-10-14 — Facebook S-FB-20261012 发布状态纠正 / REVIEW
+- 发现仓库仍把已发布任务写为 READY；核对本地发布报告、正式 URL、正文和截图后确认该帖已于 2026-10-12 发布，本轮未重复发布。
+- 正式URL：https://www.facebook.com/evlinkthermal/posts/pfbid0NYn8MLJaBz3FCHCFFEXZc3KdH5mAN1ccVnrSSQSbX8CjA81jjPhBfRMiwQYUc9gul
+- 已核对普通公开主页帖、三合一产品主图、全文和速推关闭；未创建广告、Boost、预算或私信。
+- TASKS 状态由 READY 更正为 REVIEW；匿名访问、手机实机和互动指标仍未独立验收。
+- 报告：REPORTS/facebook-three-in-one-published-status-correction-2026-10-14.md。

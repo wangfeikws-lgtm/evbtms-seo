@@ -261,9 +261,11 @@
 - 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
 
 ## S-FB-20261012 — 三合一Facebook普通主页帖子
-- **状态**：READY（Peter 已于 2026-10-12 17:01 明确批准发布。Codex 执行：以 Page 普通主页帖发布，发布后回填公开 URL 与截图、做近期去重核验，转 REVIEW，Muse 验收）。
-- **成品**：REPORTS/facebook-three-in-one-review-2026-10-12/。
-- **待验收**：正文/图片批准后，近期去重、普通帖发布、公开URL及截图核验。
+- **状态**：`REVIEW`（2026-10-14 状态纠正；实际已于 2026-10-12 发布，待 Muse 验收。仓库此前仍显示 READY，本次核对证据后修正；勿重复发布）。
+- **正式URL**：https://www.facebook.com/evlinkthermal/posts/pfbid0NYn8MLJaBz3FCHCFFEXZc3KdH5mAN1ccVnrSSQSbX8CjA81jjPhBfRMiwQYUc9gul
+- **发布核验**：正文、三合一产品主图、公开标识与速推关闭已核对；未创建广告、Boost、预算、私信或账号权限变更。
+- **证据**：本地截图 `E:/codex项目/facebook/facebook-project-inputs-published-2026-10-12.png`；报告 `REPORTS/facebook-three-in-one-published-status-correction-2026-10-14.md`。
+- **余项**：匿名访问与手机实机未独立验收；互动指标未知。
 ## S-LI-20261012 — 产品图样件评估清单
 - **状态**：`VERIFIED`（2026-10-12 Muse 验收通过：Muse 独立公开抓取正式页核验，英文正文、五项样件输入（电气/压缩机/安装/CAN/验证）、4 个标签与报告一致；无编造参数、无认证声明、无量化节能/可靠性声明，未重复 10-10 控制逻辑帖；余项：移动端图片视觉完整性未独立验收、截图未归档仓库（报告已如实披露 EPERM），勿重复发帖）
 - URL：https://www.linkedin.com/feed/update/urn:li:activity:7515219048998264832/
