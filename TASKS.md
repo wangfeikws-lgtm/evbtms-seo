@@ -251,7 +251,7 @@
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
 ## T8 — 液冷制动电阻英文产品页发布及主图同步
-- 状态：REVIEW（2026-10-14）；页面10016已发布，正文主图与非实拍说明公开生效，两个其他占位保留；HTTP200/index/self-canonical/唯一H1/三内链通过。桌面与390px截图待独立补齐。
+- 状态：VERIFIED（2026-10-14 Muse 独立验收通过：公开 HTTP200、自指 canonical、index/follow、唯一 H1；SEO 标题/描述与施工单 §1 一致；规格表数值与冻结文案稿一致；Product+FAQPage（8 问）+BreadcrumbList schema 在位；主图含 "not an actual product photograph" 声明；三条产品内链均 200；红线通过（含诚实的无认证 FAQ）。余项：桌面/390px 截图未独立补齐、GSC 收录未知、两个 Photo pending 占位保留。）
 - URL：https://evbtms.com/products/braking-resistor/
 - 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
 
@@ -261,8 +261,8 @@
 - 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
 
 ## S-FB-20261012 — 三合一Facebook普通主页帖子
-- **状态**：`REVIEW`（2026-10-14 状态纠正；实际已于 2026-10-12 发布，待 Muse 验收。仓库此前仍显示 READY，本次核对证据后修正；勿重复发布）。
-- **正式URL**：https://www.facebook.com/evlinkthermal/posts/pfbid0NYn8MLJaBz3FCHCFFEXZc3KdH5mAN1ccVnrSSQSbX8CjA81jjPhBfRMiwQYUc9gul
+- **状态**：`VERIFIED`（2026-10-14 Muse 独立验收通过：facebook-cli 独立读到官方帖，确于 2026-10-12 13:36:04 +08 发布；正文/产品图/3 标签/产品链接与批准内容一致；无编造参数/认证/客户案例。勿重复发布）。
+- **正式URL**：https://facebook.com/61591806569589/posts/pfbid0NNd84C2qNR89wPZV87uNjXDuNZLwmGXwEp1AqWEWTtTP5sbZbhUUQE3F4Q5oZHHHl/
 - **发布核验**：正文、三合一产品主图、公开标识与速推关闭已核对；未创建广告、Boost、预算、私信或账号权限变更。
 - **证据**：本地截图 `E:/codex项目/facebook/facebook-project-inputs-published-2026-10-12.png`；报告 `REPORTS/facebook-three-in-one-published-status-correction-2026-10-14.md`。
 - **余项**：匿名访问与手机实机未独立验收；互动指标未知。
