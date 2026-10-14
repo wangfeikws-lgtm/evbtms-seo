@@ -244,12 +244,12 @@
 - 报告：REPORTS/HVCH9963-published-2026-10-13.md；原研究过程仍保留于REPORTS/hvch-warm-up-response-2026-10-12.md。勿重复发布。
 
 ## W-BTMS-20261014 — 电池包温差排查文章10019已发布
-- 状态：REVIEW；用户验收后发布。HTTP200、index/self-canonical/唯一H1、SEO、新特色图10020及内链通过。此前仓库未同步不等于未发布。
+- 状态：VERIFIED（2026-10-14 Muse 独立验收通过：公开 HTTP200、自指 canonical、index/follow、唯一 H1；SEO 字段与特色图 10020 在位；内链通过；无红线违规）。
 - URL：https://evbtms.com/btms-temperature-spread-diagnosis/
 - 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。
 
 ## W-HVCH-20261014 — 指令功率、电输入与供热验证文章10031
-- 状态：REVIEW（2026-10-14 Peter直接要求发布后已上线）；HTTP200、index/self-canonical/唯一H1、SEO/特色图10030和5站内目标通过。代理独立390px截图未完成，不记通过。
+- 状态：VERIFIED（2026-10-14 Muse 独立验收通过：公开 HTTP200、自指 canonical、index/follow、唯一 H1；SEO/特色图 10030 和 5 站内目标通过；无红线违规。余项：代理独立 390px 截图未完成，不记入通过。）
 - 正式URL：https://evbtms.com/hvch-power-verification/；报告：REPORTS/HVCH10031-published-2026-10-14.md。旧预览状态被发布记录覆盖，勿重复发布。
 - 预览：https://evbtms.com/?p=10031&preview=true
 - 报告：REPORTS/BTMS10019-HVCH10031-status-2026-10-14.md。持续发布授权已存在，非重复审批问题。
