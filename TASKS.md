@@ -251,9 +251,18 @@
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
 ## T8 — 液冷制动电阻英文产品页发布及主图同步
-- 状态：VERIFIED（2026-10-14 Muse 独立验收通过：公开 HTTP200、自指 canonical、index/follow、唯一 H1；SEO 标题/描述与施工单 §1 一致；规格表数值与冻结文案稿一致；Product+FAQPage（8 问）+BreadcrumbList schema 在位；主图含 "not an actual product photograph" 声明；三条产品内链均 200；红线通过（含诚实的无认证 FAQ）。余项：桌面/390px 截图未独立补齐、GSC 收录未知、两个 Photo pending 占位保留。）
+- 状态：草稿待终审（2026-10-14 Peter 令撤回草稿：页面现为 Draft，公开链接 404，暂不重发。2026-10-14 上午的 VERIFIED 验收记录作废，以本次为准。重发前等 Peter 终审指令。）
+- 文案源已修正入仓：`REPORTS/T8-category-page-copy-2026-10-13.md`（`Every unit we ship`→`The design includes…`；`Photo pending — product in production`→`Real product photos will be added after production.`）。重发时必须用修正版，不得用旧版措辞。
 - URL：https://evbtms.com/products/braking-resistor/
 - 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
+
+## 800V 大巴 PTC 选型指南英文落地页（2026-10-14 Peter 已批准建页）
+- 状态：READY（Peter 已批准上线，Codex 执行建页）
+- 文案源：`REPORTS/800v-ptc-coolant-heater-ebus-copy-2026-10-14.md`（以 10-14 版为准；Peter 已批大纲，QA 系列规格直接用）
+- URL（新建）：`https://evbtms.com/products/800v-ptc-coolant-heater-electric-bus/`（父级 Products）
+- SEO Title / Meta / H1 按文案文件头部执行，一字不差；正文按文案逐段建页（Hero、Why 800V、Three jobs、规格表、Sizing 四步、FAQ、CTA），规格数字不得改动
+- 内链：BTMS 页 `/products/battery-thermal-management-system/`、三合一页 `/products/three-in-one-controller/`、加热器原理文 `/how-high-voltage-coolant-heater-works/`，按文案"内链规划"节落实；CTA 按钮指向询盘表单/联系页
+- 发布前按九段验收自查（链接有效、桌面+移动端排版、SEO 字段、图片 alt、无占位文本、无编造参数），通过后直接发布，无需重复确认；完成后回写 TASKS/REPORTS 并 commit
 
 ## T7 — application checkpoint supplement
 - 状态：待执行/复核，不能把历史审计VERIFIED当本次结构修改完成。
