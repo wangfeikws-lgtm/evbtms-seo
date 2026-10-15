@@ -277,7 +277,7 @@
 - 发布前按九段验收自查（链接有效、桌面+移动端排版、SEO 字段、图片 alt、无占位文本、无编造参数），通过后直接发布，无需重复确认；完成后回写 TASKS/REPORTS 并 commit
 
 ## T7 — application checkpoint supplement
-- 状态：REVIEW（2026-10-15 已完成当前公开页只读复核；页脚空 H2 与全角冒号已修复，跳过旧修复；三页仍无面包屑，HVCH 20 张产品卡 H3 仍按 8/4/8 重复；Q-3/A3 当前各 2 个产品卡链接待业务意图确认。报告：REPORTS/T7-current-structure-recheck-2026-10-15.md。）
+- 状态：VERIFIED（2026-10-15 Muse 巡检验收通过：三公开分类页 HTTP200 只读独立复验；空 H2＝0、全角冒号＝0、Breadcrumblist schema＝0 三页与报告一致；HVCH 20 张产品卡 H3 仍按 8/4/8 重复、无空 H3；Q-3／A3 产品页各 2 个 View details 链接（旧 8+8 已过时）。报告无生产修改、无虚构型号，5 项断言全部复核一致。余项（需 Peter／业务方）：① H3 唯一化——Peter 提供真实型号对应关系或批准不含虚构型号的唯一描述方案；② 面包屑——Peter 批准生产站／模板修改后再执行；③ Q-3／A3 各 2 个重复链接逐卡确认业务意图。报告：REPORTS/T7-current-structure-recheck-2026-10-15.md。）
 - 本次没有新增生产修改；旧清单须当前实况复核后逐项执行，URL/重定向/删除图片不在本轮范围。
 - 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
 
