@@ -7,7 +7,9 @@
   - Hero：`T8-article-01-assets/media-generation-t8-article01-hero-downhill-tru-0-9e191675-71d1-411c-9816-47f86f7abe04.webp`（Alt：Electric heavy truck descending a long mountain grade at dusk）
   - 剖视：`T8-article-01-assets/media-generation-t8-article01-coolant-loop-cuta-0-882f0a23-8654-4356-b521-b7bf31703d51.webp`（Alt：Cutaway of electric truck chassis showing liquid-cooled braking resistor in the coolant loop）
 - 内链：制动电阻产品页 https://evbtms.com/products/braking-resistor/
-- 状态：Muse 正文 v1，待 Peter 过目
+- 状态：Peter 2026-10-15 已批准发布；已发布上线
+- 前台 URL：https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/
+- 发布验收：标题/slug/9 个 H2/公式加粗/两张图＋Alt/内链（产品页＋联系页）/Rank Math SEO Title＋Meta/分类 Guide/特色图片均正常
 
 ---
 
