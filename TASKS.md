@@ -262,7 +262,7 @@
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
 ## T8 — 液冷制动电阻英文产品页发布及主图同步
-- 状态：草稿待终审（2026-10-14 Peter 令撤回草稿：页面现为 Draft，公开链接 404，暂不重发。2026-10-14 上午的 VERIFIED 验收记录作废，以本次为准。重发前等 Peter 终审指令。）
+- 状态：Peter 2026-10-15 09:02 已批重发（"重发"）。Codex 按修正版文案 `REPORTS/T8-category-page-copy-2026-10-13.md`（commit f1d0e114，两处修正：`The design includes…` / `Real product photos will be added after production.`）重发 `/products/braking-resistor/`；发布前按建页施工单自查一次，通过后直接发布；发布后回写 REPORTS＋转 REVIEW，Muse 独立验收。2026-10-14 上午的 VERIFIED 验收记录作废，以本次重发验收为准。
 - 文案源已修正入仓：`REPORTS/T8-category-page-copy-2026-10-13.md`（`Every unit we ship`→`The design includes…`；`Photo pending — product in production`→`Real product photos will be added after production.`）。重发时必须用修正版，不得用旧版措辞。
 - URL：https://evbtms.com/products/braking-resistor/
 - 报告：REPORTS/T8-page-published-image-fixed-2026-10-14.md。
