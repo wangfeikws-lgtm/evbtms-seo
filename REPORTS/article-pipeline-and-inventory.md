@@ -14,15 +14,17 @@
 
 **Codex 不写文章正文、不改文章观点；Muse 不碰发布操作。**
 
+> 例外（Peter 2026-10-15 确认）：T8 制动电阻 30 篇英文文章由 Muse 写＋Muse 自己发布（周一到周五每天 1 篇）；BTMS/HVCH 每日档仍由 Codex 发布。Muse 发布后同样在本文件回填 URL 和状态，Codex 照此单知悉、不重复发布。
+
 ## 二、文章库存清单（Codex 发布照此单）
 
 | # | 文章 | 状态 | 位置 | 可否发布 |
 |---|------|------|------|----------|
-| T5 | PTC Coolant Heater vs Air Heater（~1500词） | ✅ 措辞已定（Peter 授权 Muse 按数据核验，2026-10-09 修订 2 处） | REPORTS/T5-ptc-coolant-vs-air-draft.md | ✅ 可发布 |
-| T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 正文 Peter 已批准（2026-10-09） | REPORTS/T10-integrated-controller-cost-draft.md | ✅ 可发布 |
-| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 正文 Peter 已批准（2026-10-09） | REPORTS/T11-thermal-control-strategy-draft.md | ✅ 可发布 |
-| T8-1 | Brake Chopper Resistor in EVs: How It Works | 规划（缺真实规格，禁写） | — | ❌ |
-| T8-2 | How to Size a Braking Resistor for Buses/Trucks | 规划（同上） | — | ❌ |
+| T5 | PTC Coolant Heater vs Air Heater（~1900词） | READY（待 Peter 确认措辞） | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后 |
+| T10 | 集成控制器如何给电动大巴热系统降本 | BACKLOG（待 SERP→大纲→Peter批→正文） | — | ❌ 未写完 |
+| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | BACKLOG（同上） | — | ❌ 未写完 |
+| T8-1 | How to Size a Braking Resistor for an Electric Bus or Truck（选型指南） | ✅ 已发布 2026-10-15（Muse 发布） | REPORTS/T8-article-01-sizing-guide.md | https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/ |
+| T8-2~30 | 制动电阻 30 篇规划其余 29 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
