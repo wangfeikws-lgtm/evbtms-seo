@@ -262,7 +262,7 @@
 - 报告：REPORTS/T3b-page-schedule-and-specifications-2026-10-12.md。
 
 ## T8 — 液冷制动电阻英文产品页发布及主图同步
-- 最新执行：2026-10-15修正版10016已重发，REVIEW。两处修正版文字公开生效，旧句删除；HTTP200/index/self-canonical/唯一H1/三图/内链CTA通过。独立390px截图待补。报告REPORTS/T8-corrected-republished-2026-10-15.md。下方旧草稿状态仅作历史，不重复重发。
+- 最新执行：2026-10-15修正版10016已重发，VERIFIED（2026-10-15 Muse 巡检验收通过：公开页 HTTP200 无跳转、唯一H1、自指canonical、index/follow；两处修正版文字公开生效（`The design includes an NTC sensor and an HVIL loop.` / `Real product photos will be added after production.`），旧句 `Every unit we ship` 已删除；主图＋两示意图均 HTTP200；产品内链与CTA（/contact/、Inquiry 文案、FluentForm 询盘表单）通过；规格数字与冻结包一致（140kW连续20min／2.24Ω／450–850V DC／IP6K9K／-40~+85℃／NTC+HVIL／25项试验）；无认证/虚构宣称；URL未改、无插件/主题变更。重发经 Peter 2026-10-15 09:02「重发」批准。余项：独立390px截图未取得、GSC收录未知，依先例不记入通过。报告：REPORTS/T8-corrected-republished-2026-10-15.md。下方旧草稿状态仅作历史，不重复重发。）
 - 状态：草稿待终审（2026-10-14 Peter 令撤回草稿：页面现为 Draft，公开链接 404，暂不重发。2026-10-14 上午的 VERIFIED 验收记录作废，以本次为准。重发前等 Peter 终审指令。）
 - 状态：Peter 2026-10-15 09:02 已批重发（"重发"）。Codex 按修正版文案 `REPORTS/T8-category-page-copy-2026-10-13.md`（commit f1d0e114，两处修正：`The design includes…` / `Real product photos will be added after production.`）重发 `/products/braking-resistor/`；发布前按建页施工单自查一次，通过后直接发布；发布后回写 REPORTS＋转 REVIEW，Muse 独立验收。2026-10-14 上午的 VERIFIED 验收记录作废，以本次重发验收为准。
 - 文案源已修正入仓：`REPORTS/T8-category-page-copy-2026-10-13.md`（`Every unit we ship`→`The design includes…`；`Photo pending — product in production`→`Real product photos will be added after production.`）。重发时必须用修正版，不得用旧版措辞。

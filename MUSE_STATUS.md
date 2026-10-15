@@ -27,7 +27,7 @@
 | T5 英文博客撰写 | VERIFIED | 2026-10-10 验收通过（9941 已发布上线） |
 | T6 Google Ads 投放 | BACKLOG | 账户验证已通过 ✅；拆 T6A（下周 3 品类 $32/天）/ T6B（制动电阻 $18/天，页上线后） |
 | T7 分类页 on-page 审计 | VERIFIED | 2026-10-09 验收通过；5 项生产修复已执行，结构项转 Codex |
-| T8 制动电阻建站 | READY（产品页 VERIFIED） | 中文 PPT VERIFIED（10-13）；英文分类页 /products/braking-resistor/ 2026-10-14 Muse 验收通过（schema 在位、红线通过）；英文博客待 Muse 大纲＋Peter 批大纲 |
+| T8 制动电阻建站 | READY（产品页 2026-10-15 修正版重发 VERIFIED） | 中文 PPT VERIFIED（10-13）；英文分类页 /products/braking-resistor/ 10016 修正版重发 2026-10-15 Muse 巡检验收通过（HTTP200/index/self-canonical/唯一H1；两处修正文字生效、旧句删除；三图内链CTA；规格与冻结包一致；无认证/虚构宣称；URL未改；390px 截图未独立补齐、GSC 收录未知为余项）；Peter 2026-10-15 09:02 已批重发；英文博客待 Muse 大纲＋Peter 批大纲 |
 | T9 Codex 背景同步 | VERIFIED | 2026-10-08 验收通过 |
 | S-LI-20261012 LinkedIn 样件评估清单 | VERIFIED | 2026-10-12 Muse 独立核验正式页通过；移动端图片视觉/截图归档为余项 |
 | S-IG-20261012 Instagram BTMS 产品图轮播 | VERIFIED | 2026-10-12 Muse 经 Instagram 接口独立核验正式帖通过（公开可见/正文/6 标签/21 帖无重复/三页内容与 Alt 描述一致）；Alt 原文、AI 标注、FB 未同步为报告自述余项，手机实机未验收 |
