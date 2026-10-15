@@ -147,3 +147,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 基线285339e；无新Instagram READY项，补齐S-IG-20261012三页390px响应式证据，保持VERIFIED，无线上写操作。
 - REPORTS/instagram-responsive-QA-2026-10-14.md；不把等待验收当停工，下一项HVCH素材核验仍可独立推进。
 
+### 2026-10-15 — T7 分类页结构项当前实况复核 / REVIEW
+- 只读核验三个公开分类页：HTTP200；页脚空H2与全角冒号已修复，未重复修改生产站。
+- HVCH 20张产品卡H3仍按8/4/8重复；三页仍无可识别面包屑/BreadcrumbList。
+- 当前产品卡重复目标缩小为Q-3两个、A3两个，旧8+8结论不再直接适用。
+- 下一步需要Peter确认真实型号/唯一标题方案及批准面包屑生产修改；证据见REPORTS/T7-current-structure-recheck-2026-10-15.md。
+

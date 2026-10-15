@@ -277,7 +277,7 @@
 - 发布前按九段验收自查（链接有效、桌面+移动端排版、SEO 字段、图片 alt、无占位文本、无编造参数），通过后直接发布，无需重复确认；完成后回写 TASKS/REPORTS 并 commit
 
 ## T7 — application checkpoint supplement
-- 状态：待执行/复核，不能把历史审计VERIFIED当本次结构修改完成。
+- 状态：REVIEW（2026-10-15 已完成当前公开页只读复核；页脚空 H2 与全角冒号已修复，跳过旧修复；三页仍无面包屑，HVCH 20 张产品卡 H3 仍按 8/4/8 重复；Q-3/A3 当前各 2 个产品卡链接待业务意图确认。报告：REPORTS/T7-current-structure-recheck-2026-10-15.md。）
 - 本次没有新增生产修改；旧清单须当前实况复核后逐项执行，URL/重定向/删除图片不在本轮范围。
 - 报告：REPORTS/T7-safe-scope-checkpoint-2026-10-12.md。
 
