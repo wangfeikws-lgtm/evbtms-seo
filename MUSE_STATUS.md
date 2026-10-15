@@ -36,6 +36,7 @@
 | W-HVCH-20261012 HVCH 升温响应 OEM 测试方案文章 9963 发布 | VERIFIED | 2026-10-13 Muse 独立公开核验发布通过（HTTP200/index/self-canonical/唯一H1/标题描述/特色图9962 HTTP200+alt illust边界/5 正文内链；正文无编造 EVLINK 实测参数与认证）；桌面手机视觉未独立验收为余项 |
 | W-BTMS-20261014 电池包温差排查文章 10019 发布 | VERIFIED | 2026-10-14 Muse 独立验收通过（HTTP200/index/self-canonical/唯一 H1/SEO/特色图 10020/内链；无红线违规） |
 | W-HVCH-20261014 HVCH 指令功率、电输入与供热验证文章 10031 发布 | VERIFIED | 2026-10-14 Muse 独立验收通过（HTTP200/index/self-canonical/唯一 H1/SEO/特色图 10030/5 站内目标；无红线违规；390px 截图未独立补齐为余项） |
+| 800V 大巴 PTC 选型指南落地页（10033） | VERIFIED | 2026-10-14 Muse 独立公开核验通过（HTTP200/index/self-canonical/唯一H1/SEO 标题·描述·H1 一字不差/规格表齐全/三内链/无可见占位；390px 截图证据来自总中心、Google 收录未知为报告自述余项） |
 
 ## 分工边界（避免重复工作）
 - **Muse**：SERP 验证、搜索意图判断、英文文案撰写/改写、任务验收、策略方向；WP 后台只读抽查（为规划拉一手数据，**不等同于** T1/T2/T7 的正式审计报告）。
