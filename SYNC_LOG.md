@@ -111,6 +111,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 视觉确认来自Peter，不记为代理独立手机/桌面检查；实际Google收录未知。
 - 发布前备份及验收报告已保存；TASKS转REVIEW，Muse下一步独立验收。旧草稿状态被本次发布结果覆盖，勿重复发布。
 
+### 2026-10-15 — T8修正版10016重发 / REVIEW
+- 用户直接批准重发和生成缓存刷新，两处修正版公开生效、旧句不存在，HTTP200/index/canonical/H1/图/链接通过。
+- 报告REPORTS/T8-corrected-republished-2026-10-15.md；独立桌面390px截图待补，勿重复发布。
+
 ### 2026-10-14晚 — 800V页面10033正式发布 / REVIEW
 - Peter直接发布指令已核实；HTTP200/index/self-canonical/唯一H1/SEO/CTA/三内链通过。预览来自总中心，不记为本代理独立截图。
 - 报告REPORTS/800V10033-published-2026-10-14.md；不重复发布，不展开其他项目。
