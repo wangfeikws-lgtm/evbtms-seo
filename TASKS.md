@@ -305,3 +305,26 @@
 ### S-IG-20261012 响应式补验（2026-10-14）
 - 保留VERIFIED；已补齐390x844浏览器三页截图、Alt与AI标注可见性，未修改/重复发布。报告REPORTS/instagram-responsive-QA-2026-10-14.md。手机实机/匿名浏览器仍未独立验收。
 
+
+## T12 — evptc.com 老站英文文章写作（每周 5 篇）
+
+- **状态**：`READY`
+- **任务目标**：为老站 evptc.com 每周撰写 5 篇英文 SEO 文章（第一期 4 周 20 篇），Codex 写稿 → Peter 在 ECER 控制台发布 → Muse 验收。
+- **优先级**：P1（老站内容增量，配合排名防守；不写=无增量，无线上风险）
+- **决策背景**：Peter 2026-10-16 决定：老站英文正文改由 Codex 撰写，Muse 只做验收。这是 2026-10-09 "Codex 不写英文文案" 规则的例外，仅适用于 evptc.com；evbtms.com 仍由 Muse 写。
+- **输入资料**：
+  - 选题与支柱：`REPORTS/evptc-article-plan-5-per-week.md`（5 大支柱 × 4 周 20 篇）
+  - 生产清单：`REPORTS/evptc-article-inventory.md`（逐篇状态跟踪）
+  - 写作标准：`REPORTS/T8-article-writing-standard-2026-10-15.md`（SERP 铁律 / 人味标准 / 事实三级标注 / 询盘 CTA / 内链集群）
+  - 官方参数（唯一事实源）：`REPORTS/evptc-official-spec-summary.md`
+- **工作流**：Codex：SERP 调研 → 大纲 → Peter 批大纲 → 英文全文 → 发布包（英文标题 / SEO 三要素 / 正文 HTML / 内链清单 / 配图建议）→ Peter 在 ECER 点发布 → Muse 验收 → 14/30 天 GSC 对照
+- **开工**：2026-10-19（周一）；节奏 5 篇/周；每周一批大纲 Peter 一次批完
+- **红线（违反即返工）**：
+  - 不编造规格、认证、客户案例；一切参数以官方规格表为准
+  - 人味标准：制造商第一人称，禁 AI 腔（delve / furthermore / moreover / "it's important to note" / em-dash 堆砌 / uniform 段落）
+  - 每篇写前必须做 SERP（Peter 铁律）；大纲未经 Peter 批准不得写全文
+- **验收标准（Muse 验收）**：
+  1. 每篇有 SERP 依据，大纲经 Peter 批准
+  2. 发布包完整（标题 / SEO 三要素 / 正文 HTML / 内链清单 / 配图建议）
+  3. 事实零编造、语言有人味、SEO 字段齐全
+- **是否涉及正式网站修改**：否（Codex 只写稿不碰 ECER；发布由 Peter 点，属 Peter 审批范畴）
