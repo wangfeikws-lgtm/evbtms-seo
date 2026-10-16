@@ -24,7 +24,8 @@
 | T10 | 集成控制器如何给电动大巴热系统降本 | BACKLOG（待 SERP→大纲→Peter批→正文） | — | ❌ 未写完 |
 | T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | BACKLOG（同上） | — | ❌ 未写完 |
 | T8-1 | How to Size a Braking Resistor for an Electric Bus or Truck（选型指南） | ✅ 已发布 2026-10-15（Muse 发布） | REPORTS/T8-article-01-sizing-guide.md | https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/ |
-| T8-2~30 | 制动电阻 30 篇规划其余 29 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
+| T8-2 | Braking Resistor Resistance Calculation: The U²/P Method Explained（电阻计算法） | ✅ 已发布 2026-10-16（Muse 发布） | REPORTS/T8-article-02-resistance-calculation.md | https://evbtms.com/braking-resistor-resistance-calculation/ |
+| T8-3~30 | 制动电阻 30 篇规划其余 28 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
