@@ -20,7 +20,7 @@
 
 | # | 文章 | 状态 | 位置 | 可否发布 |
 |---|------|------|------|----------|
-| T5 | PTC Coolant Heater vs Air Heater（~1900词） | READY（待 Peter 确认措辞） | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后 |
+| T5 | PTC Coolant Heater vs Air Heater（PTC 水暖 vs 风暖对比，~1900词） | ✅ 草稿重写完成 2026-10-19（原稿丢失），待 Peter 确认措辞 | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后发布 |
 | T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 正文已写完 2026-10-09（1778 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T10-integrated-controller-cost-draft.md | ⏳ Codex 发布 |
 | T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 正文已写完 2026-10-09（1967 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T11-thermal-control-strategy-draft.md | ⏳ Codex 发布 |
 | T8-1 | How to Size a Braking Resistor for an Electric Bus or Truck（选型指南） | ✅ 已发布 2026-10-15（Muse 发布） | REPORTS/T8-article-01-sizing-guide.md | https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/ |

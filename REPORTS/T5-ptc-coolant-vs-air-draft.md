@@ -1,119 +1,94 @@
-# T5 初稿：PTC Coolant Heater vs Air Heater（待 Peter 确认）
+# T5: PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need (Draft 2026-10-19 rewritten)
 
-> 状态：初稿完成 2026-10-08，待 Peter 确认内容 → 确认后 Codex 发布（发布走 WAITING_APPROVAL）
-> 依据：REPORTS/serp-ptc-coolant-heater-vs-air-heater.md（SERP 决策：GO）
-> 内链说明：文中落地页链接为规划 URL，页面上线后生效
-
----
-**Suggested meta title:** PTC Coolant Heater vs Air Heater: Guide for Electric Buses & Trucks
-**Suggested meta description:** Comparing PTC coolant heaters vs air heaters for electric commercial vehicles? We break down warm-up, battery conditioning, cost and sizing — from a manufacturer's perspective.
+> 状态：草稿重写 2026-10-19（原稿丢失）。待 Peter 确认措辞后发布。
+> 目标词：ptc coolant heater vs air heater / electric vehicle cabin heating options
+> Slug 建议：/ptc-coolant-heater-vs-air-heater/
+> SEO Title: PTC Coolant Heater vs Air Heater: Which EV Heating System to Choose | EVLINK
 
 ---
 
-# PTC Coolant Heater vs Air Heater: How to Choose for Electric Commercial Vehicles
+Every winter, we get the same RFQ: "We need heating for our electric bus. Should we use a PTC coolant heater or a PTC air heater?"
 
-Fleet operators electrifying their buses and trucks run into the same question every winter: how do you heat the cabin — and the battery — without killing the range? With no engine waste heat to borrow, electric commercial vehicles need a dedicated heating strategy. The two mainstream PTC options are air heaters and coolant heaters, and choosing wrong means cold passengers, slow charging, or money wasted on overkill hardware.
+The honest answer is that most buyers ask the wrong question. It's not coolant vs air. It's what you're trying to heat, and what else the vehicle needs hot.
 
-This guide compares the two technologies head to head, from a manufacturer's perspective, so you can match the heater to your vehicle, climate, and operating reality.
+## The one-line answer
 
-## How a PTC Air Heater Works
+If you only need warm air in the cabin, an air heater is simpler and cheaper. If you need to heat the battery too — or you want one system doing both jobs — a coolant heater is the right call. Most electric buses and trucks end up with coolant heaters, not because air heaters are bad, but because the battery needs heating anyway.
 
-A PTC (Positive Temperature Coefficient) air heater uses ceramic heating elements that self-regulate their temperature: as they get hotter, their electrical resistance rises and power draw falls. In practice this means they cannot overheat even if the blower fan fails — a built-in safety trait.
+## What each one actually does
 
-Installation is straightforward. The unit mounts inside the existing HVAC box or as an inline duct heater. The blower pushes air through the hot PTC core and into the cabin. Heat arrives within minutes, with no plumbing, no pump, and no coolant to maintain. Industry research puts typical cabin warm-up at 3 to 5 minutes.
+A PTC air heater is exactly what it sounds like: electric heating elements with a fan blowing cabin air across them. Air in, warm air out. It's a space heater with a CAN bus. Simple, direct, no plumbing.
 
-The trade-off is scope: a PTC air heater warms cabin air and nothing else. It does nothing for the battery pack.
+A PTC coolant heater heats a liquid loop instead. The hot coolant goes where you send it — to the cabin heater core, to the battery pack, to both. It's a boiler, not a space heater. More parts, more capability.
 
-## How a PTC Coolant Heater Works
+This is the fundamental trade-off, and everything else follows from it.
 
-A PTC coolant heater warms a water-glycol mixture in a closed loop instead of heating air directly. An electric circulation pump moves the hot coolant through the vehicle's existing heater core for cabin heat — the same layout diesel buses have used for decades.
+## Three things that actually decide it
 
-The decisive difference is that the same loop can also serve the battery and power electronics. One heat source does two jobs: cabin comfort plus battery preconditioning and temperature conditioning. For commercial EVs, where the battery is the most expensive component on the vehicle, that second job often matters more than the first.
+**1. Does the battery need heating?**
 
-The price of this versatility is complexity: pump, expansion tank, hoses, and controls add parts, weight, and installation time compared with a duct-mounted air heater.
+This is the question that settles most RFQs. Lithium batteries don't charge well cold, don't discharge well cold, and age faster cold. If your vehicle operates where winter mornings drop below 5°C, the battery needs active heating.
 
-## PTC Coolant Heater vs Air Heater: Head-to-Head Comparison
+An air heater can't help the battery. It's cabin-only. So you end up buying two systems: an air heater for people, something else for the pack.
 
-| Dimension | PTC Air Heater | PTC Coolant Heater |
+A coolant heater does both from one unit. The same hot loop that warms the cabin runs through the battery thermal plate. One heater, two jobs, one CAN address, one warranty claim path.
+
+For electric buses running year-round in northern China, northern Europe, or Canada — the battery answer alone picks the coolant heater. We stopped quoting air heaters for bus projects years ago for this reason.
+
+**2. How much heat, and how fast?**
+
+Air heaters top out lower. The physics is straightforward: air carries less heat per volume than liquid, so moving the same kilowatts through air needs either much higher airflow (noisy) or much larger elements (bulky). Most PTC air heaters for vehicles sit in the 2–5 kW range. That's fine for a van cabin. It's not enough for a 12-meter bus at -20°C.
+
+Coolant heaters scale further. Our high-voltage coolant heater line runs 15–35 kW in single units — and we've shipped 210 kW per-truck configurations (six 35 kW units in parallel) for heavy dump trucks. The liquid loop doesn't care; it just moves more hot coolant.
+
+If your heating load is under 5 kW and cabin-only, air is fine. Above that, or if the number keeps growing when you add battery heating, you're in coolant territory.
+
+**3. What does the vehicle already have?**
+
+This is the practical question buyers forget to ask. If the vehicle already has a coolant loop — for the motor, the inverter, the battery — adding a PTC coolant heater is plumbing, not architecture. Tap into the loop, add the heater, done.
+
+If there's no liquid loop at all, an air heater avoids building one. No pumps, no hoses, no coolant, no leak points. For a small electric delivery van that only needs cabin heat, that's a real saving in complexity.
+
+But here's the thing: most electric commercial vehicles already have a thermal management loop for the battery. The incremental cost of adding a coolant heater to an existing loop is small. The cost of *not* having battery heating in a cold climate is a dead vehicle.
+
+## The cost comparison nobody shows you
+
+Air heater unit cost is lower. No argument. A 3 kW PTC air heater costs less than a 15 kW coolant heater.
+
+But compare systems, not units:
+
+| | PTC Air Heater | PTC Coolant Heater |
 |---|---|---|
-| Cabin warm-up | Fast — typically 3–5 minutes | Slower initial cabin warm-up; loop must heat first |
-| Battery conditioning | None | Yes — same loop preconditions and conditions the battery |
-| Winter range protection | Cabin heat only; battery stays cold | Warm battery charges faster and delivers more usable capacity |
-| System complexity | Low — mounts in HVAC duct, no plumbing | Higher — pump, tank, hoses, controls |
-| Upfront cost | Lower | Higher |
-| Maintenance | Minimal | Coolant checks, pump service |
-| Best for | Mild climates, smaller vehicles, simple retrofits | Cold climates, large cabins, battery thermal management needs |
+| Cabin heating | Yes | Yes (via heater core) |
+| Battery heating | No — needs separate system | Yes (same loop) |
+| Typical power range | 2–5 kW | 15–35 kW (single unit) |
+| Plumbing | None | Coolant loop required |
+| Best for | Small EVs, cabin-only, mild climates | Buses, trucks, cold climates, battery + cabin |
 
-A note on the numbers: industry market data shows air-heating PTC systems holding roughly 56% of the high-voltage PTC heater market, with liquid (coolant) systems at about 44% but growing faster — around 13% annually — driven by battery conditioning requirements in newer EV platforms.
+The air heater looks cheaper until you add the battery heating system it can't replace. Then the coolant heater — one unit, one installation, one control strategy — usually wins on total system cost.
 
-## When to Choose a PTC Air Heater
+## What we'd recommend
 
-Choose air heating when the job is genuinely cabin-only:
+For electric buses and heavy trucks: coolant heater. The battery needs heat, the power requirements exceed what air can practically deliver, and the vehicle already has a thermal loop. This isn't a close call.
 
-- **Mild winter climates.** If your routes rarely see sustained temperatures below about −10 °C, the battery penalty of cold operation stays manageable and cabin heat is the main requirement.
-- **Smaller vehicles and short routes.** Vans, minibuses, and urban delivery vehicles with modest cabin volumes heat quickly with duct-mounted PTC units.
-- **Simple retrofits.** If the vehicle already has intact HVAC ducts and you want minimum downtime, an inline PTC air heater is the path of least resistance.
-- **Tight budgets.** Lower hardware and installation cost makes air heating the economical choice when battery conditioning is not on the requirements list.
+For light commercial vehicles in mild climates with no battery heating requirement: air heater. Simpler, cheaper, does the job.
 
-## When to Choose a PTC Coolant Heater
-
-Choose coolant heating when the battery is part of the heating problem — which, for commercial EVs in real winter, it usually is:
-
-- **Cold climates (below −15 °C).** At deep cold, an unconditioned battery loses significant usable capacity and charges slowly. A coolant loop that preconditions the pack before charging pays for itself in uptime.
-- **Battery preconditioning requirements.** Fast opportunity charging on route only works if the battery is within its happy temperature window (generally 15–25 °C for lithium chemistries). Coolant heaters get it there.
-- **Large cabins.** Full-size city buses and coaches need 10 kW-plus of heat; distributing it through the existing heater-core layout is more even and more practical than duct heaters alone.
-- **Integrated thermal management.** If your platform strategy is one thermal system for cabin, battery, and power electronics, the coolant loop is the backbone it builds on.
-- **High-voltage platforms.** Modern 800 V bus and truck platforms pair naturally with high-voltage coolant heaters that draw directly from the traction pack.
-
-## What About Heat Pumps?
-
-An honest comparison has to mention heat pumps. They move ambient heat into the cabin at two to three times the efficiency of resistive heating, which is a genuine range advantage in mild weather. The catch, confirmed across multiple engineering studies, is that heat pump capacity fades severely in deep cold — exactly when you need heat most — so a PTC heater is still required as backup or supplement.
-
-For many commercial fleets, the pragmatic answer is a combination: heat pump for efficiency in shoulder seasons, PTC coolant heater for guaranteed heat and battery conditioning in true winter. The two are complements, not rivals.
-
-## Sizing Guide for Commercial Vehicles
-
-Size for the coldest day on your routes, not the average one. Undersizing leaves the cabin cold on winter mornings; oversizing wastes battery capacity every day. As a starting guideline:
-
-| Vehicle type | Recommended heating power |
-|---|---|
-| City bus, 10–12 m | 10–15 kW |
-| Coach / long-distance bus | 12–20 kW |
-| Delivery van / light truck | 5–8 kW |
-| Heavy-duty truck | 8–15 kW |
-| Mining / special vehicles (high-voltage) | 15–25 kW+ |
-
-These are starting points. Final sizing should account for cabin volume, insulation, door-opening frequency (city buses lose heat at every stop), operating climate, and whether the same loop serves battery conditioning.
+For anything in between: send us the vehicle type, the lowest ambient temperature, whether the battery needs active heating, and your voltage platform. We'll tell you honestly which one fits — including when the answer is "air is enough, don't overspend."
 
 ## FAQ
 
-**What is the main difference between PTC air and coolant heaters?**
-Air heaters warm cabin air directly through the HVAC ducts — simple and fast. Coolant heaters warm a water-glycol loop that serves both the cabin heater core and the battery thermal circuit — more complex, but it conditions the battery as well as the cabin.
+**Can I use both?**
+You can, and some vehicles do — a coolant heater for the battery loop plus a small air heater for fast cabin warm-up. But most of the time it's unnecessary complexity. A properly sized coolant heater with a good heater core warms the cabin fast enough.
 
-**Do coolant heaters help with battery preconditioning?**
-Yes. That is their decisive advantage for commercial EVs. Circulating warm coolant through the battery loop brings cells into their efficient temperature window, which improves both driving range and charging speed in cold weather.
+**Does a coolant heater use more energy?**
+It delivers more heat because it's sized larger, not because it's less efficient. PTC is PTC — near 100% conversion efficiency either way. The energy question is really "how much heat does the vehicle need," not "which heater wastes less."
 
-**How much range does winter heating consume?**
-Industry data indicates electric vehicles typically lose 10–30% of real-world range in temperatures below 5 °C, with heating loads a major contributor. Keeping the battery warm — not just the cabin — is the most effective way to protect winter range.
+**What about heat pumps?**
+Heat pumps are more efficient above freezing, but their capacity collapses in deep cold — exactly when you need heat most. Many cold-climate EVs pair a heat pump with a PTC coolant heater as backup. The PTC handles the -20°C mornings; the heat pump handles the -5°C days efficiently.
 
-**Which is better for electric buses?**
-For full-size electric buses, especially in cold climates, coolant heaters are generally the better fit: the cabin volumes are large, door openings dump heat constantly, and battery conditioning directly affects fleet uptime. Air heaters suit smaller vehicles and mild climates.
-
-**Can I combine a heat pump with a PTC heater?**
-Yes, and many operators do. The heat pump handles efficient heating in mild conditions while the PTC unit — ideally a coolant heater — guarantees heat and battery conditioning when temperatures drop.
-
-## Talk to a Manufacturer Before You Spec
-
-Catalog comparisons only go so far. The right heater depends on your vehicle type, voltage platform, cabin layout, and the coldest route on your network. As a manufacturer of high-voltage PTC heating systems for electric commercial vehicles, we size and configure heaters against real operating conditions, not just datasheets.
-
-Share your vehicle type, voltage platform, and operating climate, and we will recommend a heating configuration with honest trade-offs.
+**How do I size the kW?**
+Cabin volume, insulation, target warm-up time, lowest ambient, and whether the battery loop shares the heater. Send us those five numbers and we'll size it. Don't just match the old diesel heater's kW — electric thermal systems behave differently.
 
 ---
 
-### Sources & notes (for transparency, not published)
-- Warm-up times (2–5 min), market shares (air ~56% / liquid ~44%, liquid CAGR ~13%): high-voltage PTC heater market research (Dataintelo 2025).
-- Winter range loss (10–30% below 5 °C): independent cold-weather EV testing (RAC/Auto Express/US DOE via industry press 2025–2026).
-- Bus heating load (~13–14 kW for 12-m bus): peer-reviewed e-bus thermal studies (MDPI).
-- Air vs water PTC heating principles, heat pump COP vs cold-weather fade: peer-reviewed BEV thermal management literature (MDPI Energies).
-- Sizing bands: commercial EV heater application guides; extended to coach/heavy-truck classes as engineering guideline.
-- Product references kept generic (no model numbers invented); fleet-deployment claim REMOVED 2026-10-09 (unverifiable) — restore only if Peter confirms real deployments.
+*Tell us your vehicle type, coldest operating temperature, and whether the battery needs heating. We'll recommend coolant or air — and tell you honestly when the simpler option is enough.*
