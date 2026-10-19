@@ -157,3 +157,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 当前产品卡重复目标缩小为Q-3两个、A3两个，旧8+8结论不再直接适用。
 - 下一步需要Peter确认真实型号/唯一标题方案及批准面包屑生产修改；证据见REPORTS/T7-current-structure-recheck-2026-10-15.md。
 
+### 2026-10-19 — T-MINING 矿卡公开占位清理与询盘链路 QA / REVIEW
+- 矿卡页 15 处精确修复公开生效：删除内部编辑占位；改为真实的保密项目经验、工程资料和验证支持边界，不公开客户名称/参数/结果。
+- 联系页模板提示已删除；两页 HTTP200、唯一H1、自指canonical、index/follow，旧占位文本为0。
+- 正式询盘表单内部 QA 提交成功，后台 Entry ID 21，邮件通知日志显示已触发；实际邮箱到达仍需 Peter 核对。
+- 新发现：Phone/WhatsApp 使用数字字段，可能丢失 `+` 和前导零；未擅自改表单结构，列为下一轮修复。
+- 报告：`REPORTS/T-MINING-inquiry-chain-fix-2026-10-19.md`；状态转 REVIEW，交 Muse 独立验收。
+
