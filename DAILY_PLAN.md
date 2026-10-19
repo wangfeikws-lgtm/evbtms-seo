@@ -39,6 +39,13 @@
 > 4. **内容**：页脚加 `Our legacy site: evptc.com`（链接到 https://evptc.com）
 > 5. **不做**：文章内互链、关键词锚文本互链
 >
+> ### P1｜LinkedIn 代发布（Codex 执行，Peter 2026-10-19 14:54 改派）
+> 1. **任务编号**：LINKEDIN-POST
+> 2. **中文说明**：LinkedIn 个人号文章代发布（原 Muse 负责，改 Codex；Codex 可登录）
+> 3. **负责人**：Codex（文案 Muse 写，发布 Codex）
+> 4. **账号**：https://www.linkedin.com/in/wang-peter-evlink/（凭据在 Secure Vault）
+> 5. **注意**：CAPTCHA 风险，发布前确认账号状态
+>
 > ## 🚨 紧急加派（Peter 2026-10-19 10:17 直接指令）
 >
 > ### P0｜T10/T11 立即发布（Codex 现在发布）
@@ -99,7 +106,7 @@
 7. **截止时间**：今日 18:00 前
 8. **前置依赖**：改前基线已留（hidden_files/mining-truck-baseline-2026-10-15.md）
 9. **风险/阻塞**：禁止以更新插件/主题作为修复手段（如只能走此路，需 Peter 另行批准）；生效后观察 7–14 天，掉量回滚
-10. **状态**：REVIEW（2026-10-19 Codex 已完成公开页修复、询盘链路 QA 与报告；待 Muse 独立验收，证据：`REPORTS/T-MINING-inquiry-chain-fix-2026-10-19.md`）
+10. **状态**：READY
 
 ## 候补 1｜T4 老站内容迁移改写首篇（Muse）
 
