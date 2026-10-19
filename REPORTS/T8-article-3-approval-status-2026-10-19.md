@@ -1,17 +1,18 @@
-# T8 制动电阻第 3 篇大纲与审批状态
+# T8 制动电阻第 3 篇发布状态与分工纠正
 
 - 计划主题：`Continuous vs. Peak Power: What Really Sizes a Braking Resistor`
 - 依据：`REPORTS/T8-30-articles-plan-2026-10-15.md` 第 3 篇。
-- 分工标准：Muse 负责 SERP、英文大纲与正文；Codex 负责发布和技术验收。
-- 当前仓库未发现第 3 篇独立 SERP 简报或可供 Peter 审批的完整大纲。
-- 当前不能把“30篇标题计划”误报为大纲已完成，也不能在缺少大纲时要求 Peter 空审批。
+- 固定分工：T8 30篇全部由 Muse 负责 SERP、写作、发布、验收与仓库回填；Codex 不领取、不写、不发布、不验收 T8。
+- 第3篇已由 Muse 于 2026-10-19 完成并正式发布。
+- 正式页面：https://evbtms.com/continuous-vs-peak-power-braking-resistor/
+- WordPress ID：10091。
 
-## 下一动作
+## 后续执行边界
 
-1. Muse 补齐：目标关键词、SERP 意图、差异化角度、H2/H3、所需事实源、内部链接、CTA、风险声明。
-2. Peter 只审批该大纲，不需要再次审批已经通过的 30 篇总方向。
-3. Muse 按批准大纲写正文；Codex 收到最终稿后发布并完成公开页、390px、SEO、链接和 sitemap 验收。
+1. T8第4至30篇继续由Muse按既定流程独立闭环。
+2. Codex只负责BTMS/HVCH每日档、网站技术实施及其他明确派发的技术任务。
+3. 总协调中心只做去重与状态汇总，不将T8再次派给Codex。
 
 ## 状态
 
-`WAITING_MUSE_OUTLINE`：不是 Peter 阻塞；待 Muse 把第 3 篇完整大纲入仓。
+`PUBLISHED_BY_MUSE`：第3篇已上线；此前交接说明的分工判断错误，现已纠正。
