@@ -15,6 +15,22 @@
 > 6. **人味写作**（Muse）：大白话、厂家口吻，禁 AI 腔，Peter 随时抽查
 > **每周**：GSC 新查询词复盘，排名 8-30 位的词优先优化
 >
+> ## 🚨 紧急加派（Peter 2026-10-19 12:47 批准）
+>
+> ### P0｜BTMS 分类页（电池热管理分类页）Title/Meta/H1/FAQ 优化（Codex 执行）
+> 1. **任务编号**：BTMS-CAT-OPT
+> 2. **中文说明**：BTMS 分类页 CTR 1.35%→2.5%+，Title/Meta/H1/首屏/FAQ 优化
+> 3. **负责人**：Codex
+> 4. **页面**：https://evbtms.com/products/battery-thermal-management-system/
+> 5. **修改清单**（Peter 已批）：
+>    - Title：`Battery Thermal Management System (3–12kW) | EVLINK Manufacturer`
+>    - Meta：`EVLINK manufactures 3kW, 5kW and 12kW battery thermal management systems with liquid cooling, PTC heating and CAN 2.0 control for electric buses and trucks.`
+>    - H1：`Battery Thermal Management Systems for Electric Buses & Trucks`
+>    - 首屏加：`We build liquid-cooled BTMS units for electric bus and truck makers — 3kW to 12kW, CAN-controlled, with PTC heating where the job needs it.`
+>    - FAQ 加 3 条：电压平台 DC400–860V、全系 IP67、加热功率（5kW/6kW PTC、12kW/8kW PTC）
+> 6. **铁律**：改前留页面级基线快照（GSC 曝光/点击/排名），掉量回滚
+> 7. **截止**：今日内完成
+>
 > ## 🚨 紧急加派（Peter 2026-10-19 10:17 直接指令）
 >
 > ### P0｜T10/T11 立即发布（Codex 现在发布）
