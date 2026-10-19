@@ -164,3 +164,11 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 新发现：Phone/WhatsApp 使用数字字段，可能丢失 `+` 和前导零；未擅自改表单结构，列为下一轮修复。
 - 报告：`REPORTS/T-MINING-inquiry-chain-fix-2026-10-19.md`；状态转 REVIEW，交 Muse 独立验收。
 
+### 2026-10-19 +08 — T10/T11 与 HVCH 当日档状态纠偏
+
+- T10/T11 已于 2026-10-10 正式发布并通过 Muse 验收；2026-10-19 的“待发布/14:00 红线”为重复派工，现已纠正，禁止重复发布。
+- T10：https://evbtms.com/integrated-thermal-management-controller-cost/
+- T11：https://evbtms.com/ev-thermal-management-control-strategy/
+- HVCH 当日补档已发布并技术验收：https://evbtms.com/hvch-insulation-resistance-commissioning-checks/（ID 10097）。
+- 证据：REPORTS/T10-T11-published-2026-10-10.md；REPORTS/DAILY-BTMS-HVCH-gap-audit-2026-10-19.md。
+

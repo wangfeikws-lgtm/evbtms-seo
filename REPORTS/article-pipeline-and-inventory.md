@@ -21,8 +21,8 @@
 | # | 文章 | 状态 | 位置 | 可否发布 |
 |---|------|------|------|----------|
 | T5 | PTC Coolant Heater vs Air Heater（PTC 水暖 vs 风暖对比，~1900词） | ✅ 草稿重写完成 2026-10-19（原稿丢失），待 Peter 确认措辞 | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后发布 |
-| T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 正文已写完 2026-10-09（1778 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T10-integrated-controller-cost-draft.md | ⏳ Codex 发布 |
-| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 正文已写完 2026-10-09（1967 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T11-thermal-control-strategy-draft.md | ⏳ Codex 发布 |
+| T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 已发布并于 2026-10-10 通过 Muse 验收；2026-10-19 对账确认不得重复发布 | REPORTS/T10-T11-published-2026-10-10.md | https://evbtms.com/integrated-thermal-management-controller-cost/ |
+| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 已发布并于 2026-10-10 通过 Muse 验收；2026-10-19 对账确认不得重复发布 | REPORTS/T10-T11-published-2026-10-10.md | https://evbtms.com/ev-thermal-management-control-strategy/ |
 | T8-1 | How to Size a Braking Resistor for an Electric Bus or Truck（选型指南） | ✅ 已发布 2026-10-15（Muse 发布） | REPORTS/T8-article-01-sizing-guide.md | https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/ |
 | T8-2 | Braking Resistor Resistance Calculation: The U²/P Method Explained（电阻计算法） | ✅ 已发布 2026-10-16（Muse 发布） | REPORTS/T8-article-02-resistance-calculation.md | https://evbtms.com/braking-resistor-resistance-calculation/ |
 | T8-3 | Continuous vs. Peak Power: What Really Sizes a Braking Resistor（连续 vs 峰值功率） | ✅ 已发布 2026-10-19（Muse 写＋发；大纲经 Peter 授权 Muse 专业审核通过） | REPORTS/T8-article-03-continuous-vs-peak-power.md | https://evbtms.com/continuous-vs-peak-power-braking-resistor/ |
