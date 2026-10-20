@@ -172,3 +172,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - HVCH 当日补档已发布并技术验收：https://evbtms.com/hvch-insulation-resistance-commissioning-checks/（ID 10097）。
 - 证据：REPORTS/T10-T11-published-2026-10-10.md；REPORTS/DAILY-BTMS-HVCH-gap-audit-2026-10-19.md。
 
+### 2026-10-20 +08 — GSC 手动请求编入索引
+
+- Peter 已确认完成本轮 12 个新发布或近期更新 URL 的 GSC“请求编入索引”，包括今日 BTMS、新近 BTMS/HVCH 补档、T8 制动电阻文章、800V PTC 产品页、矿卡页、T10/T11及两篇 HVCH 技术文章。
+- 口径：仅记录请求已提交，不代表 Google 已完成抓取或收录；后续按 7–14 天复查，不重复提交。
+
