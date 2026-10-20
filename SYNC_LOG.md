@@ -199,3 +199,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 已更新 `COLLABORATION_STANDARDS.md`、`CODEX_INSTRUCTIONS.md` 与 `OPERATING_SYSTEM.md`；任务真相源 `TASKS.md` 的既有未提交修改未触碰。
 - 17:20 自动汇总已改为只读取新增提交、变更任务行和新证据；冗余小时检查自动化在应用中已不存在，无需另行运行。
 
+### 2026-10-20 +08 — DAILY-HVCH-1020 正式发布 / REVIEW
+
+- HVCH CAN integration article ID 10116 published: https://evbtms.com/hvch-can-integration-oem-checklist/.
+- Public QA: HTTP 200, one H1, self canonical, index/follow, SEO title and description present, featured image/FAQ/contact link present; all five internal links return HTTP 200.
+- Mobile 390px visual evidence remains pending; report: `REPORTS/DAILY-HVCH-1020-published.md`.
+

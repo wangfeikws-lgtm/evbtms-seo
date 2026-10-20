@@ -53,7 +53,8 @@
 4. **交付物**：2 篇发布＋URL 回填＋九阶段验收证据
 5. **规则**：防重复检查先行；冲突排队、不许暂停
 6. **截止**：BTMS 9:00、HVCH 14:00 准时
-7. **状态**：READY
+7. **状态**：REVIEW（已发布，待验收）
+8. **结果**：ID 10116，https://evbtms.com/hvch-can-integration-oem-checklist/；报告见 `REPORTS/DAILY-HVCH-1020-published.md`。
 
 ## P1（今日推进）
 
