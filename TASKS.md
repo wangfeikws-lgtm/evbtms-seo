@@ -319,7 +319,6 @@
   - 官方参数（唯一事实源）：`REPORTS/evptc-official-spec-summary.md`
 - **工作流**：Codex：SERP 调研 → 大纲 → Peter 批大纲 → 英文全文 → 发布包（英文标题 / SEO 三要素 / 正文 HTML / 内链清单 / 配图建议）→ Peter 在 ECER 点发布 → Muse 验收 → 14/30 天 GSC 对照
 - **开工**：2026-10-19（周一）；节奏 5 篇/周；每周一批大纲 Peter 一次批完
-- **W1 进展**：5 篇大纲（`REPORTS/T12-W1-serp-outlines-2026-10-19.md`）Peter 2026-10-19 已批，Codex 可写英文全文
 - **红线（违反即返工）**：
   - 不编造规格、认证、客户案例；一切参数以官方规格表为准
   - 人味标准：制造商第一人称，禁 AI 腔（delve / furthermore / moreover / "it's important to note" / em-dash 堆砌 / uniform 段落）
