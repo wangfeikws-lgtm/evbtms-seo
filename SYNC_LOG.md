@@ -192,3 +192,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Instagram 主链接需 Peter 在手机 App 改为 `https://evbtms.com/`；桌面端不允许编辑主页链接。
 - 报告：`REPORTS/2026-10-20-footer-form-instagram-execution.md`。390px 截图待浏览器控制恢复后补证，不把待补截图误报为已验收。
 
+### 2026-10-20 +08 — 低 Token 执行节奏更新
+
+- Peter 确认采用单独当天执行会话、每天最多一篇老站文章、浏览器失败后不循环重试、无变化即结束、一次核验/回写/推送的标准。
+- 总协调固定触点收敛为 08:46 任务提醒、11:20 上午汇报、17:20 当日汇总；旧版每两小时和 16:45/17:30 重复检查条款废止。
+- 已更新 `COLLABORATION_STANDARDS.md`、`CODEX_INSTRUCTIONS.md` 与 `OPERATING_SYSTEM.md`；任务真相源 `TASKS.md` 的既有未提交修改未触碰。
+- 17:20 自动汇总已改为只读取新增提交、变更任务行和新证据；冗余小时检查自动化在应用中已不存在，无需另行运行。
+
