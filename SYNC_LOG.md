@@ -184,3 +184,11 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Muse 发布顺序按 01→05；每篇发布后回填正式 URL、发布时间、文章 ID，并验收 HTTP 200、index/follow、canonical、唯一 H1、SEO 字段、图片、内链和询盘入口。
 - 状态口径：当前仅“已写完并交接”，正式 URL 验收前不得标记为已发布或完成。
 
+### 2026-10-20 +08 — 页脚品牌链接与询盘表单修复 / REVIEW
+
+- 全站页脚已新增老站品牌链接 `https://www.evptc.com/`，公开页可见。
+- 联系表单 Phone/WhatsApp 已由数字字段改为电话文本字段；保留原字段名和通知映射。
+- 正式接口 QA 成功，后台 Entry ID 22；`+86 138 0013 8000` 原样保存，邮件通知日志显示已发送到 `wangfeikws@gmail.com`。
+- Instagram 主链接需 Peter 在手机 App 改为 `https://evbtms.com/`；桌面端不允许编辑主页链接。
+- 报告：`REPORTS/2026-10-20-footer-form-instagram-execution.md`。390px 截图待浏览器控制恢复后补证，不把待补截图误报为已验收。
+
