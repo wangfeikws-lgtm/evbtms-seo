@@ -328,3 +328,7 @@
   2. 发布包完整（标题 / SEO 三要素 / 正文 HTML / 内链清单 / 配图建议）
   3. 事实零编造、语言有人味、SEO 字段齐全
 - **是否涉及正式网站修改**：否（Codex 只写稿不碰 ECER；发布由 Peter 点，属 Peter 审批范畴）
+
+## 2026-10-20 同步备注
+- Codex 已用现有专用 SSH key 修复并验证 GitHub SSH 443；Muse 的 T12-W1 发布完成状态以库存 commit `c8843083` 为准。
+- 本轮工作交接与剩余阻塞已同步：commit `e429926e36f01039da2390f1517a954e41cbcad7`；详见 `REPORTS/2026-10-20-codex-handoff-update.md` 和 `SYNC_LOG.md`。本备注不更改任何任务状态。
