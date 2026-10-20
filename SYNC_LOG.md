@@ -205,3 +205,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Public QA: HTTP 200, one H1, self canonical, index/follow, SEO title and description present, featured image/FAQ/contact link present; all five internal links return HTTP 200.
 - Mobile 390px visual evidence remains pending; report: `REPORTS/DAILY-HVCH-1020-published.md`.
 
+### 2026-10-20 +08 — Muse 发布结果与 Codex 阻塞更新
+
+- Muse commit `c8843083` 已回填 T12-W1 五篇正式 URL；Muse 报告均 HTTP 200，T12-W1 关闭。T10/T11 库存状态和 T8 剩余篇数也已修正。
+- BTMS/HVCH 日档、T8-5、页脚/表单 QA 有完成记录；390px 验收证据待补。Peter 已提交 12 个 GSC 索引请求，不代表已收录。
+- 仍待：BTMS 分类页正式 GSC 基线；T7 真实型号映射及面包屑后台验收；A3→Q-3 301 等 Muse 方案审阅和 Peter 决定；LinkedIn 会话恢复/可能的 CAPTCHA；Instagram Bio 手机端改为新站链接；390px 截图。详见 `REPORTS/2026-10-20-codex-handoff-update.md`。
+- 已用本机现有专用 key 验证 GitHub SSH 443，仓库级 Git 配置已修通；本轮只同步交接和阻塞，不推送本地库存修正，也未修改 `TASKS.md`。
