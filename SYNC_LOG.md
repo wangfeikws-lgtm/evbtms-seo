@@ -177,3 +177,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - Peter 已确认完成本轮 12 个新发布或近期更新 URL 的 GSC“请求编入索引”，包括今日 BTMS、新近 BTMS/HVCH 补档、T8 制动电阻文章、800V PTC 产品页、矿卡页、T10/T11及两篇 HVCH 技术文章。
 - 口径：仅记录请求已提交，不代表 Google 已完成抓取或收录；后续按 7–14 天复查，不重复提交。
 
+### 2026-10-20 +08 — T12-W1 老站5篇改派 Muse 发布
+
+- Peter 决定：T12-W1 五篇英文文章不再由 Peter 手动处理，改由 Muse 负责上传、正式发布、公开验收和仓库回填。
+- Codex 已完成5份最终发布包，均在 `REPORTS/T12-W1-0*-publish-package.md`；事实红线与占位内链已清理，未发布生产页。
+- Muse 发布顺序按 01→05；每篇发布后回填正式 URL、发布时间、文章 ID，并验收 HTTP 200、index/follow、canonical、唯一 H1、SEO 字段、图片、内链和询盘入口。
+- 状态口径：当前仅“已写完并交接”，正式 URL 验收前不得标记为已发布或完成。
+
