@@ -20,13 +20,14 @@
 
 | # | 文章 | 状态 | 位置 | 可否发布 |
 |---|------|------|------|----------|
-| T5 | PTC Coolant Heater vs Air Heater（PTC 水暖 vs 风暖对比，~1900词） | ✅ 草稿重写完成 2026-10-19（原稿丢失），待 Peter 确认措辞 | REPORTS/T5-ptc-coolant-vs-air-draft.md | ⏳ Peter 确认后发布 |
-| T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 已发布并于 2026-10-10 通过 Muse 验收；2026-10-19 对账确认不得重复发布 | REPORTS/T10-T11-published-2026-10-10.md | https://evbtms.com/integrated-thermal-management-controller-cost/ |
-| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 已发布并于 2026-10-10 通过 Muse 验收；2026-10-19 对账确认不得重复发布 | REPORTS/T10-T11-published-2026-10-10.md | https://evbtms.com/ev-thermal-management-control-strategy/ |
+| T5 | PTC Coolant Heater vs Air Heater（PTC 水暖 vs 风暖对比） | ✅ 已更新 2026-10-19（内容升级到旧文章 https://evbtms.com/ptc-coolant-heater-vs-air-heater/，Peter 已批准） | REPORTS/T5-ptc-coolant-vs-air-draft.md | https://evbtms.com/ptc-coolant-heater-vs-air-heater/ |
+| T10 | 集成控制器如何给电动大巴热系统降本 | ✅ 正文已写完 2026-10-09（1778 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T10-integrated-controller-cost-draft.md | ⏳ Codex 发布 |
+| T11 | 电动车热管理控制策略：压缩机/膨胀阀/风机 | ✅ 正文已写完 2026-10-09（1967 词），Peter 2026-10-19 批准结构，待 Codex 发布 | REPORTS/T11-thermal-control-strategy-draft.md | ⏳ Codex 发布 |
 | T8-1 | How to Size a Braking Resistor for an Electric Bus or Truck（选型指南） | ✅ 已发布 2026-10-15（Muse 发布） | REPORTS/T8-article-01-sizing-guide.md | https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/ |
 | T8-2 | Braking Resistor Resistance Calculation: The U²/P Method Explained（电阻计算法） | ✅ 已发布 2026-10-16（Muse 发布） | REPORTS/T8-article-02-resistance-calculation.md | https://evbtms.com/braking-resistor-resistance-calculation/ |
 | T8-3 | Continuous vs. Peak Power: What Really Sizes a Braking Resistor（连续 vs 峰值功率） | ✅ 已发布 2026-10-19（Muse 写＋发；大纲经 Peter 授权 Muse 专业审核通过） | REPORTS/T8-article-03-continuous-vs-peak-power.md | https://evbtms.com/continuous-vs-peak-power-braking-resistor/ |
-| T8-4 | Matching Braking Resistor Resistance to Your DC Bus Voltage (450–850 V)（阻值-电压匹配篇） | SERP＋大纲已备稿 2026-10-17（待 Peter 批，定 10-19 周一与 #3 一起呈批） | REPORTS/T8-article-04-serp-and-outline-2026-10-17.md | ⏳ 大纲批准后写正文 |
+| T8-4 | Matching Braking Resistor Resistance to Your DC Bus Voltage (450–850 V)（阻值-电压匹配篇） | ✅ 已发布 2026-10-19（Muse 写＋发；Peter 2026-10-19 批准） | REPORTS/T8-article-04-resistance-voltage-matching.md | https://evbtms.com/matching-braking-resistor-resistance-dc-bus-voltage/ |
+| T8-5 | How Duty Cycle Determines Braking Resistor Size（占空比决定选型） | ✅ 已发布 2026-10-20（Muse 写＋发；Peter 2026-10-20 批准大纲） | REPORTS/T8-article-05-duty-cycle-sizing.md | https://evbtms.com/duty-cycle-braking-resistor-sizing/ |
 | T8-5~30 | 制动电阻 30 篇规划其余 26 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
