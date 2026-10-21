@@ -1,8 +1,7 @@
-# DAILY_PLAN 2026-10-20（周二）
+# DAILY_PLAN 2026-10-21（周三）
 
 > 协作标准 v2：本文件是每日唯一派工入口。Muse 08:35 前更新入仓，Codex 08:45 增量读取并去重派工。
-> 昨日对账：10-19（周一）完成 T8-3《Continuous vs. Peak Power》、T8-4《Matching Braking Resistor Resistance to Your DC Bus Voltage》上线（管线表待回填）；T12-W1 5 篇大纲 Peter 已批；T-MINING（矿卡）验收 VERIFIED；T10《集成控制器降本》/T11《热管理控制策略》核实为 10-10 已发布（取消重复派工）；T5《PTC Coolant Heater vs Air Heater》核实为 10-09 已发布；GSC 登录恢复、数据断档补齐；IG bio 双链已加。未交付转今日：T12-W1 5 篇全文、BTMS-CAT-OPT、FOOTER-EVPTC-LINK、LINKEDIN-POST（4 项昨日 18:00 未交）。
-> 口径说明：T12 老站英文分工以 TASKS.md 为准（Codex：SERP→大纲→Peter 批→英文全文→发布包）。
+> 昨日对账：10-20（周二）完成 T8-5《How Duty Cycle Determines Braking Resistor Size》发布＋回填；T12-W1 老站 5 篇全部真实上线并回填管线总表；新站每日两档 BTMS 9:00 / HVCH 14:00 发布；页脚老站链＋询盘表单更新；T13 七页文案包昨晚入仓（80fb3e2c）；T10/T11 库存修正为 10-10 已发布；T8 剩余 #6–30；T13 任务节补齐、LinkedIn 改回 Codex 执行（Peter 17:34 批准）、矿卡页撤 Electric Compressor（Peter 17:30 批准）。未闭环转今日：BTMS 分类页 GSC 基线缺失、T7 H3 型号映射、面包屑＋A3→Q-3 301 待批、390px 验收待浏览器。
 
 ## 🎯 30天10条询盘目标（每日执行）
 **每日必做**：
@@ -17,9 +16,21 @@
 
 ## P0（今日必须交付）
 
-### 1. T8-5《How Duty Cycle Determines Braking Resistor Size》（占空比决定制动电阻选型篇）
-1. **任务编号**：T8-5
-2. **中文说明**：制动电阻 30 篇第 5 篇（选型支柱），占空比与选型关系
+### 1. T13《老站 8 页面升级闪电战》7 页执行
+1. **任务编号**：T13
+2. **中文说明**：evbtms.com 8 个老页面升级（Peter 10-20 14:37 批准"10-21 一天干完"）
+3. **7 页清单**：BTMS 分类页（CTR→2.5%）/ 矿卡专区（排名→前 10）/ HVCH 产品页（→前 20）/ 三合一产品页（→前 10）/ HVCH 厂家页（CTR 翻倍）/ BTMS 测试内容（→前 10）/ Applications 页（→前 30）
+4. **负责人**：Codex（执行），Muse（验收）
+5. **交付物**：7 页改后字段＋改前基线快照（字段值＋截图）＋入仓报告
+6. **红线**：英文一字稿以 Muse 文案包 `REPORTS/page-upgrade-copy-pack-2026-10-20.md` 为准，Codex 不写英文；不得改 URL/301/canonical/插件主题
+7. **截止**：今日 18:00 前完成 7 页
+8. **验收**：Muse 逐页对照文案包逐字核对
+9. **状态**：DOING（Muse 文案包昨晚已入仓）
+10. **备注**：10-28 Muse 出 7 天数据报告（排名/CTR 变化、掉量回滚）
+
+### 2. T8-6《制动电阻英文文章第 6 篇》
+1. **任务编号**：T8-6
+2. **中文说明**：制动电阻 30 篇第 6 篇（原理支柱）
 3. **负责人**：Muse（写＋发）
 4. **交付物**：SERP 简报＋英文全文＋WordPress 发布＋管线表回填（URL/日期/ID）
 5. **前置**：防重复检查（查管线表＋wp-json）
@@ -27,87 +38,54 @@
 7. **截止**：今日 17:00 前发布
 8. **发布后**：提醒 Peter GSC 手动提交
 9. **状态**：READY
-10. **备注**：T8-4 管线表回填一并补上（已发布 10-19，表内仍为"待批"）
+10. **备注**：大纲早 08:30 前推 Peter 批
 
-### 2. T12-W1（老站英文第一周）5 篇英文全文
-1. **任务编号**：T12-W1
-2. **中文说明**：evptc.com 老站 5 篇英文全文（大纲 Peter 10-19 已批）
-3. **5 篇标题**：
-   - 《How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs Bus and Truck OEMs Must Define》
-   - 《CAN-Controlled vs Thermostat-Controlled HVCH: Which Architecture Fits Your Vehicle?》
-   - 《Electric Bus Battery Preheating at −30°C: Five Planning Mistakes That Cost Range and Dispatch Time》
-   - 《PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins》
-   - 《Why Electric Bus Range Falls in Winter—and the Five Levers Fleet Managers Can Actually Control》
-4. **负责人**：Codex
-5. **交付物**：5 篇英文全文＋发布包（标题/SEO三要素/正文HTML/内链清单/配图建议）入仓
-6. **红线**：不编造规格/认证/客户案例；人味标准；SERP 已做
-7. **截止**：今日 18:00（昨日未交，今日补救）
-8. **下一步**：Peter 在 ECER 点发布 → Muse 验收
-9. **状态**：DOING（昨日 READY→DOING，未交付）
-10. **备注**：连续两天未交则 16:00 同步点名
-
-### 3. DAILY-BTMS/HVCH-1020（每日两档）
-1. **任务编号**：DAILY-BTMS-1020 / DAILY-HVCH-1020
+### 3. DAILY-BTMS/HVCH-1021（每日两档）
+1. **任务编号**：DAILY-BTMS-1021 / DAILY-HVCH-1021
 2. **中文说明**：BTMS 9:00 档、HVCH 14:00 档各 1 篇
 3. **负责人**：Codex（写＋发）
 4. **交付物**：2 篇发布＋URL 回填＋九阶段验收证据
 5. **规则**：防重复检查先行；冲突排队、不许暂停
 6. **截止**：BTMS 9:00、HVCH 14:00 准时
-7. **状态**：REVIEW（已发布，待验收）
-8. **结果**：ID 10116，https://evbtms.com/hvch-can-integration-oem-checklist/；报告见 `REPORTS/DAILY-HVCH-1020-published.md`。
+7. **状态**：READY
 
 ## P1（今日推进）
 
-### 4. BTMS-CAT-OPT（BTMS 分类页 Title/Meta/H1/FAQ 优化）
-1. **任务编号**：BTMS-CAT-OPT
-2. **中文说明**：BTMS 分类页 CTR 1.35%→2.5%+（Peter 10-19 12:47 已批方案）
-3. **负责人**：Codex
-4. **页面**：https://evbtms.com/products/battery-thermal-management-system/
-5. **铁律**：改前留页面级基线快照（GSC 曝光/点击/排名），掉量回滚
-6. **截止**：今日内完成（昨日未交，今日补救）
-7. **状态**：DOING
+### 4. T12-W2（老站英文第二周）5 篇大纲
+1. **任务编号**：T12-W2
+2. **中文说明**：evptc.com 老站 5 篇英文大纲（Peter 一次批完）
+3. **负责人**：Muse（出大纲）
+4. **交付物**：5 篇大纲＋SERP 依据入仓，呈 Peter 批
+5. **红线**：大纲未经 Peter 批准不得写全文
+6. **截止**：今日 12:00 前呈批
+7. **状态**：READY
+8. **备注**：T12-W1 5 篇已全上线，前台软 404 教训已记（验标题不验状态码）
 
-### 5. FOOTER-EVPTC-LINK（页脚加老站品牌链）
-1. **任务编号**：FOOTER-EVPTC-LINK
-2. **中文说明**：evbtms.com 页脚加 `Our legacy site: evptc.com`（Peter 已批，Muse 把关）
-3. **负责人**：Codex
-4. **不做**：文章内互链、关键词锚文本互链
-5. **截止**：今日内完成（昨日未交，今日补救）
-6. **状态**：DOING
-
-### 6. T7-STRUCTURE（T7 网站结构整改三项余项）
-1. **任务编号**：T7-STRUCTURE
-2. **中文说明**：新站 evbtms.com 结构整改三项（Peter 2026-10-20 批准）
-3. **负责人**：Codex
-4. **明细**：
-   - H3 唯一化：同一页面多个 H3 重名的改掉
-   - 面包屑：加 BreadcrumbList Schema
-   - Q-3/A3 重复链接：合并到 Q-3，A3 做 301 到 Q-3
-5. **铁律**：改前留基线快照，掉量回滚
+### 5. 矿卡页撤 Electric Compressor
+1. **任务编号**：MINING-EC-COMP-REMOVE
+2. **中文说明**：https://evbtms.com/electric-mining-truck/ 第 4 位产品位撤 Electric Compressor（Peter 10-20 17:30 批准）
+3. **负责人**：Codex（执行），Muse（验收）
+4. **交付物**：改前基线（截图＋字段值）＋改后公开面验证报告
+5. **红线**：其余产品位与内链不受影响；不改 URL
 6. **截止**：今日内完成
 7. **状态**：READY
 
-## 候补
+## 候补（有空即做）
 
-### 7. LINKEDIN-POST（LinkedIn 代发布）
+### 6. LINKEDIN-POST（LinkedIn #5/#6/#7 代发）
 1. **任务编号**：LINKEDIN-POST
-2. **中文说明**：LinkedIn 3 篇已批准稿代发布（Peter 10-19 14:54 改派 Codex）
+2. **中文说明**：LinkedIn 三篇已呈批稿代发（Peter 10-20 17:34 批准改回 Codex 执行）
 3. **负责人**：Codex
-4. **截止**：今日内（昨日未交，今日补救）
+4. **备注**：Muse 浏览器登录被拒（保存密码错误），已停止尝试；Codex 用自有路径发布
 5. **状态**：READY
 
-### 8. T4-01（老站内容迁移改写首篇）
-1. **任务编号**：T4-01
-2. **中文说明**：evptc.com 老站内容迁移改写第 1 篇
-3. **负责人**：Muse
-4. **交付物**：改写稿入仓
-5. **截止**：今日 18:00
-6. **状态**：BACKLOG
+### 7. 390px 移动端验收补做（矿卡页＋HVCH 10116）
+1. **任务编号**：MOBILE-QA-1021
+2. **中文说明**：矿卡页与 HVCH 14:00 档（ID 10116）真 390px 视口截图验收
+3. **状态**：待浏览器会话恢复
 
-## 需 Peter 事项
-- T8-4《Matching Braking Resistor Resistance to Your DC Bus Voltage》已发布，GSC 手动提交（请求编入索引）
-- IG bio 双链已加（bio 文本双站＋主链接 evptc.com）；是否把主链接换成新站 evbtms.com，等你一句话
-- T8 技术四项：MOQ、交期、冷却流量 172 vs 160、CD60/CD80 笔误
-- 土耳其邀请函是否已转金璐（昨日截止，未确认）
-- evptc 敏感词 4 个（40644717、40644809、40660606、40668588）待处理
-- 32 个重定向 ECER ticket 待提交
+## 需 Peter（今日）
+- T12-W2 5 篇大纲批准（12:00 前呈）
+- T7 H3 型号映射／面包屑方案批准（A3→Q-3 301 待批）
+- Windsor 断开 2 个连接或 GSC 手动导出（BTMS 基线用）
+- 矿卡三模块文案审稿（初稿已备）
