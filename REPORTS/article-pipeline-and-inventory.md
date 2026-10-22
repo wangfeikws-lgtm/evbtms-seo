@@ -28,7 +28,9 @@
 | T8-3 | Continuous vs. Peak Power: What Really Sizes a Braking Resistor（连续 vs 峰值功率） | ✅ 已发布 2026-10-19（Muse 写＋发；大纲经 Peter 授权 Muse 专业审核通过） | REPORTS/T8-article-03-continuous-vs-peak-power.md | https://evbtms.com/continuous-vs-peak-power-braking-resistor/ |
 | T8-4 | Matching Braking Resistor Resistance to Your DC Bus Voltage (450–850 V)（阻值-电压匹配篇） | ✅ 已发布 2026-10-19（Muse 写＋发；Peter 2026-10-19 批准） | REPORTS/T8-article-04-resistance-voltage-matching.md | https://evbtms.com/matching-braking-resistor-resistance-dc-bus-voltage/ |
 | T8-5 | How Duty Cycle Determines Braking Resistor Size（占空比决定选型） | ✅ 已发布 2026-10-20（Muse 写＋发；Peter 2026-10-20 批准大纲） | REPORTS/T8-article-05-duty-cycle-sizing.md | https://evbtms.com/duty-cycle-braking-resistor-sizing/ |
-| T8-6~30 | 制动电阻 30 篇规划其余 25 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇，下一篇 #6 于 2026-10-21） | — | ❌ 未写完 |
+| T8-6 | Sizing Mistakes That Kill Braking Resistors（选型错误清单） | Peter 发布版定稿 2026-10-22（REPORTS/T8-article-06-peter-version-2026-10-22.md），待发布 | REPORTS/T8-article-06-peter-version-2026-10-22.md | /braking-resistor-sizing-mistakes/（未发布） |
+| T8-7 | How Braking Resistors Work in Electric Vehicles（制动电阻工作原理） | ✅ 已发布 2026-10-22（Peter 发布版，Muse 代发 post 10168；ZeroGPT 16.6%） | REPORTS/T8-article-07-how-braking-resistors-work.md | https://evbtms.com/how-braking-resistors-work-electric-vehicles/ |
+| T8-8~30 | 制动电阻 30 篇规划其余 23 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
