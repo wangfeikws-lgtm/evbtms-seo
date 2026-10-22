@@ -225,3 +225,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 仍是待验收稿：实际特色图、可复核SERP依据及最终全文ZeroGPT/GPTZero结果未齐，不发布，不称最终交稿完成。
 - 员工总人数按Peter确认400；已有工厂视频优先复用；BTMS气流实测数据缺失，不写EVLINK实测结论。
 - 10113按Muse最新同步由Muse接手；矿卡撤卡明确获批但尚未执行。本轮IAB/Chrome后台各一次连接超时，无生产修改和390px验收。每日两篇仍欠交，详见REPORTS/codex-editorial-progress-2026-10-22.md。
+
+### 2026-10-22 +08 — Peter指定页面任务转Muse
+
+- 按Peter要求，矿卡撤卡/排版、T13已批准页面修改及390px验收转Muse执行，具体范围REPORTS/codex-to-muse-browser-handoff-2026-10-22.md；仅交接入仓，尚无Muse领取或生产验收证明。
+- 已读取Muse16:35增量：T12-W2最终v2/v3五篇ZeroGPT报告22.6/27.2/24.1/13.7/3.5%，以最终版为准；不再按v1缺测重复派发。10113/T8-6由Muse进行中，10116不动。
+- 员工400已确认、既有工厂视频优先复用、BTMS气流实测缺失不催Peter；以上覆盖Muse旧待确认项。Codex继续补每日稿件与实际配图包。
