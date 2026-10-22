@@ -211,3 +211,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - BTMS/HVCH 日档、T8-5、页脚/表单 QA 有完成记录；390px 验收证据待补。Peter 已提交 12 个 GSC 索引请求，不代表已收录。
 - 仍待：BTMS 分类页正式 GSC 基线；T7 真实型号映射及面包屑后台验收；A3→Q-3 301 等 Muse 方案审阅和 Peter 决定；LinkedIn 会话恢复/可能的 CAPTCHA；Instagram Bio 手机端改为新站链接；390px 截图。详见 `REPORTS/2026-10-20-codex-handoff-update.md`。
 - 已用本机现有专用 key 验证 GitHub SSH 443，仓库级 Git 配置已修通；本轮只同步交接和阻塞，不推送本地库存修正，也未修改 `TASKS.md`。
+
+### 2026-10-22 +08 — Codex 历史待办对账
+
+- T12-W1专用库存「发布」栏及五个正式URL已对齐总管线，避免重复领取；TASKS旧T8建页READY已指向2026-10-15已有VERIFIED记录，博客/390px/收录余项未取消。
+- LinkedIn七帖、T5/T10/T11、T8产品页、T12-W1不重复发布；Instagram Bio按Peter决定暂不改。
+- 本轮没有生产修改或移动验收。浏览器安全停止、矿卡生产派工审批拒绝和仍未交稿项已如实列入 `REPORTS/codex-backlog-reconciliation-2026-10-22.md`。
+- GitHub集成写入403；系统OpenSSH专用key经443认证成功，使用隔离目录和既有SSH通道同步库存与报告。
