@@ -1,0 +1,22 @@
+The question that opens every serious HVCH conversation:
+
+"You sell A, Q and H series heaters. Which one does my project need?"
+
+Same answer every time: start with required kW, then the voltage window. The letters mark power bands and voltage reach, not good-better-best.
+
+One, power. H covers 5–14 kW, A covers 6–18 kW, Q covers 15–35 kW. The bands overlap — that's exactly where buyers get stuck. When two series both cover your kW, power has done its job. Move on to the voltage window.
+
+Two, voltage. Rated voltage is customizable on all three series, so stop there and look at the operating window: A runs 400–800V, H reaches 400–1000V, Q spans 400–1100V. A 12 kW heater on a 900V platform is an H conversation, not an A one. Send min/nominal/max — the nominal number alone misleads.
+
+Three, same DNA. All three run -40 to +85°C, carry IP67, speak CAN plus an enable signal, and self-diagnose faults. So the series letter never tells you about quality tier. It tells you power × voltage.
+
+Scoping a heater? Send vehicle type, required kW, min/nominal/max HV, 12/24V supply, coolant and flow, inlet/target temp, ambient range, installation envelope, and CAN requirements. Enough for a fit assessment.
+
+#EVThermalManagement #HighVoltageHeater #ElectricBus #HVCH #EVLINK
+
+---
+
+FIRST COMMENT (post it right after publishing, contains the link):
+
+HVCH selector with the power bands, voltage platforms and the full input checklist: https://evbtms.com/products/high-voltage-coolant-heater/
+Happy to compare notes on heater sizing and voltage-window matching for bus and truck platforms.

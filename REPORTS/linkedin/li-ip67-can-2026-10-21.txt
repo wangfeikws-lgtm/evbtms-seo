@@ -1,0 +1,22 @@
+
+
+Export programs ask two questions before they ever talk price:
+
+"Protection rating?" and "what CAN does it speak?"
+
+Both have killed projects late: a controller that fails in the wash bay, or whose CAN dialect fights the vehicle network at integration.
+
+One, sealing. Control box rated ≥IP67: dust-tight, survives washdown. Engine-bay or chassis mounting — no second argument.
+
+Two, comms. CAN 2.0. Protocol, CAN ID, baud rate and control logic matched to your vehicle network per project — it learns your bus's dialect.
+
+Three, why the pair. Field failures come from the seal, integration failures from the bus. Both fixed before the first sample ships. That's how it survives your build, not just the bench.
+
+Scoping a program? Send vehicle platform, HV voltage, compressor parameters, your CAN spec, and installation envelope. Enough for a fit assessment.
+
+#EVThermalManagement #ElectricBus #CANbus #CommercialEV #EVLINK
+
+
+
+Full spec table for our three-in-one controller (≥IP67 control box, CAN 2.0 with per-project protocol/ID/baud/logic matching, -40 to +65°C, 600V/800V platforms): https://evbtms.com/products/three-in-one-controller/
+Happy to compare notes on CAN integration and chassis-mount sealing for bus and truck thermal systems.

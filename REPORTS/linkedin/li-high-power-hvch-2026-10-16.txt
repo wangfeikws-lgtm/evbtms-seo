@@ -1,0 +1,22 @@
+[正文——复制这段发帖]
+
+Something I keep seeing in RFQs for electric trucks: the heater section gets sized like a passenger car, then multiplied. A 12 kW unit worked on the light-duty prototype, so the project asks for another 12 kW unit. Or two.
+
+The international catalogs top out there for a reason. 12 kW is roughly the ceiling for single-unit heaters built for passenger cars and light commercial vehicles. Above that, you leave the catalog and enter project engineering.
+
+Three things I check before signing a high-power heating spec:
+
+First, match the power band to the duty. Our selector splits the line into 6-18 kW (light/medium), 20-25 kW (heavy commercial), and 30-35 kW (high-power platforms). Oversizing wastes package space; undersizing cooks the element.
+
+Second, confirm the full voltage window, not the nominal. DC870V units have run in volume on heavy dump trucks since 2021, because the whole min/nominal/max window was qualified.
+
+Third, treat high power as a system. The 210 kW truck systems we support run six 35 kW units in parallel. At that scale, CAN strategy, insulation, and hydraulic balance across the loops decide whether the system survives real duty.
+
+Bring the full picture: vehicle type, voltage window, required kW, coolant flow, target temps, ambient, and CAN strategy. Power alone never told the whole story.
+
+#HighVoltageHeater #EVThermalManagement #ElectricVehicles #ElectricTruck #ThermalManagement
+
+
+[首评——发完帖立刻贴这段，含链接]
+
+Full heater selector with the three power bands and the project inputs we ask every RFQ for: https://evbtms.com/products/high-voltage-coolant-heater/ Happy to compare notes on high-voltage heater sizing for truck and mining applications.

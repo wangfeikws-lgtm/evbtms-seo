@@ -1,0 +1,23 @@
+=== 正文（复制这段发帖） ===
+
+Somebody asked me this week: "What do you need from me to quote your three-in-one controller?"
+
+Most first messages we receive are "please send your price list." We can send one. It answers nothing — the wrong voltage variant costs a second round of samples, and the right answer was never about price.
+
+The quote that matters is a technical fit answer. It starts with three lines of project facts.
+
+One: platform and voltage. 600V or 800V? Our controller runs two input windows, 250–750V DC and 600–1000V DC. One line decides the variant.
+
+Two: the compressor. Ours or yours? 5–10 kW adjustable on our side. If it's your compressor, send the technical and motor parameters — we adapt the control to it.
+
+Three: envelope and bus. Roughly 280×200×95 mm, vertical mounting, -40 to +65°C, CAN 2.0 with protocol, ID, baud rate and control logic matched to your vehicle network per project. That tells us it bolts into your bay and speaks your network.
+
+Send those three and you get back which variant fits, what adapts, and what's still open — before anyone talks price. MOQ starts at 10 units; conventional lead time around 15 days.
+
+That's the whole intake. Three lines, one technical answer.
+
+#EVThermalManagement #ElectricBus #EVController #CommercialEV #EVLINK
+
+=== 首评（发完帖立刻贴这段，含链接） ===
+
+Full spec table for our three-in-one thermal controller (600V/800V platforms, 250–750V / 600–1000V DC input windows, compressor 5–10 kW adjustable, PTC 8 kW + battery heating 24 kW, -40 to +65°C, control box ≥IP67): https://evbtms.com/products/three-in-one-controller/ — send vehicle platform, HV voltage and compressor parameters, and we will run a fit check.

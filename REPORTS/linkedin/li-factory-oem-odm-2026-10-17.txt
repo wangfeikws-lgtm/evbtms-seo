@@ -1,0 +1,26 @@
+【正文——复制这段发帖】
+
+Buyers touring suppliers in China ask the same first question: who actually builds the heater?
+
+A trading company and a manufacturer answer an RFQ very differently. When the spec changes mid-project, one requotes. The other opens the design file.
+
+Our answer: EVLINK was founded in 2020. We run an 8,000㎡ production base where PTC electric-heating R&D and manufacturing sit under the same roof.
+
+Three things I would check when qualifying one:
+
+First, R&D on site. When development and production share a building, a parameter change goes from drawing to sample without a middleman.
+
+Second, duty cycles that match yours. Our heaters sit in high-voltage air and coolant lines on electric buses, mining trucks, and commercial vehicles. Heavy duty is daily business.
+
+Third, who their customers are. Ours are OEMs, vehicle and equipment developers, and system integrators. You learn to read drawings like a partner when the other side holds the drawing standards.
+
+One figure from our internal queue could not be verified in published materials, so it stays out. Every number here is verified.
+
+Qualifying a supplier? Bring vehicle type, voltage platform, heater type, required power, operating environment, and target volumes.
+
+#EVThermalManagement #EVManufacturing #ElectricVehicles #OEMODM #EVLINK
+
+
+【首评——发完帖立刻贴这段，含链接】
+
+Full company profile, what we build and who we build for: https://evbtms.com/about-us/ If you are sourcing a high-voltage heater this quarter, drop me the vehicle type and voltage platform and I will loop in engineering.

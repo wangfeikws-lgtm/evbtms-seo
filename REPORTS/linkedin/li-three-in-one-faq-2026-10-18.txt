@@ -1,0 +1,28 @@
+
+
+The question that opens every serious conversation about our three-in-one controller:
+
+"Can it work with our own compressor?"
+
+Short answer: yes. The details are where projects go wrong.
+
+Most bus and truck programs already have a qualified compressor, and nobody wants to re-qualify one. Send us your compressor's technical and motor parameters; we match the DCAC section to your unit. The controller fits your system, not the reverse.
+
+Three loops, each reading a real signal:
+
+One, compressor speed follows water temperature against the target: rises, speed rises; drops, speed drops.
+
+Two, expansion valve follows superheat: high superheat, wider opening; low superheat, narrower.
+
+Three, condenser fan follows high-side pressure: starts around 13 bar, calibrated per project.
+
+One box, three controllers: DCAC compressor drive, refrigeration ECU, HV PTC. One unit instead of three.
+
+Scoping a program? Send vehicle platform, voltage, compressor parameters - that's what I need to assess fit.
+
+#EVThermalManagement #ElectricBus #ThermalManagement #CompressorControl #OEM
+
+
+
+
+Product page with the full spec table and control logic: https://evbtms.com/products/three-in-one-controller/ Happy to compare notes on compressor matching and control calibration for bus and truck thermal systems.

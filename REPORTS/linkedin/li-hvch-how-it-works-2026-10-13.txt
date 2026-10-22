@@ -1,0 +1,16 @@
+【正文——复制这段发帖】
+
+Most engineers size a coolant heater by two numbers: volts and kilowatts. Then the prototype arrives and the vehicle controller cannot talk to it.
+
+A coolant heater is not a resistor in a box. It is a five-stage system. Power in: 400, 600 or 800 V, where the nominal number is only the start and the operating range matters more. The PTC element turns power into heat and self-regulates with temperature. A pump circulates coolant through the heater; the heater can sit anywhere since coolant does the moving. Valves and pumps route warmed coolant to cabin, battery and defrost. And CAN: the controller sends enable, target power, mode and temperature target, while the heater reports back status, coolant temperature, faults and diagnostics.
+
+Right voltage and power with the wrong protocol is still a project delay. Settle the protocol before prototype validation, not during.
+
+Sizing a heater? Bring the full picture: vehicle type, ambient conditions, flow rate, actual voltage range, installation space. Power alone never told the whole story.
+
+#EVThermalManagement #ElectricVehicles #ThermalManagement #ElectricBus #EVEngineering
+
+
+【首评——发完帖立刻贴这段，含链接】
+
+Full five-stage breakdown with the selection inputs we ask every project for: https://evbtms.com/how-high-voltage-coolant-heater-works/ Happy to compare notes on CAN integration timing for bus vs truck platforms.
