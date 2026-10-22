@@ -254,3 +254,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 
 - 正式检测派工：REPORTS/dispatch-muse-detect-two-daily-articles-2026-10-22.md，附两篇完整txt、对应正文、结果回填位置及ZeroGPT<=30%门槛。Muse执行、Codex核对、Peter最终审稿。
 - 只检测，不发布；当前待Muse领取，无分数，后续以新结果文件及证据为准。
+
+### 2026-10-22 +08 — 主动核对17:10转派并立即通道预警
+
+- 已读f6cbb15：矿卡撤卡Muse17:07已核验，不重复；T13五项转Codex，390px归Muse，BTMS测试节#6暂停。
+- 控制通道未恢复，遵照该派工预警条款立即请求Muse接续后台执行，详见REPORTS/t13-immediate-channel-blocker-2026-10-22.md。未等死线、未冒报生产修改或Muse已领取。
