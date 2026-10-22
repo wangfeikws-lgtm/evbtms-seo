@@ -1,0 +1,76 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Peter review — BTMS and HVCH, 2026-10-22</title><style>body{margin:0;background:#f1f5f8;color:#233543;font:18px/1.7 Arial,sans-serif}main{max-width:920px;margin:36px auto;padding:0 20px}header,article{background:white;border-radius:16px;padding:36px;margin-bottom:28px}h1{font-size:34px;line-height:1.2}h2{font-size:25px;line-height:1.35;margin-top:36px}a{color:#27669e}img{width:100%;height:auto;border-radius:10px}.tag{color:#4789C6;font-weight:bold}aside{padding:18px;background:#fff3d7;border-left:4px solid #c88716;margin:24px 0;font-size:16px}header p{margin:8px 0}@media(max-width:600px){main{margin:12px auto;padding:0 10px}header,article{padding:20px}h1{font-size:27px}h2{font-size:22px}body{font-size:17px}}</style><main><header><h1>发布前审核包 · 2026-10-22</h1><p>两篇完整正文＋实际特色图。未发布。</p><p>需要Peter审核：技术表达是否符合实际、产品图及主题是否合适。AI检测结果待补，未齐前不请求最终发布确认。</p><p>AI图片为既有产品素材的辅助合成与场景示意，不是工厂或性能测试照片。检测分数是工具判断，不是实际人工写作比例。</p></header><article><p class="tag">DAILY-BTMS-1022 · Codex</p><h1>BTMS Condenser Airflow: An Installation Review Checklist</h1><img src="assets/daily-2026-10-22/btms-condenser-airflow-feature.webp" width="1199" height="675" alt="EVLINK BTMS product visual with conceptual airflow arrows"><aside><strong>发布前检测：未完成</strong><br>ZeroGPT：未实测；GPTZero AI / Mixed / Human：未实测。空缺不代表0%，不得发布。检测结果须对应本页完整正文，最终仍需Peter审核。</aside><p>If a battery thermal management system cools acceptably on a bench but struggles after installation, check the condenser air path before ordering a larger unit. A fan can be running while the condenser is drawing restricted or already-heated air. This review is for an air-cooled condenser in a refrigerant-based BTMS; it does not apply unchanged to a liquid-cooled condenser.</p>
+
+<h2>Define the air the unit actually receives</h2>
+<p>Record both surrounding ambient temperature and air temperature at the condenser inlet. They are not automatically the same measurement. An inlet beside another heat source, inside a restricted enclosure or close to its own discharge needs attention before catalogue capacity can be compared with vehicle performance.</p>
+<p>Ask for the installation drawing, intended airflow direction, service clearances and operating conditions used for the supplier's capacity data. Do not borrow a clearance or airspeed value from a different model. A controller's local cooling-air requirement is also not automatically the condenser's required airflow.</p>
+
+<h2>Inspect the complete path, not just the fan</h2>
+<p>Trace where air enters the vehicle enclosure, how it crosses the condenser and where it leaves. Include grilles, guards, ducts and body panels. Photograph the installed arrangement with the panels in their normal operating positions. An open workshop panel can conceal a restriction that returns when the vehicle is reassembled.</p>
+<p>Look for a route that lets discharge air return to the inlet. Check nearby surfaces and the effect of other cooling fans. Danfoss identifies restricted flow, incorrect direction and air recirculation among the possible contributors to high condensing pressure. Those are general refrigeration checks, not a diagnosis of any particular EVLINK installation.</p>
+
+<h2>Separate a command from a physical response</h2>
+<p>A fan command in a log proves that a command was issued. It does not prove the required airflow reached the coil. Compare the requested state with the available feedback, observed direction and the actual air path. Follow the equipment manual when interpreting speed or fault signals.</p>
+<p>Any work near rotating fans, electrical equipment or the refrigerant circuit belongs to trained personnel under the vehicle's approved safety procedures. Do not bypass pressure protection, remove guards during operation or open the refrigerant circuit simply to complete an airflow checklist.</p>
+
+<h2>Build a useful evidence record</h2>
+<p>Before changing the installation, agree which measurements will answer the question. A useful record keeps the following information together:</p>
+<ul>
+<li>BTMS model, configuration, software version and installation drawing revision.</li>
+<li>Vehicle state: stationary or moving, operating load and other thermal systems running.</li>
+<li>Ambient and condenser-inlet temperatures, with measurement positions identified.</li>
+<li>Fan request, available feedback and observed airflow direction.</li>
+<li>Coolant inlet/outlet temperatures and flow, where approved measurements are available.</li>
+<li>Relevant controller limits, alarms and the time each event occurred.</li>
+<li>Photos showing grilles, ducting, service panels and nearby heat sources.</li>
+</ul>
+<p>Synchronise the records so a change in a command can be compared with the measured response. Missing channels should be marked unavailable. A single photograph or temperature difference cannot establish airflow volume or cooling capacity by itself.</p>
+
+<h2>Compare changes under controlled conditions</h2>
+<p>Change one installation variable at a time where practical, and document what changed. Keep the starting state and load comparable. If the weather or battery load changes between runs, record that difference rather than attributing the entire result to the duct modification.</p>
+<p>Agree the acceptance criteria with the responsible engineer before testing. This article gives no universal passing temperature, pressure, airspeed or percentage improvement. Supplier requirements and vehicle limits determine the decision.</p>
+
+<h2>Know when the airflow check is not enough</h2>
+<p>An airflow concern is one possible explanation, not the final answer. If the documented air path meets its requirements and the issue remains, the investigation may need to examine sensors, refrigerant-side operation, controls or the load assumption. Use the equipment's diagnostic procedure rather than repeatedly increasing fan demand.</p>
+<p>Our <a href="https://evbtms.com/products/battery-thermal-management-system/">battery thermal management system range</a> is a starting point for a model-specific discussion. For the distinction between the liquid and refrigeration sides, see <a href="https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/">BTMS refrigerant circuit versus coolant loop</a>.</p>
+
+<h2>Send the installation evidence with the enquiry</h2>
+<p>When you <a href="https://evbtms.com/contact/">contact EVLINK about a BTMS installation</a>, include the unit model, vehicle duty, drawing, inlet conditions and available logs. If those data are not yet available, say so. The next step is to agree the review scope, not to invent missing measurements or promise a capacity increase.</p></article>
+<article><p class="tag">DAILY-HVCH-1022 · Codex</p><h1>HVCH Not Starting? Check Low-Voltage Supply and Wake-Up</h1><img src="assets/daily-2026-10-22/hvch-start-up-review-feature.webp" width="1199" height="675" alt="EVLINK coolant heater with supply, wake-up and enable icons"><aside><strong>发布前检测：未完成</strong><br>ZeroGPT：未实测；GPTZero AI / Mixed / Human：未实测。空缺不代表0%，不得发布。检测结果须对应本页完整正文，最终仍需Peter审核。</aside><p>If a high-voltage coolant heater does not start, high-voltage availability is only one part of the investigation. The selected unit may also depend on a separate control supply, a wake-up input, valid messages and other enable conditions. Begin with the exact heater documentation rather than assuming every HVCH starts in the same way.</p>
+
+<h2>Identify the variant before reading the fault</h2>
+<p>Record the part number, hardware revision, software version and interface-document revision. Confirm which supply powers the electronics and how the unit is expected to leave its sleep state. A CAN-controlled heater and a thermostat-controlled heater do not offer the same commands or diagnostic information.</p>
+<p>Some manufacturers publish separate high-voltage and low-voltage ratings. That establishes why both interfaces need review; it does not make another supplier's supply range valid for an EVLINK unit. Use the approved drawing and limits for your selected variant.</p>
+
+<h2>Distinguish three questions</h2>
+<p>First, was the specified control supply available at the relevant time? Second, did the heater reach the documented awake or ready state? Third, were the conditions for heating satisfied? A “no heat” report does not say which of these failed.</p>
+<p>A vehicle-controller log showing an enable request is useful, but it is not proof that the heater received or accepted it. Compare the request with the unit's documented feedback where that interface provides feedback. If it does not, agree an alternative observation with the supplier instead of inventing a ready-state signal.</p>
+
+<h2>Capture the supply during the event</h2>
+<p>A supply reading taken after the event may not explain an intermittent start problem. Ask the responsible electrical engineer to define the approved measurement point and capture method for the control supply and return during wake-up. Include relevant events from other vehicle loads if they occur at the same time.</p>
+<p>This is not permission for unqualified live testing. High-voltage isolation, access and measurement must follow the vehicle manufacturer's procedures and local requirements. Do not bridge an interlock, force a power stage on or use an assumed pinout to see whether the heater runs.</p>
+
+<h2>Check the wake-up definition, not a familiar pattern</h2>
+<p>Use the interface specification to establish whether wake-up depends on an input, a network event, an ignition state or another defined condition. Record the required sequence and timing from that document. Do not import a delay, baud rate or message identifier from a similar-looking heater.</p>
+<p>If the selected model uses communication commands, check the relevant protocol fields and version. If it uses thermostat or switched control, follow that architecture instead. A missing CAN response is not a useful fault finding on a unit that has no CAN interface.</p>
+
+<h2>Review inhibits before replacing the heater</h2>
+<p>A unit may be awake without being permitted to heat. Its documentation determines which conditions can inhibit operation and how they are reported. Supply limits, temperature limits, interlocks and other protections should be reviewed only where they actually apply to the variant.</p>
+<p>Preserve the reported fault state before clearing anything. Repeated resets can remove useful event information and are not a substitute for diagnosing the cause. The responsible engineer should decide the next test from the available evidence and approved service instructions.</p>
+
+<h2>Prepare one time-aligned evidence package</h2>
+<ul>
+<li>Exact heater identity and the document versions used for interpretation.</li>
+<li>Requested operation and the vehicle state immediately before the failed start.</li>
+<li>Approved control-supply observation, with measurement location and instrument stated.</li>
+<li>Wake-up or enable input as defined for that model, not an assumed generic signal.</li>
+<li>Available heater states, diagnostics and relevant vehicle-controller events.</li>
+<li>Changes between successful and unsuccessful attempts, including software or harness work.</li>
+</ul>
+<p>Keep successful and failed attempts under comparable conditions where possible. If an event was not captured, mark it missing. A hypothesis such as a supply interruption remains provisional until the recorded evidence supports it.</p>
+
+<h2>What counts as a resolved issue?</h2>
+<p>Agree acceptance criteria before the corrective test. Confirm the documented wake-up and shutdown behaviour and the required heating response under the approved conditions. Save the final configuration with the logs so the result can be repeated. One successful restart after an unexplained fault is not the same as a verified repair.</p>
+<p>For broader command mapping, use the separate <a href="https://evbtms.com/hvch-can-integration-oem-checklist/">HVCH CAN integration checklist</a>; for product selection, review the <a href="https://evbtms.com/products/high-voltage-coolant-heater/">high-voltage coolant heater range</a>. Neither replaces the interface documentation for the actual part.</p>
+
+<h2>Ask for a model-specific review</h2>
+<p><a href="https://evbtms.com/contact/">Send EVLINK the heater identity, interface revision and available event record</a>. State which observations are confirmed and which are still assumptions. That gives the supplier a defined question to review without disguising a wiring, control or operating-condition issue as a proven product failure.</p></article></main></html>
