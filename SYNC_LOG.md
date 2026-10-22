@@ -249,3 +249,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 两张实际封面PNG/WebP已制作并目视验收，WebP1199×675分别55KB/61KB，文件及Alt见REPORTS/daily-1022-image-and-detection-results.md。
 - 使用既有产品视觉做AI辅助封面，不声称真实测试照片；没有新产品性能参数。
 - ZeroGPT操作通道超时，两个工具均未实测。固定检测全文及SHA256已保存，向Muse提交最小补测包；没有报通过或沿用旧稿分数。
+
+### 2026-10-22 +08 — Peter明确将两篇检测转Muse
+
+- 正式检测派工：REPORTS/dispatch-muse-detect-two-daily-articles-2026-10-22.md，附两篇完整txt、对应正文、结果回填位置及ZeroGPT<=30%门槛。Muse执行、Codex核对、Peter最终审稿。
+- 只检测，不发布；当前待Muse领取，无分数，后续以新结果文件及证据为准。
