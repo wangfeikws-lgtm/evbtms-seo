@@ -11,11 +11,11 @@
 ## HTML body
 
 ```html
-<p>Battery swapping is sold on one number: about five minutes, and the truck is full again. True, and genuinely impressive. But swapping removes the charging wait, not the physics. A heavy truck pack still gets hot, still gets cold, and still refuses to charge properly outside its temperature window. The thermal problem does not disappear on a swap truck. It moves house, splits in two, and one half of it lands somewhere most specifications forget to look.</p>
+<p>Battery swapping can shorten the time a truck spends replenishing energy, but it does not remove the need for thermal management. The pack must meet temperature limits while charging at the station and while working on the vehicle. Define both operating environments before sizing the heating or cooling equipment.</p>
 
 <h2>Half one: the pack's life now happens in a rack</h2>
 
-<p>On a plug-in truck, the pack spends its nights on the vehicle, charging slowly. On a swap truck, the pack spends its life cycling through a station: charged hard, swapped in, worked, swapped out, charged hard again. Standardised swap packs for heavy trucks now run past 400 kWh, with current designs at 432 and 513 kWh. Charging a mass that size at commercial speed generates serious heat, and the station, not the truck, owns that problem.</p>
+<p>A swap pack moves between the truck and a station charging position. The station needs the pack supplier's heat-generation data, charging profile and allowable temperature range. Size station conditioning for the number of packs handled concurrently and their worst agreed operating conditions; no universal pack size or swap time is assumed here.</p>
 
 <p>The station owns the cold problem too. A pack that sits in an unheated rack through a winter night charges slowly and ages while it does it. Lithium cells accept charge reluctantly when cold, and forcing it costs cycle life. So the swap station needs what the truck used to need: packs held inside a ready temperature window, warmed ahead of the morning peak, cooled through the afternoon charging waves. The heating and cooling capacity belongs in the station design documents, sized for the busiest hour, not the average day.</p>
 
@@ -27,15 +27,15 @@
 
 <h2>The interfaces get punished daily</h2>
 
-<p>A plug-in truck connects its coolant circuit to nothing; the loop is sealed for life, more or less. A swap pack's fluid couplings, where the design uses them, are mated and unmated every working day, in grit, frost and hurry. Every cycle wears seals, invites air into the loop, and tests the self-sealing valves. An air lock that would be a once-in-a-decade event on a sealed truck becomes a maintenance statistic on a swap fleet.</p>
+<p>Where the design uses disconnectable coolant couplings, repeated mating adds interface requirements. Check connection-cycle durability, leakage limits, contamination control and air entry. Fixed-pack vehicles also need coolant-system service; neither arrangement should be described as sealed for life.</p>
 
 <p>Our advice to anyone specifying swap vehicles: ask for the coupling cycle rating in writing, design the fill and bleed procedure for the station rather than the workshop, and log coolant condition as a station KPI. Thermal reliability on a swap network is an interface discipline problem wearing a chemistry costume.</p>
 
-<h2>The five minutes buys time; temperature decides if it is usable</h2>
+<h2>Fast handover still needs a defined temperature window</h2>
 
-<p>Run the January scenario. A pack is swapped in at −15°C because the station held it cold to save energy. The truck pulls away with a full charge it cannot fully use: discharge power is limited, regenerative braking is limited, and the pack will not accept a fast top-up until it warms. The swap took five minutes. The penalty lasts two hours.</p>
+<p>Consider a hypothetical handover below the battery's approved operating-temperature window. The BMS may limit power, regeneration or charging until conditions recover. The limits and recovery time depend on the pack and operating conditions; they cannot be inferred from swap duration.</p>
 
-<p>Warming that pack at the station, on grid power, before the swap, costs less energy money and none of the truck's working day. This is why the swap agreement itself needs a thermal clause: pack temperature at handover, stated as a number, owned by the station operator. In our experience that line is missing from early swap contracts, and its absence is discovered the expensive way.</p>
+<p>Define a permitted pack-temperature window at handover and allocate responsibility for achieving it. Compare station preconditioning with vehicle-side recovery using the actual energy tariff, losses and operating schedule. No guaranteed cost advantage or customer contract history is claimed here.</p>
 
 <h2>What to put in the specification</h2>
 
@@ -52,15 +52,22 @@
 <h2>Questions we hear on this topic</h2>
 
 <h3>Do swap trucks need smaller on-board heaters?</h3>
-<p>No. The cabin and defrost loads are unchanged, and pack temperature holding on route still needs heat. The station takes over charging-related conditioning, not the truck's winter.</p>
+<p>Not necessarily. Cabin and defrost duties remain, while battery-heating demand depends on handover conditions and the route. Evaluate truck-side loads directly rather than automatically retaining or reducing the previous heater rating.</p>
 
 <h3>Can station conditioning replace on-board battery heating completely?</h3>
-<p>It replaces pre-departure warming and charging conditioning. It cannot hold a pack's temperature through a long cold shift. Both halves of the system earn their place.</p>
+<p>Station conditioning can establish the starting temperature, but it does not by itself control the pack throughout a route. Whether additional onboard heating is required depends on heat generation, heat loss, duty duration and the permitted operating window.</p>
 
 <h3>Who should pay for preconditioning energy at the station?</h3>
 <p>That is a commercial question, but it has to be asked in the contract, alongside the handover temperature. Energy spent warming packs is small next to the cycle life and downtime it protects.</p>
 
 <p><strong>Specifying swap trucks or a swap station?</strong> Send us the duty cycle, the climate and the pack format. We will size the truck-side heating and list the station-side thermal questions your agreement needs to answer.</p>
+<h2>Related selection resources</h2>
+<ul>
+<li><a href="https://www.evptc.com/sale-40723397-high-voltage-ptc-water-heater-15-35kw-400-1100v-for-electric-vehicles-ev-battery-thermal-management-.html">Q Series 15–35 kW coolant heater</a></li>
+<li><a href="https://www.evptc.com/products.html">high-voltage coolant heater product range</a></li>
+<li><a href="https://www.evptc.com/news/electric-bus-battery-preheating-at-30c-five-planning-mistakes-422919.html">electric bus battery preheating at −30°C</a></li>
+<li><a href="https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html">why electric bus range falls in winter</a></li>
+</ul>
 ```
 
 ## Internal links
@@ -76,14 +83,12 @@
 - Diagram: two-half schematic (station rack conditioning / on-board truck heating) drawn generically.
 - Alt text: `EVLINK Q Series coolant heater for battery-swapping heavy trucks, cabin heating and pack temperature holding`.
 
-## Fact-red-line self-check
+## Review status — 2026-10-22
 
-- Uses only official EVLINK data: Q Series 15–35 kW / 400–1100 V. No BTMS model numbers are stated, because no verified QC01/BTMS figures were available for this piece; the station-side discussion stays architectural.
-- Market facts are limited to widely reported figures from the 2026-10-22 SERP check: new-generation stations complete a swap in about five minutes, and current standardised heavy-truck swap packs are 432 kWh and 513 kWh. No operator is presented as an EVLINK customer.
-- No certification names, prices, MOQ or lead-time claims.
-- SERP note (2026-10-22): current coverage is swap-network launch news and generic truck thermal data; the thermal split between station and vehicle is unaddressed, which is the gap this article fills.
-- Angle differentiation: the site's older battery-swap commentary is industry news reaction; this is an evergreen specification guide.
-
-## Remaining mandatory confirmation
-
-- None for this version. If verified EVLINK BTMS/QC01 station-side product data becomes available, the station section can be strengthened with real model data in a later revision.
+- Peter approved this article direction on 2026-10-22. Editorial revision by Codex; not a publication approval.
+- Removed or qualified unsupported case histories, generalised product claims and unreferenced numerical performance/cost claims. Product data must be confirmed for the selected variant.
+- Four actual HTML internal links included from the repository's published inventory. Targets have not received a fresh live HTTP check this round.
+- SERP research in the earlier draft lacked reproducible query/location/result evidence; no verified search-volume or ranking claim is made. This remains an acceptance item.
+- Featured-image recommendations are not an image delivery. Actual approved photo and finished image remain pending.
+- Final revised text has NOT been tested in ZeroGPT/GPTZero. Do not reuse any earlier version's score. Required recorded threshold: ZeroGPT <=30%; GPTZero reference only.
+- Status: revised draft, pending technical review, actual images, detector results and Peter's final review. Do not publish.

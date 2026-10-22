@@ -218,3 +218,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - LinkedIn七帖、T5/T10/T11、T8产品页、T12-W1不重复发布；Instagram Bio按Peter决定暂不改。
 - 本轮没有生产修改或移动验收。浏览器安全停止、矿卡生产派工审批拒绝和仍未交稿项已如实列入 `REPORTS/codex-backlog-reconciliation-2026-10-22.md`。
 - GitHub集成写入403；系统OpenSSH专用key经443认证成功，使用隔离目录和既有SSH通道同步库存与报告。
+
+### 2026-10-22 +08 — Codex五篇稿件实质修订
+
+- Peter已批准T12-W2五个方向。01～05正文修订并各嵌入4条HTML内链；删除或限定无依据的性能数字、成本排序与供货经历，纠正E系列无CAN与B系列CAN的选型区别。
+- 仍是待验收稿：实际特色图、可复核SERP依据及最终全文ZeroGPT/GPTZero结果未齐，不发布，不称最终交稿完成。
+- 员工总人数按Peter确认400；已有工厂视频优先复用；BTMS气流实测数据缺失，不写EVLINK实测结论。
+- 10113按Muse最新同步由Muse接手；矿卡撤卡明确获批但尚未执行。本轮IAB/Chrome后台各一次连接超时，无生产修改和390px验收。每日两篇仍欠交，详见REPORTS/codex-editorial-progress-2026-10-22.md。

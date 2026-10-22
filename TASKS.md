@@ -337,6 +337,11 @@
 - **是否涉及正式网站修改**：否（Codex 只写稿不碰 ECER；发布由 Peter 点，属 Peter 审批范畴）
 
 ## 2026-10-20 同步备注
+
+### 2026-10-22 T12-W2增量
+- Peter已批准五个方向；Codex完成五篇HTML事实边界修订，各4条正文内链，见五个T12-W2发布包与REPORTS/codex-editorial-progress-2026-10-22.md。
+- 状态：稿件修订待验收，未发布。实际特色图、可复核SERP和最终全文检测仍未齐，不转VERIFIED。
+
 - Codex 已用现有专用 SSH key 修复并验证 GitHub SSH 443；Muse 的 T12-W1 发布完成状态以库存 commit `c8843083` 为准。
 - 本轮工作交接与剩余阻塞已同步：commit `e429926e36f01039da2390f1517a954e41cbcad7`；详见 `REPORTS/2026-10-20-codex-handoff-update.md` 和 `SYNC_LOG.md`。本备注不更改任何任务状态。
 
