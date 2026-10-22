@@ -66,7 +66,7 @@
 1. Anchor: `Q Series 15–35 kW coolant heater` → https://www.evptc.com/sale-40723397-high-voltage-ptc-water-heater-15-35kw-400-1100v-for-electric-vehicles-ev-battery-thermal-management-.html
 2. Anchor: `high-voltage coolant heater product range` → https://www.evptc.com/products.html
 3. Anchor: `how to choose a high-voltage PTC coolant heater` → https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html
-4. Anchor: `electric bus battery preheating at −30°C` → https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html
+4. Anchor: `electric bus battery preheating at −30°C` → https://www.evptc.com/news/electric-bus-battery-preheating-at-30c-five-planning-mistakes-422919.html
 
 ## Image recommendations
 
