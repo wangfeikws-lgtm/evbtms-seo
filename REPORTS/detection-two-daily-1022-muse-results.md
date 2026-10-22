@@ -5,7 +5,7 @@
 | 文章 | 输入 | ZeroGPT | GPTZero（仅参考） |
 |---|---|---|---|
 | BTMS《BTMS Condenser Airflow: An Installation Review Checklist》 | 4,885 字符 / 707 词，sha256 前缀 47d674125a5f287c | **69%**，判定文案 "Your Text is AI/GPT Generated" ❌ 未过线 | "We are highly confident this text was AI generated"；AI 100% / Mixed 0% / Human 0% |
-| HVCH《HVCH Not Starting? Check Low-Voltage Supply and Wake-Up》 | 5,106 字符 / 755 词，sha256 前缀 16fb0185dd4b82e3 | **62.6%**，判定文案 "Your Text is AI/GPT Generated" ❌ 未过线 | 补测中（结果后补） |
+| HVCH《HVCH Not Starting? Check Low-Voltage Supply and Wake-Up》 | 5,106 字符 / 755 词，sha256 前缀 16fb0185dd4b82e3 | **62.6%**，判定文案 "Your Text is AI/GPT Generated" ❌ 未过线 | "We are highly confident this text was AI generated"；AI 100% / Mixed 0% / Human 0%（2026-10-22 补测完成，四项检测已齐） |
 
 ## 结论（Muse）
 
