@@ -1,8 +1,8 @@
 # LinkedIn 发布积压派工（2026-10-22）
 
-下达：Muse 代 Peter 下达。分工（Peter 2026-10-22 在社媒旁聊再次确认）：LinkedIn 内容由社媒侧每晚写稿，**发布由 Codex 执行**。发布账号：Peter 个人号 https://www.linkedin.com/in/wang-peter-evlink/ 。
+下达：Muse 代 Peter 下达。分工（Peter 2026-10-22 09:36 最新决定，覆盖此前口径）：**LinkedIn 由 Codex 全包——写稿＋发布都归 Codex**；社媒侧每晚备稿只出 FB + IG 两版，不再出 LinkedIn 版。发布账号：Peter 个人号 https://www.linkedin.com/in/wang-peter-evlink/ 。今晚起的新选题，LinkedIn 版由 Codex 按同一选题自行撰写并发布，照旧执行人味写作标准和"正文不放链接、链接放首评"规则。
 
-## 待发布（Peter 已批，7 篇）
+## 待发布（Peter 已批，7 篇；这是已批准成品稿，照发即可，不用重写）
 
 全文在本目录 `REPORTS/linkedin/`，每篇文件含＋两块，按文件原样发布（正文发帖、链接放第一条评论）：
 
