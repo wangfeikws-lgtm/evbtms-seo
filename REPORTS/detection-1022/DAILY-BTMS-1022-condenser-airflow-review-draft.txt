@@ -1,0 +1,55 @@
+If a battery thermal management system cools acceptably on a bench but struggles after installation, check the condenser air path before ordering a larger unit. A fan can be running while the condenser is drawing restricted or already-heated air. This review is for an air-cooled condenser in a refrigerant-based BTMS; it does not apply unchanged to a liquid-cooled condenser.
+
+Define the air the unit actually receives
+
+Record both surrounding ambient temperature and air temperature at the condenser inlet. They are not automatically the same measurement. An inlet beside another heat source, inside a restricted enclosure or close to its own discharge needs attention before catalogue capacity can be compared with vehicle performance.
+
+Ask for the installation drawing, intended airflow direction, service clearances and operating conditions used for the supplier's capacity data. Do not borrow a clearance or airspeed value from a different model. A controller's local cooling-air requirement is also not automatically the condenser's required airflow.
+
+Inspect the complete path, not just the fan
+
+Trace where air enters the vehicle enclosure, how it crosses the condenser and where it leaves. Include grilles, guards, ducts and body panels. Photograph the installed arrangement with the panels in their normal operating positions. An open workshop panel can conceal a restriction that returns when the vehicle is reassembled.
+
+Look for a route that lets discharge air return to the inlet. Check nearby surfaces and the effect of other cooling fans. Danfoss identifies restricted flow, incorrect direction and air recirculation among the possible contributors to high condensing pressure. Those are general refrigeration checks, not a diagnosis of any particular EVLINK installation.
+
+Separate a command from a physical response
+
+A fan command in a log proves that a command was issued. It does not prove the required airflow reached the coil. Compare the requested state with the available feedback, observed direction and the actual air path. Follow the equipment manual when interpreting speed or fault signals.
+
+Any work near rotating fans, electrical equipment or the refrigerant circuit belongs to trained personnel under the vehicle's approved safety procedures. Do not bypass pressure protection, remove guards during operation or open the refrigerant circuit simply to complete an airflow checklist.
+
+Build a useful evidence record
+
+Before changing the installation, agree which measurements will answer the question. A useful record keeps the following information together:
+
+BTMS model, configuration, software version and installation drawing revision.
+
+Vehicle state: stationary or moving, operating load and other thermal systems running.
+
+Ambient and condenser-inlet temperatures, with measurement positions identified.
+
+Fan request, available feedback and observed airflow direction.
+
+Coolant inlet/outlet temperatures and flow, where approved measurements are available.
+
+Relevant controller limits, alarms and the time each event occurred.
+
+Photos showing grilles, ducting, service panels and nearby heat sources.
+
+Synchronise the records so a change in a command can be compared with the measured response. Missing channels should be marked unavailable. A single photograph or temperature difference cannot establish airflow volume or cooling capacity by itself.
+
+Compare changes under controlled conditions
+
+Change one installation variable at a time where practical, and document what changed. Keep the starting state and load comparable. If the weather or battery load changes between runs, record that difference rather than attributing the entire result to the duct modification.
+
+Agree the acceptance criteria with the responsible engineer before testing. This article gives no universal passing temperature, pressure, airspeed or percentage improvement. Supplier requirements and vehicle limits determine the decision.
+
+Know when the airflow check is not enough
+
+An airflow concern is one possible explanation, not the final answer. If the documented air path meets its requirements and the issue remains, the investigation may need to examine sensors, refrigerant-side operation, controls or the load assumption. Use the equipment's diagnostic procedure rather than repeatedly increasing fan demand.
+
+Our battery thermal management system range is a starting point for a model-specific discussion. For the distinction between the liquid and refrigeration sides, see BTMS refrigerant circuit versus coolant loop.
+
+Send the installation evidence with the enquiry
+
+When you contact EVLINK about a BTMS installation, include the unit model, vehicle duty, drawing, inlet conditions and available logs. If those data are not yet available, say so. The next step is to agree the review scope, not to invent missing measurements or promise a capacity increase.

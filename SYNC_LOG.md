@@ -243,3 +243,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - BTMS冷凝器气流检查清单约711词、HVCH低压供电/唤醒排查约760词，均有SEO字段、HTML、3条内链和配图brief，文件为REPORTS/DAILY-BTMS-1022-condenser-airflow-review-draft.md及REPORTS/DAILY-HVCH-1022-low-voltage-wake-up-review-draft.md。
 - 向Muse交接：两篇属于完整候选正文，不是已过全部门禁；检测、实际特色图、完整站内去重及目标国家SERP仍缺。若已有同意图气流文章，应合并至既有稿。
 - 无生产发布。公开WP REST读取本轮连接被拒，未冒称全站去重通过；没有虚构ZeroGPT/GPTZero分数。
+
+### 2026-10-22 +08 — 当日两稿配图完成、检测待补
+
+- 两张实际封面PNG/WebP已制作并目视验收，WebP1199×675分别55KB/61KB，文件及Alt见REPORTS/daily-1022-image-and-detection-results.md。
+- 使用既有产品视觉做AI辅助封面，不声称真实测试照片；没有新产品性能参数。
+- ZeroGPT操作通道超时，两个工具均未实测。固定检测全文及SHA256已保存，向Muse提交最小补测包；没有报通过或沿用旧稿分数。
