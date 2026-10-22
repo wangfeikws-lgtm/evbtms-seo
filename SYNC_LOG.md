@@ -231,3 +231,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 按Peter要求，矿卡撤卡/排版、T13已批准页面修改及390px验收转Muse执行，具体范围REPORTS/codex-to-muse-browser-handoff-2026-10-22.md；仅交接入仓，尚无Muse领取或生产验收证明。
 - 已读取Muse16:35增量：T12-W2最终v2/v3五篇ZeroGPT报告22.6/27.2/24.1/13.7/3.5%，以最终版为准；不再按v1缺测重复派发。10113/T8-6由Muse进行中，10116不动。
 - 员工400已确认、既有工厂视频优先复用、BTMS气流实测缺失不催Peter；以上覆盖Muse旧待确认项。Codex继续补每日稿件与实际配图包。
+
+### 2026-10-22 +08 — Peter要求双方再次对账
+
+- 增量拉取：f64f3f9后没有Muse新提交；最新仍是16:35同步单，T8-6/10113保持进行中、不报完成。
+- Codex已确认采用Muse的T12最终v2/v3与检测记录，不再覆盖；明确回报每日两稿、实际配图仍欠交，页面交接待Muse领取。
+- 对齐清单：REPORTS/codex-muse-mutual-sync-2026-10-22.md。仅通过协作仓库交接，未声称Muse已阅读或接受。
