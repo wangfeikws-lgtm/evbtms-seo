@@ -45,6 +45,11 @@
 | T12-W1-3 | Electric Bus Battery Preheating at −30°C: Five Planning Mistakes（老站预热篇） | ✅ 已发布 2026-10-20 正式站（ECER 422919） | — | https://www.evptc.com/news/electric-bus-battery-preheating-at-30c-five-planning-mistakes-422919.html |
 | T12-W1-4 | PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins（老站对比篇） | ✅ 已发布 2026-10-20 正式站（ECER 422921） | — | https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html |
 | T12-W1-5 | Why Electric Bus Range Falls in Winter—and Five Levers Fleets Can Control（老站冬季续航篇） | ✅ 已发布 2026-10-20 正式站（ECER 422923） | — | https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html |
+| T12-W2-01 | 15 kW vs 35 kW: Sizing Your HVCH for Heavy-Duty Trucks（15/35kW 选型） | 最终版已过检（ZeroGPT 22.6%），待 Peter 审发 | REPORTS/T12-W2-01-15kw-vs-35kw-hvch-sizing-heavy-duty-trucks-publish-package-v2.md | 未发布（老站 evptc.com） |
+| T12-W2-02 | IP67 and EMC in High-Voltage Heaters: What the Spec Sheet Doesn't Tell You（IP67 与 EMC 盲区） | 最终版已过检（27.2%），待 Peter 审发 | REPORTS/T12-W2-02-ip67-emc-high-voltage-heaters-publish-package-v2.md | 未发布 |
+| T12-W2-03 | Hydrogen Fuel Cell Bus Heating: Why 20 kW PTC Became the Standard Answer（氢燃料客车加热） | 最终版已过检（v3，24.1%），待 Peter 审发 | REPORTS/T12-W2-03-hydrogen-fuel-cell-bus-heating-20kw-ptc-publish-package-v3.md | 未发布 |
+| T12-W2-04 | Air Heater vs Coolant Heater for EV Cabins: A Total Cost Comparison（风暖 vs 液暖总成本） | 最终版已过检（13.7%），待 Peter 审发 | REPORTS/T12-W2-04-air-heater-vs-coolant-heater-total-cost-publish-package-v2.md | 未发布 |
+| T12-W2-05 | Battery-Swapping Heavy Trucks Need Thermal Management Too（换电重卡热管理） | 最终版已过检（3.5%），待 Peter 审发 | REPORTS/T12-W2-05-battery-swapping-heavy-trucks-thermal-management-publish-package-v2.md | 未发布 |
 
 ## 四、信息同步机制
 
