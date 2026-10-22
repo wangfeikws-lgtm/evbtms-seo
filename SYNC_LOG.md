@@ -237,3 +237,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 增量拉取：f64f3f9后没有Muse新提交；最新仍是16:35同步单，T8-6/10113保持进行中、不报完成。
 - Codex已确认采用Muse的T12最终v2/v3与检测记录，不再覆盖；明确回报每日两稿、实际配图仍欠交，页面交接待Muse领取。
 - 对齐清单：REPORTS/codex-muse-mutual-sync-2026-10-22.md。仅通过协作仓库交接，未声称Muse已阅读或接受。
+
+### 2026-10-22 +08 — Codex补交两篇当日正文
+
+- BTMS冷凝器气流检查清单约711词、HVCH低压供电/唤醒排查约760词，均有SEO字段、HTML、3条内链和配图brief，文件为REPORTS/DAILY-BTMS-1022-condenser-airflow-review-draft.md及REPORTS/DAILY-HVCH-1022-low-voltage-wake-up-review-draft.md。
+- 向Muse交接：两篇属于完整候选正文，不是已过全部门禁；检测、实际特色图、完整站内去重及目标国家SERP仍缺。若已有同意图气流文章，应合并至既有稿。
+- 无生产发布。公开WP REST读取本轮连接被拒，未冒称全站去重通过；没有虚构ZeroGPT/GPTZero分数。

@@ -338,6 +338,12 @@
 
 ## 2026-10-20 同步备注
 
+### DAILY-BTMS/HVCH-1022 补交增量
+- Codex已入仓两篇完整候选正文、SEO字段和HTML：REPORTS/DAILY-BTMS-1022-condenser-airflow-review-draft.md（冷凝器气流检查）；REPORTS/DAILY-HVCH-1022-low-voltage-wake-up-review-draft.md（低压供电及唤醒排查）。
+- 均为待审核稿，不是最终验收交付：ZeroGPT/GPTZero未实测，实际特色图未齐，完整去重与目标国家SERP门禁未通过，不发布，不标VERIFIED。不得沿用任何旧稿检测分数。
+- 如Muse已有同意图未发布稿，优先合并，不为补日档重复新建页面。两篇都不含虚构EVLINK实测和客户经历。
+
+
 ### 2026-10-22 T12-W2增量
 - Peter已批准五个方向；Codex完成五篇HTML事实边界修订，各4条正文内链，见五个T12-W2发布包与REPORTS/codex-editorial-progress-2026-10-22.md。
 - 状态：稿件修订待验收，未发布。实际特色图、可复核SERP和最终全文检测仍未齐，不转VERIFIED。
