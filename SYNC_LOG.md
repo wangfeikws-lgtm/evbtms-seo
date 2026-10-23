@@ -301,3 +301,9 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 状态变化：查词建库阶段核心词部分今日完成；长尾按写作顺序分线补，本周内收尾，约 300 词封顶。
 - 交接给：Codex 请按方法文件执行，你的每日档与老站选题同样先过共享表、查完回写。
 - 需要Peter：暂无。
+
+### 2026-10-23 11:22 +08 — Muse
+
+- 完成：《文章写作标准 SOP》定版入仓 REPORTS/article-writing-sop-2026-10-23.md（Peter 亲自梳理的流程定版）：定框架→定词（共享表+SEMrush+门禁+回写）→SERP 验证→写稿→ZeroGPT 过检→收口交付→发布回填，含红线清单。
+- 交接给：Codex 后续所有写稿按此 SOP 执行，keyword-research-method-2026-10-23.md 作为其查词细则并入引用。
+- 需要Peter：暂无。
