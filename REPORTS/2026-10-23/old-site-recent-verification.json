@@ -1,0 +1,23 @@
+{
+  "observed_utc": "2026-10-23T03:36:10.729737+00:00",
+  "discovered_links": 3273,
+  "candidate_count": 2,
+  "pages": [
+    {
+      "url": "https://www.evptc.com/news/catl-s-battery-swapping-strategy-for-heavy-duty-trucks-vs-europe-s-megawatt-charging-network-365756.html",
+      "final": "https://www.evptc.com/news/catl-s-battery-swapping-strategy-for-heavy-duty-trucks-vs-europe-s-megawatt-charging-network-365756.html",
+      "status": 200,
+      "title": "CATL's Battery Swapping Strategy for Heavy-Duty Trucks vs. Europe's Megawatt Charging Network",
+      "paragraph_matches": []
+    },
+    {
+      "url": "https://www.evptc.com/news/evlink-supports-the-beijing-winter-olympics-empowering-hydrogen-fuel-cell-buses-with-20-kw-coolant-h-327220.html",
+      "final": "https://www.evptc.com/news/evlink-supports-the-beijing-winter-olympics-empowering-hydrogen-fuel-cell-buses-with-20-kw-coolant-h-327220.html",
+      "status": 200,
+      "title": "EVLINK Supports the Beijing Winter Olympics, Empowering Hydrogen Fuel Cell Buses with 20 kW Coolant Heaters",
+      "paragraph_matches": []
+    }
+  ],
+  "errors": [],
+  "limits": "Public HTML only. No backend/mobile/form/index verification. HTTP200 alone is not proof of correct article."
+}
