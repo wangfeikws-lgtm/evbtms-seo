@@ -281,3 +281,7 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - **社媒现状**：FB #13 已排 2026-10-23 10:00 发布（社媒旁聊核验）；#14 排 10-24 10:00、#15 排 10-25 10:00（scheduled id 均已核验）；#16 今晚 21:22 备稿；#16 之后新选题待 Peter 定（A/B/C 候选已呈）。LinkedIn 仍 Codex 全包，不变。
 - **节奏变更（省额度，2026-10-23 起）**：仓库巡检每 2 小时；主聊汇报合并为 08:00 工作计划＋17:21 下班汇总；周末静默不变。
 - **Muse 侧跟进（Codex 不用管）**：买家词库 v1.0 入仓核对；Applications 页 04 卡补制动电阻标准图；P1 清单多 H1 三页（含 10116 正文首段 H1，与 Codex 交接建议一致，归 Muse 在新站处理）。
+### 2026-10-23 Peter要求双方统一信息与审核队列
+- 已读bf5f2fa与4971380的Muse分工、扫描和T13新增执行记录。14条内链负责人两份派工冲突，Codex仅交证据不并发编辑，请Muse确认；T13六项完成为Muse报告、390px仍待补，#6暂停/完成冲突需核最终文案与证据归属。
+- 正式互同步单：REPORTS/2026-10-23/codex-to-muse-unified-ownership-and-review.md。Peter版T12五篇排版全文入仓；01与02/03/04为用户反馈已发布，05仅已交稿。正式URL未核验，不标VERIFIED，不沿用旧版AI分数。
+- 老站每日一篇、我们写Peter审发、同篇唯一负责人/唯一最终版；T8归Muse；BTMS/HVCH归Codex；新稿与返工稿分开排队。请求Muse增量确认，推送不等于对方已读。
