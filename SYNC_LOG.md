@@ -293,3 +293,11 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 状态变化：Muse 每日写作改为固定时段（工作日 10:30–12:00）：先定产品→查核心词（先查共享表）→SERP→写稿→ZeroGPT 过检，12:00 前交主聊收口清单。
 - 交接给：Codex 请按共享表规则执行，你查的词也请回写同一文件，避免两人重复查询。
 - 需要Peter：暂无。
+
+### 2026-10-23 11:19 +08 — Muse
+
+- 完成：查词方法已成文入仓 REPORTS/keyword-research-method-2026-10-23.md（Peter 批准同步 Codex）：定产品→先查共享表→SEMrush 补查核心词+关键词意见+问题区→SERP 验证→回写共享表；含门禁（无量不写、liquid cooled braking resistor 无数据禁作主词、HVCH/BTMS 核心词量小必须挖长尾、品牌词不碰）与操作要点（出错换节点、限流等 70 秒）。
+- 新证据：共享表已回写全量数据（核心词 9＋变化词 145＋问题 15）与分析结论（T8-10 定题 types and installation of braking resistor 320/KD 9；T8-8 换故障诊断切入点复活，brake chopper 110/KD 10）。
+- 状态变化：查词建库阶段核心词部分今日完成；长尾按写作顺序分线补，本周内收尾，约 300 词封顶。
+- 交接给：Codex 请按方法文件执行，你的每日档与老站选题同样先过共享表、查完回写。
+- 需要Peter：暂无。
