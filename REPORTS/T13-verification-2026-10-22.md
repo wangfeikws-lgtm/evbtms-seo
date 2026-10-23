@@ -67,3 +67,15 @@
 5. #4 三合一页：Title/Meta 改包定稿；补 vs 分立方案段落；补 3 条 FAQ 并核验 FAQPage schema 输出；内链。
 6. #5 HVCH 厂家页：Title/Meta 改包定稿；补工厂段落；补 3 条 FAQ；内链。
 7. 每页改前留改前字段值＋截图存档（文案包红线）；10-28 数据复盘与回滚线（任一页 CTR 掉 0.5% 以上回滚该页）不变。
+
+## Muse 接管执行记录（2026-10-22 晚）
+- #1 BTMS 页：✅ 完成并双重复验（浏览器执行报告＋Muse 前台抓取）。新增选型段落（H2 Which Size Do You Actually Need?＋4 段）、FAQ 3 条替换、内链 2 条均与文案包逐字一致；Title/Meta/H1 未动。旧值已记录：FAQ 旧答①3kW DC400–750V/5kW·12kW DC400–860V；②问 "What protection rating do the BTMS models use?"；③答 5kW 带 6kW PTC、3kW 外置。
+- #2+#7 Applications 页：编辑器内全部改动已保存（Title/Meta 已前台生效），但 Elementor 内容未发布到前台（H1/板块顺序/矿卡扩写/新卡/FAQ 前台仍旧版）——待浏览器控制交回后点「发布」并逐项核验；矩阵（APPLICATION MATRIX）行序未调；2 条入站内链未做。
+- #6 BTMS 测试板块：仍暂停，等 Peter 确认 25 项测试/9360 循环归属。
+- #2+#7 Applications 页：✅ 2026-10-23 凌晨完成。上一轮 4 项改动丢失（矿卡 H3+4 段、04 卡描述、FAQ+3、Bus 内链），已按文案包原文逐字补齐后点「发布」，前台逐项核验生效（Title/H1/板块顺序/矿卡段落+2 链/04 卡/FAQ 10 条/Bus 内链）；矩阵行序已逐格对调（Agricultural ↔ Data Center，含两行链接）。未加：入站链 2 条（electric-truck 页无 thermal management applications 现成字样；duty-cycle 文未提矿卡工况）——按"不改字"约定未硬加。
+- #3 HVCH 产品页：✅ 完成。Title/Meta 已换、选型段落+FAQ 3 条已上线（FAQ 曾出现占位文字，核验发现后已重填修复）、出链 compare coolant heater manufacturers 已加。未加 3 条：6b 本页无 mining truck thermal management 字样；6c 原理文结尾无 manufacturer 字样；6d T11 正文未提 PTC/heater（仅侧栏标题），均未硬改。
+- #4 三合一页：✅ 完成。Title/Meta 已换、对比段落+FAQ 3 条（共 12 条）已上线；T10 文回链已加（锚文本含原文引号）；架构区两卡链接原本正确。FAQPage Schema 补项 ✅：9 个手风琴组件 FAQ 开关全开，schema.org 验证 9 块/12 问答/0 错误 0 警告。
+- #5 HVCH 厂家页：✅ 完成。Title/Meta 已换、工厂段落+FAQ 3 条已上线、内链 a/b 已加；6c 未加（原理文正文无 coolant heater manufacturers 字样）。
+- 390px 验收：⚠️ 未完成——实况浏览器无改视口能力、无头截图被站点验证门与浏览器包下载超时挡住；新增板块均为 Elementor 标准组件，风险低，待补验。
+- 全站 P0 14 条内链：✅ 2026-10-23 凌晨全部修复并逐条前台核验（首页 6/resources 3/case-studies 3/about-us 1/HVCH 产品页 q-series-3→2 一条）。
+- #6 BTMS 测试板块：✅ 2026-10-23 上午完成（Peter 09:12 拍板：他没有 BTMS 自有测试数据，按"正常发布"处理）。按无数字安全版上线：文案包原文其余逐字保留，仅将"25-point test program"改"full test program"、删除"9,360 cycles"改为反复循环的通用说法（正文 1 处＋FAQ 2 处）；FAQ3 中制动电阻 140 kW/160 L/min 型式试验引用归属正确、保留。新增 H2《How Every EVLINK BTMS Is Tested Before It Ships》＋4 段（选型板块后、Applications 前），FAQ 追加 3 条，前台逐条展开核验通过、无占位文字；Title/Meta/H1 与 #1 内容未动。本页 FAQ 为文本部件（H3＋段落），无 FAQ Schema 开关。入站链 2 条（T11 文、T8#5 文 → BTMS 页）无现成字样可挂，按"不改字"约定跳过。编辑中曾误生成「Which Size」板块重复副本，已删除并确认前台仅一份。**→ T13 六项主体全部完成，仅剩 390px 手机端验收待补。**
