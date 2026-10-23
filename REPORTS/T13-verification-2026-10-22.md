@@ -92,3 +92,9 @@
 - HVCH 厂家页（#5）：✅ T13 新增板块《Inside the EVLINK Heater Line》单列正常、无溢出。⚠️ **存量问题（非 T13 改动）**：页内「Quick Comparison」对比表两张分别为 577px / 502px，无横向滚动容器，且 body overflow-x:hidden，390px 下右半截被裁切、手指滑不过去（桌面端无此问题）。建议修复：给两张表外层套 overflow-x:auto 滚动容器（低风险改动），等 Peter 点头后执行。
 
 **→ T13《8 个老页面升级》六项＋390px 验收全部完成、正式收官。** 厂家页表格问题转 P1 跟进项。
+
+### 厂家页对比表修复完成 — 2026-10-23 15:35 +08（Peter 批准后执行）
+
+- 修复：主题定制器「额外 CSS」末尾追加限定规则 `@media (max-width: 767px) { .postid-3727 .entry-content table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; } }`，已发布；原有 CSS 保留，文章内容未动，桌面端不受影响（前台桌面核验表格四列完整、首页正常）。
+- 复验（390px 镜像重渲染）：两张表 clientWidth 329（屏内）、scrollWidth 577/502、overflow-x auto → 均可横向滑动，页面本身无溢出。修复后截图存 hidden_files/t13-390px/manufacturer-table-fixed.png。
+- 状态：T13 全部事项（含此跟进项）关闭。
