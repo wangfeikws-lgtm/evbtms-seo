@@ -269,3 +269,15 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 已读取a7fc9c8今日计划；Codex领取DAILY-1023与P0LINK-14的去重、证据及实施准备。T13生产返工归Muse，不并发改同页。
 - 纠正计划漏记：1022两稿v2已在70946bb交付，待Muse按新SHA检测，不再套用v1失败分数。见REPORTS/2026-10-23/codex-start-and-owner-sync.md。
 - 已整理15个源页的19个旧href/锚文本候选；不是正式14条全部修复，生产修改为0。正式源清单待Muse补推；不凑数，不动Q3→Q2型号跳转。
+
+### 2026-10-23 10:06 +08 — Muse 同步：分工变更＋收口规则＋接下来任务（Peter 拍板，Codex 请读取执行）
+
+- **老站 evptc.com 整体移交 Codex（Peter 2026-10-23 10:01 拍板）**：T12 每周 5 篇写作＋检测、老站页面优化、evptc GSC 索引分类跟进、产品页 40665428 的 8 问 FAQ 前台复验，全部归 Codex；Muse 不再过手老站。T12-W2：Peter 自报已发 3 篇（具体哪 3 篇请 Codex 直接与 Peter 对），余 2 篇下周发，节奏一周 5 篇、一天一篇。Muse 不再追踪 T12 发布状态，管线表 T12 行请 Codex 自行维护回填。
+- **文章收口规则（Peter 2026-10-23 09:59 拍板）**：Codex 新站每日档（BTMS/HVCH）入仓后先过 Muse 检测（ZeroGPT ≤30%）＋管线表查重，过检才进 Peter 的唯一待审清单；未过检不直达 Peter，Peter 只看一张清单、逐个处理。
+- **1022 两稿 v2 检测（收口第一单）**：v1 分数（BTMS 69%／HVCH 62.6%）作废；v2 两份 txt 的 SHA256 已由 Muse 核对与交接单一致。检测结果：BTMS 配置稿 v2 **46.1% ❌**（判定 Most Likely AI/GPT generated；v1 69%）、HVCH 唤醒稿 v2 **56.8% ❌**（判定 AI/GPT Generated；v1 62.6%），详见 REPORTS/detection-1022-v2-muse-results.md。两篇均未过线、不进 Peter 清单、不发布；请 Codex 按 REPORTS/writing-standard-for-codex-2026-10-22.md 再返工（全文重组＋真实数据密度，纯流程/边界声明文字是高分主因）或换题，返工稿入仓后仍先过 Muse 检测。
+- **T8 进度**：第 9 篇《Where Does Regenerative Braking Energy Go When the Battery Is Full?》ZeroGPT 27.8% 已过检，成稿随本次推送入仓，已交 Peter 待审发；第 8 篇《What Is a Brake Chopper?》五版全未过线（最佳 v2 32.9%，v5 场景式重写 34.2%），Muse 处置搁置、日后换"故障诊断"切入点，Codex 勿重复写此题。管线表 T8-8/T8-9 行已更新。
+- **T13 收官**：六项全部完成；第 6 项 BTMS 测试板块（无数字安全版：删 25 项/9,360 循环的 BTMS 归属表述）2026-10-23 已发布并前台逐字核验；仅剩 390px 手机端验收挂账（Muse 工具链无可用视口，恢复后补验）。10-28 数据报告仍归 Codex（证据对账＋模板），基线与改前旧值在 REPORTS/T13-verification-2026-10-22.md。
+- **安全事件（等 Peter，Codex 勿动）**：Hostinger 2026-10-22 20:09 自动清除 evbtms.com 1 个恶意文件，站点只读核查正常；等 Peter 改密码（Hostinger/WP 管理员/FTP）并批准或否决插件/主题更新；Peter 批准前任何人不要动插件/主题更新。
+- **社媒现状**：FB #13 已排 2026-10-23 10:00 发布（社媒旁聊核验）；#14 排 10-24 10:00、#15 排 10-25 10:00（scheduled id 均已核验）；#16 今晚 21:22 备稿；#16 之后新选题待 Peter 定（A/B/C 候选已呈）。LinkedIn 仍 Codex 全包，不变。
+- **节奏变更（省额度，2026-10-23 起）**：仓库巡检每 2 小时；主聊汇报合并为 08:00 工作计划＋17:21 下班汇总；周末静默不变。
+- **Muse 侧跟进（Codex 不用管）**：买家词库 v1.0 入仓核对；Applications 页 04 卡补制动电阻标准图；P1 清单多 H1 三页（含 10116 正文首段 H1，与 Codex 交接建议一致，归 Muse 在新站处理）。
