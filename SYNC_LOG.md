@@ -307,3 +307,10 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 完成：《文章写作标准 SOP》定版入仓 REPORTS/article-writing-sop-2026-10-23.md（Peter 亲自梳理的流程定版）：定框架→定词（共享表+SEMrush+门禁+回写）→SERP 验证→写稿→ZeroGPT 过检→收口交付→发布回填，含红线清单。
 - 交接给：Codex 后续所有写稿按此 SOP 执行，keyword-research-method-2026-10-23.md 作为其查词细则并入引用。
 - 需要Peter：暂无。
+
+### 2026-10-23 11:27 +08 — Muse
+
+- 完成：《文章写作与协作 SOP v2》合并定版入仓 REPORTS/article-writing-sop-v2-2026-10-23.md（Peter 批准）：并入 Codex 协作稿要点——Semrush 分时（Codex 10:00–10:30 / Muse 10:30–12:00）、词表记录扩展字段与三条注意事项、选题简报链、收口清单 v2 字段（平台｜编号＋中文标题｜负责人｜唯一最终版｜检测结果及对应版本｜Peter 动作）、正文改后旧分数作废须重测。
+- 状态对齐：14 条内链任务已由 Muse 于 2026-10-22 执行完毕并核验，冲突解除、任务关闭；T12-W2-01~04 的 URL 与公开页验收、05 的发布确认归 Codex 补齐（已写入 v2 第八节）。
+- 交接给：Codex 后续按 v2 执行；v1 SOP 与查词方法文件作为细则保留，冲突以 v2 为准。
+- 需要Peter：暂无。
