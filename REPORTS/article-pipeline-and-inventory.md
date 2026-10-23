@@ -31,7 +31,7 @@
 | T8-6 | Sizing Mistakes That Kill Braking Resistors（选型错误清单） | ✅ 已发布 2026-10-22（Peter 定稿，Muse 代发 post 10189；前台核验通过） | REPORTS/T8-article-06-peter-version-2026-10-22.md | https://evbtms.com/braking-resistor-sizing-mistakes/ |
 | T8-7 | How Braking Resistors Work in Electric Vehicles（制动电阻工作原理） | ✅ 已发布 2026-10-22（Peter 发布版，Muse 代发 post 10168；ZeroGPT 16.6%；GSC 索引已请求 2026-10-22） | REPORTS/T8-article-07-how-braking-resistors-work.md | https://evbtms.com/how-braking-resistors-work-electric-vehicles/ |
 | T8-8 | What Is a Brake Chopper? Resistor + Chopper Architectures Explained（制动斩波器与三架构） | ⏸ 搁置：五版 ZeroGPT 均未过线（v1 38%｜v2 32.9%｜v3 39.5%｜v4 43.2%｜v5 34.2%，2026-10-23 v5 复测）；日后换故障诊断切入点重写 | REPORTS/T8-article-08-brake-chopper-v5.md | ❌ 未发布 |
-| T8-9 | Where Does Regenerative Braking Energy Go When the Battery Is Full?（电池满了再生制动能量去哪） | 📝 成稿待 Peter 审发：ZeroGPT 27.8% ✅ 过线（2026-10-23） | REPORTS/T8-article-09-regen-energy-battery-full.md | ❌ 未发布 |
+| T8-9 | Where Does Regenerative Braking Energy Go When the Battery Is Full?（电池满了再生制动能量去哪；发布标题用 Peter 问句版） | ✅ 已发布（2026-10-23）：发布版为 Peter 改定稿，ZeroGPT 17.5% ✅ 过线，Muse 按其逐篇授权代发 | REPORTS/T8-article-09-regen-energy-battery-full.md | https://evbtms.com/regen-braking-energy-battery-full/（post 10251，2026-10-23）|
 | T8-10~30 | 制动电阻 30 篇规划其余 21 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
