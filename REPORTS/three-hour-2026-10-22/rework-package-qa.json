@@ -1,0 +1,74 @@
+[
+  {
+    "article": "BTMS",
+    "draft": "REPORTS/three-hour-2026-10-22/DAILY-BTMS-1022-rework-v2.md",
+    "fixed_text": "REPORTS/detection-1022/DAILY-BTMS-1022-configuration-v2.txt",
+    "word_count_approx": 723,
+    "body_h1_count": 0,
+    "first_sentence_starts_the": false,
+    "banned_tone_tokens": [],
+    "unsubstantiated_experience_phrases_flagged": [],
+    "links": [
+      {
+        "url": "https://evbtms.com/products/battery-thermal-management-system/5kw/",
+        "anchor": "5 kW BTMS product page"
+      },
+      {
+        "url": "https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/",
+        "anchor": "battery heat-load worksheet"
+      },
+      {
+        "url": "https://evbtms.com/btms-cooling-capacity-rating-conditions/",
+        "anchor": "BTMS rating-condition guide"
+      },
+      {
+        "url": "https://evbtms.com/contact/",
+        "anchor": "ask EVLINK for a BTMS configuration review"
+      }
+    ],
+    "plain_text_matches_html": true,
+    "normalized_utf8_lf_sha256": "52e448c41d282476f6935c3bf87a629379d4896d204829df69902ea66eaa608e",
+    "ai_detection": {
+      "ZeroGPT": null,
+      "GPTZero": null,
+      "status": "NOT_TESTED_THIS_VERSION"
+    },
+    "limits": "Automated text checks do not establish technical correctness, natural authorship, AI score, rights, search demand or publication readiness."
+  },
+  {
+    "article": "HVCH",
+    "draft": "REPORTS/three-hour-2026-10-22/DAILY-HVCH-1022-rework-v2.md",
+    "fixed_text": "REPORTS/detection-1022/DAILY-HVCH-1022-low-voltage-wake-up-v2.txt",
+    "word_count_approx": 931,
+    "body_h1_count": 0,
+    "first_sentence_starts_the": false,
+    "banned_tone_tokens": [],
+    "unsubstantiated_experience_phrases_flagged": [],
+    "links": [
+      {
+        "url": "https://evbtms.com/hvch-power-verification/",
+        "anchor": "HVCH power-verification guide"
+      },
+      {
+        "url": "https://evbtms.com/contact/",
+        "anchor": "contact EVLINK about an HVCH integration"
+      },
+      {
+        "url": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+        "anchor": "HVCH CAN integration checklist"
+      },
+      {
+        "url": "https://evbtms.com/products/high-voltage-coolant-heater/",
+        "anchor": "coolant heater product range"
+      }
+    ],
+    "plain_text_matches_html": true,
+    "normalized_utf8_lf_sha256": "ca3314adefd2a0683d260bd8aba741121512f7c742270b7e3b610113c4061a40",
+    "ai_detection": {
+      "ZeroGPT": null,
+      "GPTZero": null,
+      "status": "NOT_TESTED_THIS_VERSION"
+    },
+    "limits": "Automated text checks do not establish technical correctness, natural authorship, AI score, rights, search demand or publication readiness."
+  }
+]

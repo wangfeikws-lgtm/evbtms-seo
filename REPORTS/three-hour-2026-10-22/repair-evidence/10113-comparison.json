@@ -1,0 +1,68 @@
+{
+  "post": 10113,
+  "long_paragraphs": 15,
+  "exact_normalized_matches": 15,
+  "checks": [
+    {
+      "prefix": "The refrigerant circuit and the battery coolant circuit within the Battery ",
+      "matches_public": true
+    },
+    {
+      "prefix": "For electric lorries and coaches, system integration is by no means as simp",
+      "matches_public": true
+    },
+    {
+      "prefix": "The coolant circuit circulates a water-ethylene glycol mixture or other app",
+      "matches_public": true
+    },
+    {
+      "prefix": "The coolant circuit determines the flow distribution on the battery side, p",
+      "matches_public": true
+    },
+    {
+      "prefix": "In practice, the coolant circuit is also where the BTMS unit itself is usua",
+      "matches_public": true
+    },
+    {
+      "prefix": "The refrigerant circuit transfers heat through the processes of compression",
+      "matches_public": true
+    },
+    {
+      "prefix": "This means that relying solely on the rated parameters stated on the chille",
+      "matches_public": true
+    },
+    {
+      "prefix": "Distinguishing between the two circuits helps to clarify the responsibiliti",
+      "matches_public": true
+    },
+    {
+      "prefix": "A practical interface specification should clearly define the responsibilit",
+      "matches_public": true
+    },
+    {
+      "prefix": "**Cold start preheating:** Specify the heating method to be used, such as c",
+      "matches_public": true
+    },
+    {
+      "prefix": "This should be based on operational data varying over time, rather than rel",
+      "matches_public": true
+    },
+    {
+      "prefix": "On the refrigerant side, the following must be recorded: refrigerant type, ",
+      "matches_public": true
+    },
+    {
+      "prefix": "Validation work should combine component-level testing with vehicle-level t",
+      "matches_public": true
+    },
+    {
+      "prefix": "Throughout such validation, the control interface between the BTMS unit and",
+      "matches_public": true
+    },
+    {
+      "prefix": "For OEM teams currently defining a battery thermal management architecture,",
+      "matches_public": true
+    }
+  ],
+  "note": "HTML entities decoded before removing punctuation; normalized text comparison only, not mobile/SEO verification"
+}

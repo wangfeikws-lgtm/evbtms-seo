@@ -1,0 +1,409 @@
+[
+  {
+    "id": 10189,
+    "date": "2026-10-22T08:41:59",
+    "modified": "2026-10-22T08:41:59",
+    "slug": "braking-resistor-sizing-mistakes",
+    "status": "publish",
+    "link": "https://evbtms.com/braking-resistor-sizing-mistakes/",
+    "title": {
+      "rendered": "Sizing Mistakes That Kill Braking Resistors"
+    }
+  },
+  {
+    "id": 10168,
+    "date": "2026-10-22T05:08:02",
+    "modified": "2026-10-22T05:08:02",
+    "slug": "how-braking-resistors-work-electric-vehicles",
+    "status": "publish",
+    "link": "https://evbtms.com/how-braking-resistors-work-electric-vehicles/",
+    "title": {
+      "rendered": "How Braking Resistors Work in Electric Vehicles"
+    }
+  },
+  {
+    "id": 10116,
+    "date": "2026-10-20T06:20:48",
+    "modified": "2026-10-21T02:17:35",
+    "slug": "hvch-can-integration-oem-checklist",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+    "title": {
+      "rendered": "HVCH CAN Integration: An OEM Control Interface Checklist"
+    }
+  },
+  {
+    "id": 10117,
+    "date": "2026-10-20T01:21:08",
+    "modified": "2026-10-21T05:20:36",
+    "slug": "duty-cycle-braking-resistor-sizing",
+    "status": "publish",
+    "link": "https://evbtms.com/duty-cycle-braking-resistor-sizing/",
+    "title": {
+      "rendered": "How Duty Cycle Determines Braking Resistor Size"
+    }
+  },
+  {
+    "id": 10113,
+    "date": "2026-10-20T01:02:15",
+    "modified": "2026-10-22T08:49:43",
+    "slug": "btms-refrigerant-circuit-vs-coolant-loop",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+    "title": {
+      "rendered": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide"
+    }
+  },
+  {
+    "id": 10104,
+    "date": "2026-10-19T03:11:31",
+    "modified": "2026-10-21T06:13:08",
+    "slug": "matching-braking-resistor-resistance-dc-bus-voltage",
+    "status": "publish",
+    "link": "https://evbtms.com/matching-braking-resistor-resistance-dc-bus-voltage/",
+    "title": {
+      "rendered": "Matching Braking Resistor Resistance to Your DC Bus Voltage (450–850 V)"
+    }
+  },
+  {
+    "id": 10091,
+    "date": "2026-10-19T02:04:37",
+    "modified": "2026-10-21T08:44:46",
+    "slug": "continuous-vs-peak-power-braking-resistor",
+    "status": "publish",
+    "link": "https://evbtms.com/continuous-vs-peak-power-braking-resistor/",
+    "title": {
+      "rendered": "Continuous vs. Peak Power: What Really Sizes a Braking Resistor"
+    }
+  },
+  {
+    "id": 10097,
+    "date": "2026-10-19T02:01:44",
+    "modified": "2026-10-21T07:07:08",
+    "slug": "hvch-insulation-resistance-commissioning-checks",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-insulation-resistance-commissioning-checks/",
+    "title": {
+      "rendered": "HVCH Insulation Resistance: Pre-Commissioning Checks"
+    }
+  },
+  {
+    "id": 10095,
+    "date": "2026-10-19T02:01:05",
+    "modified": "2026-10-21T07:12:43",
+    "slug": "btms-pump-head-pressure-drop-commercial-ev",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-pump-head-pressure-drop-commercial-ev/",
+    "title": {
+      "rendered": "BTMS Pump Head and Pressure Drop: An OEM Review Guide"
+    }
+  },
+  {
+    "id": 10088,
+    "date": "2026-10-16T06:10:24",
+    "modified": "2026-10-21T07:19:14",
+    "slug": "heat-pump-hvch-backup-heating-duty",
+    "status": "publish",
+    "link": "https://evbtms.com/heat-pump-hvch-backup-heating-duty/",
+    "title": {
+      "rendered": "Heat Pump and HVCH: Define the Backup Heating Duty"
+    }
+  },
+  {
+    "id": 10085,
+    "date": "2026-10-16T06:03:58",
+    "modified": "2026-10-21T07:22:59",
+    "slug": "btms-cooling-capacity-rating-conditions",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-cooling-capacity-rating-conditions/",
+    "title": {
+      "rendered": "BTMS Cooling Capacity: Check the Rating Conditions"
+    }
+  },
+  {
+    "id": 10081,
+    "date": "2026-10-16T05:53:09",
+    "modified": "2026-10-21T07:27:48",
+    "slug": "braking-resistor-resistance-calculation",
+    "status": "publish",
+    "link": "https://evbtms.com/braking-resistor-resistance-calculation/",
+    "title": {
+      "rendered": "Braking Resistor Resistance Calculation: The U²/P Method Explained"
+    }
+  },
+  {
+    "id": 10077,
+    "date": "2026-10-16T03:48:21",
+    "modified": "2026-10-21T07:32:03",
+    "slug": "hvch-coolant-compatibility-review",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-coolant-compatibility-review/",
+    "title": {
+      "rendered": "HVCH Coolant Compatibility: An OEM Approval Checklist"
+    }
+  },
+  {
+    "id": 10074,
+    "date": "2026-10-16T03:40:01",
+    "modified": "2026-10-21T09:01:04",
+    "slug": "btms-condenser-airflow-installation",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-condenser-airflow-installation/",
+    "title": {
+      "rendered": "BTMS Condenser Airflow: An OEM Installation Review"
+    }
+  },
+  {
+    "id": 10071,
+    "date": "2026-10-15T09:13:34",
+    "modified": "2026-10-22T00:37:53",
+    "slug": "how-to-size-braking-resistor-electric-bus-truck",
+    "status": "publish",
+    "link": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+    "title": {
+      "rendered": "How to Size a Braking Resistor for an Electric Bus or Truck"
+    }
+  },
+  {
+    "id": 10031,
+    "date": "2026-10-14T06:20:13",
+    "modified": "2026-10-22T00:48:59",
+    "slug": "hvch-power-verification",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-power-verification/",
+    "title": {
+      "rendered": "HVCH Power Verification: Request, Input and Delivered Heat"
+    }
+  },
+  {
+    "id": 10019,
+    "date": "2026-10-14T01:07:44",
+    "modified": "2026-10-22T01:11:52",
+    "slug": "btms-temperature-spread-diagnosis",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-temperature-spread-diagnosis/",
+    "title": {
+      "rendered": "BTMS Temperature Spread: An OEM Diagnosis Guide"
+    }
+  },
+  {
+    "id": 9963,
+    "date": "2026-10-13T02:15:29",
+    "modified": "2026-10-22T01:56:50",
+    "slug": "hvch-warm-up-response-validation",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-warm-up-response-validation/",
+    "title": {
+      "rendered": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief"
+    }
+  },
+  {
+    "id": 9955,
+    "date": "2026-10-12T02:40:25",
+    "modified": "2026-10-22T02:12:57",
+    "slug": "btms-coolant-loop-air-removal",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-coolant-loop-air-removal/",
+    "title": {
+      "rendered": "BTMS Coolant-Loop Air Removal: An OEM Commissioning Guide"
+    }
+  },
+  {
+    "id": 9951,
+    "date": "2026-10-10T02:03:51",
+    "modified": "2026-10-22T02:19:30",
+    "slug": "ev-thermal-management-control-strategy",
+    "status": "publish",
+    "link": "https://evbtms.com/ev-thermal-management-control-strategy/",
+    "title": {
+      "rendered": "EV Thermal Management Control Strategy: How Compressor, Expansion Valve and Fan Work Together"
+    }
+  },
+  {
+    "id": 9949,
+    "date": "2026-10-10T02:03:46",
+    "modified": "2026-10-22T02:34:42",
+    "slug": "integrated-thermal-management-controller-cost",
+    "status": "publish",
+    "link": "https://evbtms.com/integrated-thermal-management-controller-cost/",
+    "title": {
+      "rendered": "How an Integrated Thermal Management Controller Cuts Electric Bus System Cost"
+    }
+  },
+  {
+    "id": 9941,
+    "date": "2026-10-09T08:25:26",
+    "modified": "2026-10-22T02:48:31",
+    "slug": "ptc-coolant-heater-vs-air-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/ptc-coolant-heater-vs-air-heater/",
+    "title": {
+      "rendered": "PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need"
+    }
+  },
+  {
+    "id": 9938,
+    "date": "2026-10-09T08:25:23",
+    "modified": "2026-10-22T03:02:18",
+    "slug": "btms-temperature-sensor-placement",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-temperature-sensor-placement/",
+    "title": {
+      "rendered": "BTMS Temperature Sensor Placement: An OEM Measurement Guide"
+    }
+  },
+  {
+    "id": 9935,
+    "date": "2026-10-08T09:39:14",
+    "modified": "2026-10-22T03:22:15",
+    "slug": "400v-800v-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide"
+    }
+  },
+  {
+    "id": 9931,
+    "date": "2026-10-08T01:32:12",
+    "modified": "2026-10-22T03:25:10",
+    "slug": "btms-coolant-selection-cold-climate",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-coolant-selection-cold-climate/",
+    "title": {
+      "rendered": "BTMS Coolant Selection for Cold-Climate Electric Buses and Trucks"
+    }
+  },
+  {
+    "id": 9929,
+    "date": "2026-10-07T09:00:12",
+    "modified": "2026-10-22T05:25:31",
+    "slug": "high-voltage-coolant-heater-installation-checklist",
+    "status": "publish",
+    "link": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+    "title": {
+      "rendered": "High-Voltage Coolant Heater Installation: An OEM Review Checklist"
+    }
+  },
+  {
+    "id": 9925,
+    "date": "2026-10-07T01:38:21",
+    "modified": "2026-10-22T05:32:19",
+    "slug": "btms-can-integration-bms-vcu",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-can-integration-bms-vcu/",
+    "title": {
+      "rendered": "BTMS CAN Integration with the BMS and VCU: An OEM Checklist"
+    }
+  },
+  {
+    "id": 9920,
+    "date": "2026-09-30T01:51:13",
+    "modified": "2026-10-22T05:43:16",
+    "slug": "btms-coolant-flow-rate-commercial-ev",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+    "title": {
+      "rendered": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate"
+    }
+  },
+  {
+    "id": 9917,
+    "date": "2026-09-29T09:25:14",
+    "modified": "2026-10-22T05:52:02",
+    "slug": "high-voltage-coolant-heater-rfq-checklist",
+    "status": "publish",
+    "link": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "title": {
+      "rendered": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks"
+    }
+  },
+  {
+    "id": 9861,
+    "date": "2026-09-29T01:21:36",
+    "modified": "2026-10-22T05:57:28",
+    "slug": "battery-heat-load-btms-sizing-commercial-ev",
+    "status": "publish",
+    "link": "https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/",
+    "title": {
+      "rendered": "Battery Heat Load Before BTMS Sizing: A Practical OEM Worksheet"
+    }
+  },
+  {
+    "id": 9856,
+    "date": "2026-09-28T07:48:33",
+    "modified": "2026-10-22T06:27:52",
+    "slug": "hvch-coolant-flow-pressure-drop-oem-guide",
+    "status": "publish",
+    "link": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+    "title": {
+      "rendered": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide"
+    }
+  },
+  {
+    "id": 9841,
+    "date": "2026-09-28T01:16:38",
+    "modified": "2026-10-22T06:33:40",
+    "slug": "btms-validation-electric-truck-bus",
+    "status": "publish",
+    "link": "https://evbtms.com/btms-validation-electric-truck-bus/",
+    "title": {
+      "rendered": "How to Validate a BTMS for an Electric Truck or Bus"
+    }
+  },
+  {
+    "id": 9840,
+    "date": "2026-09-25T06:12:51",
+    "modified": "2026-10-22T06:37:48",
+    "slug": "how-to-select-btms-electric-truck-bus",
+    "status": "publish",
+    "link": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+    "title": {
+      "rendered": "How to Select a BTMS for an Electric Truck or Bus"
+    }
+  },
+  {
+    "id": 9922,
+    "date": "2026-08-30T06:29:07",
+    "modified": "2026-10-22T06:41:14",
+    "slug": "high-voltage-coolant-heater-sizing-electric-bus",
+    "status": "publish",
+    "link": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "title": {
+      "rendered": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide"
+    }
+  },
+  {
+    "id": 3727,
+    "date": "2026-08-19T03:46:10",
+    "modified": "2026-09-28T08:19:16",
+    "slug": "high-voltage-coolant-heater-manufacturers",
+    "status": "publish",
+    "link": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+    "title": {
+      "rendered": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026"
+    }
+  },
+  {
+    "id": 9845,
+    "date": "2025-09-28T03:32:52",
+    "modified": "2026-10-22T07:30:10",
+    "slug": "cold-weather-battery-preconditioning-electric-buses-trucks",
+    "status": "publish",
+    "link": "https://evbtms.com/cold-weather-battery-preconditioning-electric-buses-trucks/",
+    "title": {
+      "rendered": "Cold-Weather Battery Preconditioning for Electric Buses and Trucks: What to Define Before Integration"
+    }
+  },
+  {
+    "id": 333,
+    "date": "2024-02-08T14:02:34",
+    "modified": "2026-09-22T05:20:24",
+    "slug": "how-high-voltage-coolant-heater-works",
+    "status": "publish",
+    "link": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "title": {
+      "rendered": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?"
+    }
+  }
+]

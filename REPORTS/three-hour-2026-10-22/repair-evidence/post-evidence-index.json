@@ -1,0 +1,59 @@
+{
+  "observed_at": "2026-10-23T00:35:42.745158+00:00",
+  "posts": [
+    {
+      "id": 10113,
+      "link": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+      "title": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide",
+      "modified_raw": "2026-10-22T08:49:43",
+      "body_h1": [],
+      "sha256_utf8": "b2cffe8cff16c4edffe991bacfb5f3f764f4231352ac64f72567b2b6a07cd6b8",
+      "note": "public rendered body, not authenticated raw editor/Elementor source"
+    },
+    {
+      "id": 10116,
+      "link": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+      "title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+      "modified_raw": "2026-10-21T02:17:35",
+      "body_h1": [
+        "The integration of the CAN bus for high-voltage coolant heaters (HVCH) should be regarded as a ‘vehicle control interface’ engineering task, rather than merely a simple wiring job."
+      ],
+      "sha256_utf8": "799ba48db4b67007fd5aac0596c32586a6988c1f38c9345473837ce22cf154c4",
+      "note": "public rendered body, not authenticated raw editor/Elementor source",
+      "proposal": "Change body-only h1 tags to p while retaining the theme article H1; review hierarchy and frontend first. Do not paste rendered HTML over Elementor source. 10116 is a paragraph sentence, not a section heading."
+    },
+    {
+      "id": 9949,
+      "link": "https://evbtms.com/integrated-thermal-management-controller-cost/",
+      "title": "How an Integrated Thermal Management Controller Cuts Electric Bus System Cost",
+      "modified_raw": "2026-10-22T18:28:03",
+      "body_h1": [
+        "How Integrated Thermal Management Controllers Reduce the Cost of Electric Bus Systems"
+      ],
+      "sha256_utf8": "d1b21c1c5f17e05cf9c4f4bddd3ba51022d917d3956ce42b659150c7b56c57f4",
+      "note": "public rendered body, not authenticated raw editor/Elementor source",
+      "proposal": "Change body-only h1 tags to h2 while retaining the theme article H1; review hierarchy and frontend first. Do not paste rendered HTML over Elementor source. 10116 is a paragraph sentence, not a section heading."
+    },
+    {
+      "id": 9951,
+      "link": "https://evbtms.com/ev-thermal-management-control-strategy/",
+      "title": "EV Thermal Management Control Strategy: How Compressor, Expansion Valve and Fan Work Together",
+      "modified_raw": "2026-10-22T02:19:30",
+      "body_h1": [
+        "Thermal Management Control Strategies for Electric Vehicles: How Compressors, Expansion Valves and Fans Work Together"
+      ],
+      "sha256_utf8": "9929a3609ac73024c86d14033ab579892f61db7cc97ebac45792528b7e0b6b19",
+      "note": "public rendered body, not authenticated raw editor/Elementor source",
+      "proposal": "Change body-only h1 tags to h2 while retaining the theme article H1; review hierarchy and frontend first. Do not paste rendered HTML over Elementor source. 10116 is a paragraph sentence, not a section heading."
+    },
+    {
+      "id": 10074,
+      "link": "https://evbtms.com/btms-condenser-airflow-installation/",
+      "title": "BTMS Condenser Airflow: An OEM Installation Review",
+      "modified_raw": "2026-10-21T09:01:04",
+      "body_h1": [],
+      "sha256_utf8": "9884d99c825a4939a8693ba44954586b14f970ef35c16bbcaa7a39a01c41861a",
+      "note": "public rendered body, not authenticated raw editor/Elementor source"
+    }
+  ]
+}

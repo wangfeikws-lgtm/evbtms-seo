@@ -1,6 +1,6 @@
 # DAILY-HVCH-1022 — Low-Voltage Supply and Wake-Up Review Draft
 Owner: Codex. Delivered 2026-10-22 as an overdue manuscript, not a published article.
-Status: complete text/SEO/HTML draft; not final accepted delivery. Actual detector results, featured image, complete duplicate check and country-specific SERP remain pending.
+Current disposition (2026-10-22 evening): REWORK, DO NOT PUBLISH. Muse fixed-full-text test: ZeroGPT 62.6% FAIL; GPTZero AI 100% / Mixed 0% / Human 0% (reference only). Actual featured image delivered; this text remains a failed version, not final accepted delivery.
 
 ## SEO fields
 - H1 / SEO title: HVCH Not Starting? Check Low-Voltage Supply and Wake-Up
@@ -64,8 +64,8 @@ Status: complete text/SEO/HTML draft; not final accepted delivery. Actual detect
 - Featured image brief: authorised real EVLINK heater photograph beside a clean schematic separating power supply from control supply/interface. The schematic must not imply a real pinout.
 - Text: “HVCH Start-Up Review / Supply • Wake-Up • Enable”.
 - Alt: EVLINK high-voltage coolant heater with a generic power and control interface schematic.
-- Actual image file: not yet delivered.
+- Actual image delivered: REPORTS/assets/daily-2026-10-22/hvch-start-up-review-feature.webp (1199×675; 61,158 bytes), an AI-assisted application illustration based on an existing product visual.
 - Duplicate check: existing CAN, power-verification, insulation and warm-up themes reviewed in repository. No complete live title inventory obtained; WP REST refused connection. If an existing no-start article owns this task, use as an update, not a second URL.
 - Research: general web search, not verified country/device-specific top-five Google SERP; demand unknown. Stage 3 remains pending. Editorial candidate, not nine-gate-approved publication.
-- ZeroGPT: NOT TESTED; GPTZero: NOT TESTED. Gate: ZeroGPT <=30% with exact final text and report/screenshot; no borrowed scores.
+- Muse fixed-full-text result: ZeroGPT 62.6% FAIL; GPTZero AI 100% / Mixed 0% / Human 0% (reference only), per REPORTS/detection-two-daily-1022-muse-results.md. This failed version is not publication-ready.
 - Peter reviews and publishes; no production edit performed.

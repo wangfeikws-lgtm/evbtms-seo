@@ -1,0 +1,8 @@
+--- post-10116-rendered-before
++++ post-10116-heading-proposal
+@@ -1,4 +1,4 @@
+-<h1>The integration of the CAN bus for high-voltage coolant heaters (HVCH) should be regarded as a ‘vehicle control interface’ engineering task, rather than merely a simple wiring job.</h1>
++<p>The integration of the CAN bus for high-voltage coolant heaters (HVCH) should be regarded as a ‘vehicle control interface’ engineering task, rather than merely a simple wiring job.</p>
+ <p>Prior to software release, original equipment manufacturers (OEMs) and heater suppliers must reach a consensus on the following matters: command ownership, message timing, operating limits, diagnostic behaviour and safety failure protection states. Even if the electrical connection of the heater has been completed, inadequate definition of these interfaces may still lead to failure during vehicle-level debugging.</p>
+ <p>This checklist is intended to assist development teams working on electric lorries, buses and non-road mobile machinery in collating the information required for the integration of high-voltage coolant heaters. It is not a substitute for model-specific communication specifications. All signal names, scaling factors, timing and fault responses must be verified and confirmed in accordance with the selected heater model and the vehicle’s overall architecture.</p>
+ <h2>First, clarify the control architecture</h2>

@@ -1,6 +1,6 @@
 # DAILY-BTMS-1022 — Condenser Airflow Review Draft
 Owner: Codex. Delivered 2026-10-22 as an overdue manuscript, not a published article.
-Status: complete text/SEO/HTML draft; not final accepted delivery. AI test, actual featured image, full-site duplicate check and reproducible country-specific SERP remain pending.
+Current disposition (2026-10-22 evening): WITHDRAW AS A NEW PAGE. Public post 10074 already owns this exact intent at https://evbtms.com/btms-condenser-airflow-installation/ . This is a failed historical candidate, not a final delivery. ZeroGPT 69%; GPTZero AI 100% / Mixed 0% / Human 0%, as tested by Muse on the fixed full text. Do not publish or reuse this proposed slug. Any useful additions belong in an approved update of the existing page.
 
 ## SEO fields
 - H1 / SEO title: BTMS Condenser Airflow: An Installation Review Checklist
@@ -61,9 +61,9 @@ Status: complete text/SEO/HTML draft; not final accepted delivery. AI test, actu
 - Featured image brief: existing authorised real BTMS product photograph, with a separate simple inlet/discharge arrow diagram; do not alter the real product's construction.
 - Suggested image text: “BTMS Condenser Airflow / Review the Installed Air Path”.
 - Alt: EVLINK BTMS unit with a schematic showing condenser inlet and discharge air paths.
-- Actual image file: not yet delivered. No external competitor image reused.
+- Actual image delivered: REPORTS/assets/daily-2026-10-22/btms-condenser-airflow-feature.webp (1199×675; 55,286 bytes). AI-assisted composition from an existing product visual; not a test photograph.
 - Internal links are embedded; target live status/preview not verified this round.
 - Duplicate review: repository pipeline/title review and indexed query checked; public WP REST connection refused. This is NOT full-site duplicate clearance. If an existing condenser-airflow draft owns this intent, merge this manuscript into it rather than create another URL.
 - Research: general web query, not a verified US/UK top-five Google SERP. No search volume reported. Stage 3 still pending; this is an editorial candidate, not a nine-gate-approved publication.
-- ZeroGPT: NOT TESTED; GPTZero: NOT TESTED. Final text must meet Peter's recorded ZeroGPT <=30% gate, with report/screenshot. Do not reuse another draft's score.
+- Muse full-text test: ZeroGPT 69% FAIL; GPTZero AI 100% / Mixed 0% / Human 0%. Source: REPORTS/detection-two-daily-1022-muse-results.md. This version is rejected; no inferred human-authorship percentage.
 - Publication: Peter final review and release only. No WordPress change performed.

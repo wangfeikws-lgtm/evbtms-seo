@@ -1,0 +1,8 @@
+--- post-9951-rendered-before
++++ post-9951-heading-proposal
+@@ -1,4 +1,4 @@
+-<h1>Thermal Management Control Strategies for Electric Vehicles: How Compressors, Expansion Valves and Fans Work Together</h1>
++<h2>Thermal Management Control Strategies for Electric Vehicles: How Compressors, Expansion Valves and Fans Work Together</h2>
+ <p>The success or failure of a thermal management system hinges on its control strategy, rather than solely on the components themselves. Even with the world’s most advanced electric compressor, poor control logic can still lead to energy wastage, accelerated wear and tear on equipment, and even cause the battery to fall outside its ideal operating temperature range. However, current explanations of thermal management in electric vehicles often fall into two extremes: either academic papers brimming with mathematical formulas from control theory, or simple hobbyist projects involving nothing more than an Arduino connected to a relay.</p>
+ <p>This article aims to provide a middle ground that better meets the practical needs of frontline engineers. There are three core actuators in an electric vehicle’s thermal management system—the compressor, the electronic expansion valve and the fan—each of which responds to different control signals. We will analyse these three control loops in plain, accessible language: what parameters each loop monitors, which components it drives, and why they need to work in concert.</p>
+ <h2>The Three Key Actuators and Their Core Control Objectives</h2>

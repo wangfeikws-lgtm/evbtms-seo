@@ -1,0 +1,1530 @@
+{
+  "observed_at": "2026-10-22T10:01:00.363413+00:00",
+  "entries": [
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10189,
+      "url": "https://evbtms.com/braking-resistor-sizing-mistakes/",
+      "title": "Sizing Mistakes That Kill Braking Resistors",
+      "modified_raw": "2026-10-22T08:41:59",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10168,
+      "url": "https://evbtms.com/how-braking-resistors-work-electric-vehicles/",
+      "title": "How Braking Resistors Work in Electric Vehicles",
+      "modified_raw": "2026-10-22T05:08:02",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10116,
+      "url": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+      "title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+      "modified_raw": "2026-10-21T02:17:35",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10117,
+      "url": "https://evbtms.com/duty-cycle-braking-resistor-sizing/",
+      "title": "How Duty Cycle Determines Braking Resistor Size",
+      "modified_raw": "2026-10-21T05:20:36",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10113,
+      "url": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+      "title": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide",
+      "modified_raw": "2026-10-22T08:49:43",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10104,
+      "url": "https://evbtms.com/matching-braking-resistor-resistance-dc-bus-voltage/",
+      "title": "Matching Braking Resistor Resistance to Your DC Bus Voltage (450–850 V)",
+      "modified_raw": "2026-10-21T06:13:08",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10091,
+      "url": "https://evbtms.com/continuous-vs-peak-power-braking-resistor/",
+      "title": "Continuous vs. Peak Power: What Really Sizes a Braking Resistor",
+      "modified_raw": "2026-10-21T08:44:46",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10097,
+      "url": "https://evbtms.com/hvch-insulation-resistance-commissioning-checks/",
+      "title": "HVCH Insulation Resistance: Pre-Commissioning Checks",
+      "modified_raw": "2026-10-21T07:07:08",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10095,
+      "url": "https://evbtms.com/btms-pump-head-pressure-drop-commercial-ev/",
+      "title": "BTMS Pump Head and Pressure Drop: An OEM Review Guide",
+      "modified_raw": "2026-10-21T07:12:43",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10088,
+      "url": "https://evbtms.com/heat-pump-hvch-backup-heating-duty/",
+      "title": "Heat Pump and HVCH: Define the Backup Heating Duty",
+      "modified_raw": "2026-10-21T07:19:14",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10085,
+      "url": "https://evbtms.com/btms-cooling-capacity-rating-conditions/",
+      "title": "BTMS Cooling Capacity: Check the Rating Conditions",
+      "modified_raw": "2026-10-21T07:22:59",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10081,
+      "url": "https://evbtms.com/braking-resistor-resistance-calculation/",
+      "title": "Braking Resistor Resistance Calculation: The U²/P Method Explained",
+      "modified_raw": "2026-10-21T07:27:48",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10077,
+      "url": "https://evbtms.com/hvch-coolant-compatibility-review/",
+      "title": "HVCH Coolant Compatibility: An OEM Approval Checklist",
+      "modified_raw": "2026-10-21T07:32:03",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10074,
+      "url": "https://evbtms.com/btms-condenser-airflow-installation/",
+      "title": "BTMS Condenser Airflow: An OEM Installation Review",
+      "modified_raw": "2026-10-21T09:01:04",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10071,
+      "url": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+      "title": "How to Size a Braking Resistor for an Electric Bus or Truck",
+      "modified_raw": "2026-10-22T00:37:53",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10031,
+      "url": "https://evbtms.com/hvch-power-verification/",
+      "title": "HVCH Power Verification: Request, Input and Delivered Heat",
+      "modified_raw": "2026-10-22T00:48:59",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 10019,
+      "url": "https://evbtms.com/btms-temperature-spread-diagnosis/",
+      "title": "BTMS Temperature Spread: An OEM Diagnosis Guide",
+      "modified_raw": "2026-10-22T01:11:52",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9963,
+      "url": "https://evbtms.com/hvch-warm-up-response-validation/",
+      "title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+      "modified_raw": "2026-10-22T01:56:50",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9955,
+      "url": "https://evbtms.com/btms-coolant-loop-air-removal/",
+      "title": "BTMS Coolant-Loop Air Removal: An OEM Commissioning Guide",
+      "modified_raw": "2026-10-22T02:12:57",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9951,
+      "url": "https://evbtms.com/ev-thermal-management-control-strategy/",
+      "title": "EV Thermal Management Control Strategy: How Compressor, Expansion Valve and Fan Work Together",
+      "modified_raw": "2026-10-22T02:19:30",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9949,
+      "url": "https://evbtms.com/integrated-thermal-management-controller-cost/",
+      "title": "How an Integrated Thermal Management Controller Cuts Electric Bus System Cost",
+      "modified_raw": "2026-10-22T02:34:42",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9941,
+      "url": "https://evbtms.com/ptc-coolant-heater-vs-air-heater/",
+      "title": "PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need",
+      "modified_raw": "2026-10-22T02:48:31",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9938,
+      "url": "https://evbtms.com/btms-temperature-sensor-placement/",
+      "title": "BTMS Temperature Sensor Placement: An OEM Measurement Guide",
+      "modified_raw": "2026-10-22T03:02:18",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9935,
+      "url": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+      "title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+      "modified_raw": "2026-10-22T03:22:15",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9931,
+      "url": "https://evbtms.com/btms-coolant-selection-cold-climate/",
+      "title": "BTMS Coolant Selection for Cold-Climate Electric Buses and Trucks",
+      "modified_raw": "2026-10-22T03:25:10",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9929,
+      "url": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+      "title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+      "modified_raw": "2026-10-22T05:25:31",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9925,
+      "url": "https://evbtms.com/btms-can-integration-bms-vcu/",
+      "title": "BTMS CAN Integration with the BMS and VCU: An OEM Checklist",
+      "modified_raw": "2026-10-22T05:32:19",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9920,
+      "url": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+      "title": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate",
+      "modified_raw": "2026-10-22T05:43:16",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9917,
+      "url": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+      "title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+      "modified_raw": "2026-10-22T05:52:02",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9861,
+      "url": "https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/",
+      "title": "Battery Heat Load Before BTMS Sizing: A Practical OEM Worksheet",
+      "modified_raw": "2026-10-22T05:57:28",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9856,
+      "url": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+      "title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+      "modified_raw": "2026-10-22T06:27:52",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9841,
+      "url": "https://evbtms.com/btms-validation-electric-truck-bus/",
+      "title": "How to Validate a BTMS for an Electric Truck or Bus",
+      "modified_raw": "2026-10-22T06:33:40",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9840,
+      "url": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+      "title": "How to Select a BTMS for an Electric Truck or Bus",
+      "modified_raw": "2026-10-22T06:37:48",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9922,
+      "url": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "modified_raw": "2026-10-22T06:41:14",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 3727,
+      "url": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+      "title": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026",
+      "modified_raw": "2026-09-28T08:19:16",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 9845,
+      "url": "https://evbtms.com/cold-weather-battery-preconditioning-electric-buses-trucks/",
+      "title": "Cold-Weather Battery Preconditioning for Electric Buses and Trucks: What to Define Before Integration",
+      "modified_raw": "2026-10-22T07:30:10",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "article",
+      "id": 333,
+      "url": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "modified_raw": "2026-09-22T05:20:24",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 10033,
+      "url": "https://evbtms.com/products/800v-ptc-coolant-heater-electric-bus/",
+      "title": "800V PTC Coolant Heater for Electric Bus",
+      "modified_raw": "2026-10-14T12:12:56",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 10016,
+      "url": "https://evbtms.com/products/braking-resistor/",
+      "title": "Liquid-Cooled Braking Resistors for Electric Commercial Vehicles",
+      "modified_raw": "2026-10-15T07:00:45",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9337,
+      "url": "https://evbtms.com/z-series-high-voltage-coolant-heater-2/",
+      "title": "Z series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-24T02:23:34",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9287,
+      "url": "https://evbtms.com/w-series-high-voltage-coolant-heater/",
+      "title": "w series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T07:02:51",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9231,
+      "url": "https://evbtms.com/k-series-high-voltage-coolant-heater/",
+      "title": "K series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T06:53:56",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9189,
+      "url": "https://evbtms.com/h2-series-high-voltage-coolant-heater/",
+      "title": "H2 series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T06:59:56",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9126,
+      "url": "https://evbtms.com/h-series-high-voltage-coolant-heater/",
+      "title": "H1 series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T06:57:41",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9077,
+      "url": "https://evbtms.com/e-series-high-voltage-coolant-heater/",
+      "title": "E Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-20T06:46:54",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 9001,
+      "url": "https://evbtms.com/b5series-high-voltage-coolant-heater/",
+      "title": "B5Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T09:27:21",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 8976,
+      "url": "https://evbtms.com/b4-series-high-voltage-coolant-heater/",
+      "title": "B4 Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T09:26:43",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 8926,
+      "url": "https://evbtms.com/b3-series-high-voltage-coolant-heater/",
+      "title": "B3 Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T09:25:40",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 8893,
+      "url": "https://evbtms.com/b2-series-high-voltage-coolant-heater/",
+      "title": "B2 Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T09:24:32",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 8819,
+      "url": "https://evbtms.com/b-series-high-voltage-coolant-heater/",
+      "title": "B1 Series High Voltage Coolant Heater",
+      "modified_raw": "2026-09-18T09:23:29",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5452,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a7-series/",
+      "title": "A7 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:12:04",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5436,
+      "url": "https://evbtms.com/thanks/",
+      "title": "Thanks",
+      "modified_raw": "2026-09-18T09:16:31",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5294,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a6-series/",
+      "title": "A6 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:11:20",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5213,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a5-series/",
+      "title": "A5 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:10:41",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5157,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a4-series/",
+      "title": "A4 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:09:52",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5095,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a3-series/",
+      "title": "A3 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:09:21",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 5041,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a2-series/",
+      "title": "A2 SERIES | EV COOLANT HEATING",
+      "modified_raw": "2026-09-18T07:08:21",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4942,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/a1-series/",
+      "title": "A1 SERIES | COMPACT EV HEATING",
+      "modified_raw": "2026-09-18T07:07:36",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4919,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/ev-high-voltage-heating-q-4/",
+      "title": "EV HIGH VOLTAGE HEATING Q-4",
+      "modified_raw": "2026-09-18T07:16:38",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4860,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/high-voltage/",
+      "title": "All models",
+      "modified_raw": "2026-09-29T07:00:58",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4736,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-2/",
+      "title": "EV THERMAL MANAGEMENT-Q-2",
+      "modified_raw": "2026-09-18T07:15:06",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4593,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/qseries/",
+      "title": "HIGH VOLTAGE EV THERMAL MANAGEMENT-Q-1",
+      "modified_raw": "2026-09-22T07:14:38",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 4591,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/ev-high-voltage-heating-q-3/",
+      "title": "EV HIGH VOLTAGE HEATING Q-3",
+      "modified_raw": "2026-09-18T07:16:09",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 3177,
+      "url": "https://evbtms.com/products/battery-thermal-management-system/12kw/",
+      "title": "12KW",
+      "modified_raw": "2026-09-23T05:36:38",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 3175,
+      "url": "https://evbtms.com/products/battery-thermal-management-system/5kw/",
+      "title": "5KW",
+      "modified_raw": "2026-09-23T06:13:48",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 3172,
+      "url": "https://evbtms.com/products/battery-thermal-management-system/3kw/",
+      "title": "3kw",
+      "modified_raw": "2026-09-18T08:52:23",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2977,
+      "url": "https://evbtms.com/prototype-validation/",
+      "title": "Prototype & Validation",
+      "modified_raw": "2026-09-18T06:27:19",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2975,
+      "url": "https://evbtms.com/custom-development/",
+      "title": "Custom Development",
+      "modified_raw": "2026-09-18T08:22:16",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2973,
+      "url": "https://evbtms.com/system-design-integration/",
+      "title": "System Design & Integration",
+      "modified_raw": "2026-09-18T09:15:10",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2971,
+      "url": "https://evbtms.com/engineering-services/",
+      "title": "Engineering Services",
+      "modified_raw": "2026-09-24T01:17:07",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2965,
+      "url": "https://evbtms.com/faq/",
+      "title": "FAQ",
+      "modified_raw": "2026-09-18T08:39:56",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2963,
+      "url": "https://evbtms.com/case-studies/",
+      "title": "Case Studies",
+      "modified_raw": "2026-09-18T07:50:54",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2961,
+      "url": "https://evbtms.com/technical-insights/",
+      "title": "Technical Insights",
+      "modified_raw": "2026-09-23T00:53:57",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2952,
+      "url": "https://evbtms.com/products/electric-compressor/",
+      "title": "Electric Compressor",
+      "modified_raw": "2026-09-22T02:20:54",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2950,
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/",
+      "title": "High Voltage Coolant Heater Manufacturer | EVLINK",
+      "modified_raw": "2026-10-13T00:45:49",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2948,
+      "url": "https://evbtms.com/products/three-in-one-controller/",
+      "title": "Three-in-One Controller",
+      "modified_raw": "2026-10-16T08:52:33",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2946,
+      "url": "https://evbtms.com/products/battery-thermal-management-system/",
+      "title": "Battery Thermal Management System",
+      "modified_raw": "2026-10-22T09:44:31",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2941,
+      "url": "https://evbtms.com/resources/",
+      "title": "Resources",
+      "modified_raw": "2026-09-29T02:40:08",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2931,
+      "url": "https://evbtms.com/agricultural-machinery/",
+      "title": "Agricultural Machinery",
+      "modified_raw": "2026-09-21T09:31:23",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2929,
+      "url": "https://evbtms.com/data-center-liquid-cooling/",
+      "title": "Data Center Liquid Cooling",
+      "modified_raw": "2026-09-24T07:38:11",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2927,
+      "url": "https://evbtms.com/construction-machinery/",
+      "title": "Construction Machinery",
+      "modified_raw": "2026-09-18T06:18:40",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2925,
+      "url": "https://evbtms.com/electric-truck/",
+      "title": "Electric Truck",
+      "modified_raw": "2026-09-18T06:17:42",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2923,
+      "url": "https://evbtms.com/electric-bus/",
+      "title": "Electric Bus",
+      "modified_raw": "2026-09-18T06:16:42",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2919,
+      "url": "https://evbtms.com/electric-mining-truck/",
+      "title": "Electric Mining Truck",
+      "modified_raw": "2026-10-22T09:05:11",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2916,
+      "url": "https://evbtms.com/applications/",
+      "title": "Applications",
+      "modified_raw": "2026-09-23T02:32:17",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 2912,
+      "url": "https://evbtms.com/products/",
+      "title": "Products",
+      "modified_raw": "2026-10-15T05:10:18",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 1038,
+      "url": "https://evbtms.com/contact/",
+      "title": "Contact",
+      "modified_raw": "2026-10-19T06:07:58",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 1036,
+      "url": "https://evbtms.com/services/",
+      "title": "Engineering",
+      "modified_raw": "2026-09-18T06:30:43",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 1034,
+      "url": "https://evbtms.com/about-us/",
+      "title": "About",
+      "modified_raw": "2026-09-21T08:04:11",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 565,
+      "url": "https://evbtms.com/",
+      "title": "Home",
+      "modified_raw": "2026-10-15T05:06:16",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evbtms",
+      "type": "page",
+      "id": 1504,
+      "url": "https://evbtms.com/news/",
+      "title": "Company News",
+      "modified_raw": "2026-09-17T09:25:46",
+      "source": "public_wp_rest"
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/2023-korea-auto-parts-exhibition-evlink-showcases-innovative-technology-184529.html",
+      "title": "2023 Korea Auto Parts Exhibition: EVLINK Showcases Innovative Technology",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/2023-korea-auto-parts-exhibition-evlink-showcases-innovative-technology-184529.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/are-high-voltage-coolant-heaters-the-superior-choice-for-integrated-ev-thermal-management-systems-251407.html",
+      "title": "Are High Voltage Coolant Heaters the Superior Choice for Integrated EV Thermal Management Systems?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/are-high-voltage-coolant-heaters-the-superior-choice-for-integrated-ev-thermal-management-systems-251407.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/btms-explained-how-battery-thermal-management-systems-improve-battery-life-377736.html",
+      "title": "BTMS Explained: How Battery Thermal Management Systems Improve Battery Life",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/btms-explained-how-battery-thermal-management-systems-improve-battery-life-377736.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html",
+      "title": "CAN vs Thermostat-Controlled HVCH | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html",
+      "title": "Can High Voltage PTC Heaters Be the Safest and Most Reliable Solution for Electric Vehicle Heating?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/catl-s-battery-swapping-strategy-for-heavy-duty-trucks-vs-europe-s-megawatt-charging-network-365756.html",
+      "title": "CATL's Battery Swapping Strategy for Heavy-Duty Trucks vs. Europe's Megawatt Charging Network",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/catl-s-battery-swapping-strategy-for-heavy-duty-trucks-vs-europe-s-megawatt-charging-network-365756.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/celebrating-mid-autumn-festival-with-care-and-togetherness-at-evlink-409337.html",
+      "title": "Celebrating Mid-Autumn Festival with Care and Togetherness at EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/celebrating-mid-autumn-festival-with-care-and-togetherness-at-evlink-409337.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/diagnostics-and-maintenance-enhancing-the-lifecycle-of-high-voltage-water-heaters-285632.html",
+      "title": "Diagnostics and Maintenance: Enhancing the Lifecycle of High Voltage Water Heaters",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/diagnostics-and-maintenance-enhancing-the-lifecycle-of-high-voltage-water-heaters-285632.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/do-high-voltage-ptc-heaters-truly-deliver-faster-and-more-consistent-heat-than-traditional-heating-m-251404.html",
+      "title": "Do High Voltage PTC Heaters truly deliver faster and more consistent heat than traditional heating methods?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/do-high-voltage-ptc-heaters-truly-deliver-faster-and-more-consistent-heat-than-traditional-heating-m-251404.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "title": "Electric Bus Battery Preheating at −30°C | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30c-five-planning-mistakes-422919.html",
+      "title": "Electric Bus Battery Preheating at −30°C | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+      "title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/electric-trucks-gain-cost-advantages-in-europe-t-421316.html",
+      "title": "Electric Trucks Gain Cost Advantages in Europe: T&E Report Highlights TCO Trends",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/electric-trucks-gain-cost-advantages-in-europe-t-e-report-highlights-tco-trends-421316.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-collaborates-with-catl-and-xiamen-king-long-on-600v-20kw-liquid-cooled-btms-experimental-proj-327523.html",
+      "title": "EVLINK Collaborates with CATL and Xiamen King Long on 600V 20kW Liquid-Cooled BTMS Experimental Project",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-collaborates-with-catl-and-xiamen-king-long-on-600v-20kw-liquid-cooled-btms-experimental-proj-327523.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-partners-with-jiuxing-energy-to-develop-dc870v-btms-solution-for-super-heavy-duty-trucks-327596.html",
+      "title": "EVLINK Partners with JiuXing Energy to Develop DC870V BTMS Solution for Super Heavy-Duty Trucks",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-partners-with-jiuxing-energy-to-develop-dc870v-btms-solution-for-super-heavy-duty-trucks-327596.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-shines-at-the-2023-frankfurt-exhibition-shanghai-184543.html",
+      "title": "EVLINK Shines at the 2023 Frankfurt Exhibition (Shanghai)",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-shines-at-the-2023-frankfurt-exhibition-shanghai-184543.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-showcases-advanced-ev-thermal-management-solutions-at-automechanika-frankfurt-2026-401749.html",
+      "title": "EVLINK Showcases Advanced EV Thermal Management Solutions at Automechanika Frankfurt 2026",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-showcases-advanced-ev-thermal-management-solutions-at-automechanika-frankfurt-2026-401749.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-successfully-validates-q-series-ptc-coolant-heaters-in-joint-testing-with-shanghai-university-371383.html",
+      "title": "EVLINK Successfully Validates Q Series PTC Coolant Heaters in Joint Testing with Shanghai University of Engineering Scie",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-successfully-validates-q-series-ptc-coolant-heaters-in-joint-testing-with-shanghai-university-371383.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/evlink-supports-the-beijing-winter-olympics-empowering-hydrogen-fuel-cell-buses-with-20-kw-coolant-h-327220.html",
+      "title": "EVLINK Supports the Beijing Winter Olympics, Empowering Hydrogen Fuel Cell Buses with 20 kW Coolant Heaters",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/evlink-supports-the-beijing-winter-olympics-empowering-hydrogen-fuel-cell-buses-with-20-kw-coolant-h-327220.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/from-march-6th-to-8th-evlink-cordially-invites-you-to-attend-the-2024-korea-interbattery-exhibition-184553.html",
+      "title": "From March 6th to 8th, EVLINK cordially invites you to attend the 2024 Korea Interbattery Exhibition!",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/from-march-6th-to-8th-evlink-cordially-invites-you-to-attend-the-2024-korea-interbattery-exhibition-184553.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/global-compliance-validating-high-voltage-water-heaters-for-export-markets-285630.html",
+      "title": "Global Compliance: Validating High Voltage Water Heaters for Export Markets",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/global-compliance-validating-high-voltage-water-heaters-for-export-markets-285630.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+      "title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html",
+      "title": "High Voltage Coolant Heaters (HVCH): The Heart of Thermal Management in Modern EVs",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/high-voltage-ptc-heaters-safety-and-reliability-in-electric-mobility-285626.html",
+      "title": "High Voltage PTC Heaters: Safety and Reliability in Electric Mobility",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/high-voltage-ptc-heaters-safety-and-reliability-in-electric-mobility-285626.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-285627.html",
+      "title": "High Voltage Water Heaters for Commercial & Heavy-Duty Electric Vehicles",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-heavy-duty-electric-vehicles-285627.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+      "title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+      "title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+      "title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-does-high-voltage-ptc-heater-technology-revolutionize-electric-vehicle-cabin-comfort-and-battery-251399.html",
+      "title": "How Does High Voltage PTC Heater Technology Revolutionize Electric Vehicle Cabin Comfort and Battery Life?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-does-high-voltage-ptc-heater-technology-revolutionize-electric-vehicle-cabin-comfort-and-battery-251399.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-does-the-high-voltage-coolant-heater-protect-and-extend-the-lifespan-of-the-ev-battery-pack-251405.html",
+      "title": "How Does the High Voltage Coolant Heater Protect and Extend the Lifespan of the EV Battery Pack?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-does-the-high-voltage-coolant-heater-protect-and-extend-the-lifespan-of-the-ev-battery-pack-251405.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-does-the-self-regulating-feature-of-high-voltage-ptc-heaters-contribute-to-overall-ev-energy-opt-251408.html",
+      "title": "How Does the Self-Regulating Feature of High Voltage PTC Heaters Contribute to Overall EV Energy Optimization?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-does-the-self-regulating-feature-of-high-voltage-ptc-heaters-contribute-to-overall-ev-energy-opt-251408.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+      "title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/integration-285629.html",
+      "title": "Integration & Control: Mastering the \"Brains\" of High Voltage PTC Heaters",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/integration-control-mastering-the-brains-of-high-voltage-ptc-heaters-285629.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "listing",
+      "id": null,
+      "url": "https://www.evptc.com/news/page2.html",
+      "title": "News - EVLINK Electronic Co.,Ltd of page 2",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/page2.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "listing",
+      "id": null,
+      "url": "https://www.evptc.com/news/page3.html",
+      "title": "News - EVLINK Electronic Co.,Ltd of page 3",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/page3.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "listing",
+      "id": null,
+      "url": "https://www.evptc.com/news/page4.html",
+      "title": "News - EVLINK Electronic Co.,Ltd of page 4",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/page4.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "title": "PTC Coolant Heater vs Heat Pump for Commercial EVs",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/strategic-procurement-analyzing-the-cost-structure-of-high-voltage-heaters-285633.html",
+      "title": "Strategic Procurement: Analyzing the Cost Structure of High Voltage Heaters",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/strategic-procurement-analyzing-the-cost-structure-of-high-voltage-heaters-285633.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+      "title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/the-company-warmly-held-a-520-themed-event-a-date-with-evlink-conveying-love-and-warmth-327126.html",
+      "title": "The company warmly held a 520-themed event, “A Date with EVLINK,” conveying love and warmth.",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/the-company-warmly-held-a-520-themed-event-a-date-with-evlink-conveying-love-and-warmth-327126.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/the-future-of-ev-heating-integrated-thermal-modules-and-new-materials-285634.html",
+      "title": "The Future of EV Heating: Integrated Thermal Modules and New Materials",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/the-future-of-ev-heating-integrated-thermal-modules-and-new-materials-285634.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+      "title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-are-the-key-design-and-engineering-advantages-of-modern-high-voltage-coolant-heaters-for-automo-251403.html",
+      "title": "What are the Key Design and Engineering Advantages of Modern High Voltage Coolant Heaters for Automotive OEMs?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-are-the-key-design-and-engineering-advantages-of-modern-high-voltage-coolant-heaters-for-automo-251403.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+      "title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-critical-role-does-the-high-voltage-coolant-heater-play-in-optimizing-ev-driving-range-in-cold--251400.html",
+      "title": "What Critical Role Does the High Voltage Coolant Heater Play in Optimizing EV Driving Range in Cold Climates?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-critical-role-does-the-high-voltage-coolant-heater-play-in-optimizing-ev-driving-range-in-cold--251400.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-high-voltage-architectures-400v-vs-800v-are-best-supported-by-modern-coolant-and-ptc-heaters-251406.html",
+      "title": "What High-Voltage Architectures (400V vs. 800V) Are Best Supported by Modern Coolant and PTC Heaters?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-high-voltage-architectures-400v-vs-800v-are-best-supported-by-modern-coolant-and-ptc-heaters-251406.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+      "title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+      "title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+      "title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+      "title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html",
+      "title": "Why Electric Bus Range Falls in Winter | EVLINK",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html"
+      ]
+    },
+    {
+      "site": "evptc",
+      "type": "article",
+      "id": null,
+      "url": "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html",
+      "title": "Why Is Rapid Heating Important in High Voltage Coolant Heaters?",
+      "modified_raw": null,
+      "source": "public_html",
+      "status": 200,
+      "canonical": [
+        "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html"
+      ]
+    }
+  ],
+  "new_post_count": 37,
+  "new_page_count": 54,
+  "old_discovered": 54,
+  "old_scope": "sitemap/news listing plus five published W1 records; not a complete backend export"
+}

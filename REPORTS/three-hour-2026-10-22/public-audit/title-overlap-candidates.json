@@ -1,0 +1,1074 @@
+[
+  {
+    "a": "https://evbtms.com/braking-resistor-sizing-mistakes/",
+    "a_title": "Sizing Mistakes That Kill Braking Resistors",
+    "b": "https://evbtms.com/continuous-vs-peak-power-braking-resistor/",
+    "b_title": "Continuous vs. Peak Power: What Really Sizes a Braking Resistor",
+    "title_similarity": 0.596,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-braking-resistors-work-electric-vehicles/",
+    "a_title": "How Braking Resistors Work in Electric Vehicles",
+    "b": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+    "b_title": "How to Size a Braking Resistor for an Electric Bus or Truck",
+    "title_similarity": 0.679,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-braking-resistors-work-electric-vehicles/",
+    "a_title": "How Braking Resistors Work in Electric Vehicles",
+    "b": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "b_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "title_similarity": 0.649,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+    "a_title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+    "b": "https://evbtms.com/hvch-coolant-compatibility-review/",
+    "b_title": "HVCH Coolant Compatibility: An OEM Approval Checklist",
+    "title_similarity": 0.617,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+    "a_title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+    "b_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+    "title_similarity": 0.61,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+    "a_title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+    "b": "https://evbtms.com/btms-can-integration-bms-vcu/",
+    "b_title": "BTMS CAN Integration with the BMS and VCU: An OEM Checklist",
+    "title_similarity": 0.584,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+    "a_title": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide",
+    "b": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+    "b_title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+    "title_similarity": 0.6,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-pump-head-pressure-drop-commercial-ev/",
+    "a_title": "BTMS Pump Head and Pressure Drop: An OEM Review Guide",
+    "b": "https://evbtms.com/btms-temperature-spread-diagnosis/",
+    "b_title": "BTMS Temperature Spread: An OEM Diagnosis Guide",
+    "title_similarity": 0.592,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-pump-head-pressure-drop-commercial-ev/",
+    "a_title": "BTMS Pump Head and Pressure Drop: An OEM Review Guide",
+    "b": "https://evbtms.com/btms-temperature-sensor-placement/",
+    "b_title": "BTMS Temperature Sensor Placement: An OEM Measurement Guide",
+    "title_similarity": 0.582,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-pump-head-pressure-drop-commercial-ev/",
+    "a_title": "BTMS Pump Head and Pressure Drop: An OEM Review Guide",
+    "b": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+    "b_title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+    "title_similarity": 0.65,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-coolant-compatibility-review/",
+    "a_title": "HVCH Coolant Compatibility: An OEM Approval Checklist",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+    "b_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+    "title_similarity": 0.591,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+    "a_title": "How to Size a Braking Resistor for an Electric Bus or Truck",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "b_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "title_similarity": 0.589,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+    "a_title": "How to Size a Braking Resistor for an Electric Bus or Truck",
+    "b": "https://evbtms.com/btms-validation-electric-truck-bus/",
+    "b_title": "How to Validate a BTMS for an Electric Truck or Bus",
+    "title_similarity": 0.655,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-to-size-braking-resistor-electric-bus-truck/",
+    "a_title": "How to Size a Braking Resistor for an Electric Bus or Truck",
+    "b": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+    "b_title": "How to Select a BTMS for an Electric Truck or Bus",
+    "title_similarity": 0.667,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-temperature-spread-diagnosis/",
+    "a_title": "BTMS Temperature Spread: An OEM Diagnosis Guide",
+    "b": "https://evbtms.com/btms-temperature-sensor-placement/",
+    "b_title": "BTMS Temperature Sensor Placement: An OEM Measurement Guide",
+    "title_similarity": 0.692,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+    "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+    "b": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "b_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "title_similarity": 0.595,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+    "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+    "b_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+    "title_similarity": 0.667,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+    "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.595,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+    "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.595,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+    "b_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+    "title_similarity": 0.597,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "b_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "title_similarity": 0.608,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html",
+    "b_title": "High Voltage Coolant Heaters (HVCH): The Heart of Thermal Management in Modern EVs",
+    "title_similarity": 0.586,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.625,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.609,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.59,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+    "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-coolant-selection-cold-climate/",
+    "a_title": "BTMS Coolant Selection for Cold-Climate Electric Buses and Trucks",
+    "b": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+    "b_title": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate",
+    "title_similarity": 0.638,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-coolant-selection-cold-climate/",
+    "a_title": "BTMS Coolant Selection for Cold-Climate Electric Buses and Trucks",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "b_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "title_similarity": 0.657,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+    "a_title": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "b_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "title_similarity": 0.597,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+    "a_title": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "b_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "b_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "title_similarity": 0.743,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "b_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "title_similarity": 0.612,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.777,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.58,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.676,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+    "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.585,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-validation-electric-truck-bus/",
+    "a_title": "How to Validate a BTMS for an Electric Truck or Bus",
+    "b": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+    "b_title": "How to Select a BTMS for an Electric Truck or Bus",
+    "title_similarity": 0.9,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/btms-validation-electric-truck-bus/",
+    "a_title": "How to Validate a BTMS for an Electric Truck or Bus",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.588,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+    "a_title": "How to Select a BTMS for an Electric Truck or Bus",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.62,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "b": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "b_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "title_similarity": 0.642,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.711,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.58,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.676,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+    "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.598,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "b_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "title_similarity": 0.713,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-285627.html",
+    "b_title": "High Voltage Water Heaters for Commercial & Heavy-Duty Electric Vehicles",
+    "title_similarity": 0.672,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.704,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "b_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "title_similarity": 0.647,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "b_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "title_similarity": 0.642,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.8,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-does-high-voltage-ptc-heater-technology-revolutionize-electric-vehicle-cabin-comfort-and-battery-251399.html",
+    "b_title": "How Does High Voltage PTC Heater Technology Revolutionize Electric Vehicle Cabin Comfort and Battery Life?",
+    "title_similarity": 0.615,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "title_similarity": 0.604,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.661,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "b_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "title_similarity": 0.586,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/what-critical-role-does-the-high-voltage-coolant-heater-play-in-optimizing-ev-driving-range-in-cold--251400.html",
+    "b_title": "What Critical Role Does the High Voltage Coolant Heater Play in Optimizing EV Driving Range in Cold Climates?",
+    "title_similarity": 0.581,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.64,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "b_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "title_similarity": 0.591,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.8,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+    "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.684,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/are-high-voltage-coolant-heaters-the-superior-choice-for-integrated-ev-thermal-management-systems-251407.html",
+    "a_title": "Are High Voltage Coolant Heaters the Superior Choice for Integrated EV Thermal Management Systems?",
+    "b": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "b_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "title_similarity": 0.605,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/are-high-voltage-coolant-heaters-the-superior-choice-for-integrated-ev-thermal-management-systems-251407.html",
+    "a_title": "Are High Voltage Coolant Heaters the Superior Choice for Integrated EV Thermal Management Systems?",
+    "b": "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html",
+    "b_title": "High Voltage Coolant Heaters (HVCH): The Heart of Thermal Management in Modern EVs",
+    "title_similarity": 0.659,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/are-high-voltage-coolant-heaters-the-superior-choice-for-integrated-ev-thermal-management-systems-251407.html",
+    "a_title": "Are High Voltage Coolant Heaters the Superior Choice for Integrated EV Thermal Management Systems?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.586,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html",
+    "a_title": "Can High Voltage PTC Heaters Be the Safest and Most Reliable Solution for Electric Vehicle Heating?",
+    "b": "https://www.evptc.com/news/high-voltage-ptc-heaters-safety-and-reliability-in-electric-mobility-285626.html",
+    "b_title": "High Voltage PTC Heaters: Safety and Reliability in Electric Mobility",
+    "title_similarity": 0.699,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html",
+    "a_title": "Can High Voltage PTC Heaters Be the Safest and Most Reliable Solution for Electric Vehicle Heating?",
+    "b": "https://www.evptc.com/news/how-does-high-voltage-ptc-heater-technology-revolutionize-electric-vehicle-cabin-comfort-and-battery-251399.html",
+    "b_title": "How Does High Voltage PTC Heater Technology Revolutionize Electric Vehicle Cabin Comfort and Battery Life?",
+    "title_similarity": 0.591,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html",
+    "a_title": "Can High Voltage PTC Heaters Be the Safest and Most Reliable Solution for Electric Vehicle Heating?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.61,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/can-high-voltage-ptc-heaters-be-the-safest-and-most-reliable-solution-for-electric-vehicle-heating-251402.html",
+    "a_title": "Can High Voltage PTC Heaters Be the Safest and Most Reliable Solution for Electric Vehicle Heating?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.594,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/diagnostics-and-maintenance-enhancing-the-lifecycle-of-high-voltage-water-heaters-285632.html",
+    "a_title": "Diagnostics and Maintenance: Enhancing the Lifecycle of High Voltage Water Heaters",
+    "b": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+    "b_title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+    "title_similarity": 0.609,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+    "a_title": "Electric Bus Battery Preheating at −30°C | EVLINK",
+    "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30c-five-planning-mistakes-422919.html",
+    "b_title": "Electric Bus Battery Preheating at −30°C | EVLINK",
+    "title_similarity": 1.0,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/high-voltage-ptc-heaters-safety-and-reliability-in-electric-mobility-285626.html",
+    "b_title": "High Voltage PTC Heaters: Safety and Reliability in Electric Mobility",
+    "title_similarity": 0.622,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-285627.html",
+    "b_title": "High Voltage Water Heaters for Commercial & Heavy-Duty Electric Vehicles",
+    "title_similarity": 0.612,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.643,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.667,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.686,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "b_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "title_similarity": 0.588,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.735,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+    "a_title": "High-Voltage PTC Coolant Heaters for Electric Trucks",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.593,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "a_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "b": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "b_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "a_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "b": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "b_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "title_similarity": 0.607,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "a_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.619,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "a_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.588,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/heat-pumps-vs-high-voltage-coolant-heaters-the-hybrid-strategy-for-ev-range-285631.html",
+    "a_title": "Heat Pumps vs. High Voltage Coolant Heaters: The Hybrid Strategy for EV Range",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.61,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html",
+    "a_title": "High Voltage Coolant Heaters (HVCH): The Heart of Thermal Management in Modern EVs",
+    "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "title_similarity": 0.597,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/high-voltage-ptc-heaters-safety-and-reliability-in-electric-mobility-285626.html",
+    "a_title": "High Voltage PTC Heaters: Safety and Reliability in Electric Mobility",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.597,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-285627.html",
+    "a_title": "High Voltage Water Heaters for Commercial & Heavy-Duty Electric Vehicles",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.706,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/high-voltage-water-heaters-for-commercial-285627.html",
+    "a_title": "High Voltage Water Heaters for Commercial & Heavy-Duty Electric Vehicles",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.585,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "b_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "title_similarity": 0.626,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.696,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/how-does-the-high-voltage-coolant-heater-protect-and-extend-the-lifespan-of-the-ev-battery-pack-251405.html",
+    "b_title": "How Does the High Voltage Coolant Heater Protect and Extend the Lifespan of the EV Battery Pack?",
+    "title_similarity": 0.59,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "title_similarity": 0.721,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.626,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.607,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.614,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-high-voltage-coolant-heaters-improve-energy-efficiency-262648.html",
+    "a_title": "How Do High Voltage Coolant Heaters Improve Energy Efficiency?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.606,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "a_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "b": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "b_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "title_similarity": 0.662,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "a_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.7,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "a_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.683,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "a_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "b": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+    "b_title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+    "title_similarity": 0.59,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-material-choices-affect-high-voltage-coolant-heater-durability-262650.html",
+    "a_title": "How Do Material Choices Affect High Voltage Coolant Heater Durability?",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.615,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "b_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "title_similarity": 0.694,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "title_similarity": 0.593,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.613,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "b_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.58,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-do-safety-features-enhance-high-voltage-coolant-heater-performance-262646.html",
+    "a_title": "How Do Safety Features Enhance High Voltage Coolant Heater Performance?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/how-does-the-high-voltage-coolant-heater-protect-and-extend-the-lifespan-of-the-ev-battery-pack-251405.html",
+    "b_title": "How Does the High Voltage Coolant Heater Protect and Extend the Lifespan of the EV Battery Pack?",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "title_similarity": 0.619,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "b_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "title_similarity": 0.819,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "b_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "title_similarity": 0.614,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "b_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "title_similarity": 0.598,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.696,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.65,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+    "a_title": "How Does a High Voltage Coolant Heater Work? | EVLINK",
+    "b": "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html",
+    "b_title": "Why Is Rapid Heating Important in High Voltage Coolant Heaters?",
+    "title_similarity": 0.584,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-does-high-voltage-ptc-heater-technology-revolutionize-electric-vehicle-cabin-comfort-and-battery-251399.html",
+    "a_title": "How Does High Voltage PTC Heater Technology Revolutionize Electric Vehicle Cabin Comfort and Battery Life?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "a_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.582,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+    "a_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.663,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "a_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "b": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "b_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "a_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.626,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+    "a_title": "How to Choose a High-Voltage PTC Coolant Heater | EVLINK",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/integration-285629.html",
+    "a_title": "Integration & Control: Mastering the \"Brains\" of High Voltage PTC Heaters",
+    "b": "https://www.evptc.com/news/strategic-procurement-analyzing-the-cost-structure-of-high-voltage-heaters-285633.html",
+    "b_title": "Strategic Procurement: Analyzing the Cost Structure of High Voltage Heaters",
+    "title_similarity": 0.587,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+    "a_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs",
+    "b": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "b_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "title_similarity": 0.607,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "a_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "b": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "b_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "title_similarity": 0.592,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "a_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "b": "https://www.evptc.com/news/what-are-the-key-design-and-engineering-advantages-of-modern-high-voltage-coolant-heaters-for-automo-251403.html",
+    "b_title": "What are the Key Design and Engineering Advantages of Modern High Voltage Coolant Heaters for Automotive OEMs?",
+    "title_similarity": 0.616,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/the-800v-revolution-engineering-high-voltage-coolant-heaters-for-next-gen-evs-285628.html",
+    "a_title": "The 800V Revolution: Engineering High Voltage Coolant Heaters for Next-Gen EVs",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.606,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "a_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "b": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+    "b_title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "a_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "b": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "b_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-applications-beyond-vehicles-use-high-voltage-coolant-heaters-262647.html",
+    "a_title": "What Applications Beyond Vehicles Use High Voltage Coolant Heaters?",
+    "b": "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html",
+    "b_title": "Why Is Rapid Heating Important in High Voltage Coolant Heaters?",
+    "title_similarity": 0.656,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-are-the-key-design-and-engineering-advantages-of-modern-high-voltage-coolant-heaters-for-automo-251403.html",
+    "a_title": "What are the Key Design and Engineering Advantages of Modern High Voltage Coolant Heaters for Automotive OEMs?",
+    "b": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+    "b_title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+    "title_similarity": 0.603,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-are-the-maintenance-requirements-for-high-voltage-coolant-heaters-262649.html",
+    "a_title": "What Are the Maintenance Requirements for High Voltage Coolant Heaters?",
+    "b": "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html",
+    "b_title": "Why Is Rapid Heating Important in High Voltage Coolant Heaters?",
+    "title_similarity": 0.621,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "a_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "b": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "b_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "title_similarity": 0.685,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "a_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.583,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-is-a-high-voltage-coolant-heater-and-why-is-it-essential-262643.html",
+    "a_title": "What Is a High Voltage Coolant Heater and Why Is It Essential?",
+    "b": "https://www.evptc.com/news/why-is-rapid-heating-important-in-high-voltage-coolant-heaters-262652.html",
+    "b_title": "Why Is Rapid Heating Important in High Voltage Coolant Heaters?",
+    "title_similarity": 0.585,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "a_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "title_similarity": 0.636,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+    "a_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.592,
+    "status": "candidate_only_requires_intent_review"
+  },
+  {
+    "a": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-crucial-for-electric-vehicles-262645.html",
+    "a_title": "Why Are High Voltage Coolant Heaters Crucial for Electric Vehicles?",
+    "b": "https://www.evptc.com/news/why-are-high-voltage-coolant-heaters-essential-for-next-generation-electric-vehicle-performance-251397.html",
+    "b_title": "Why Are High Voltage Coolant Heaters Essential for Next-Generation Electric Vehicle Performance?",
+    "title_similarity": 0.762,
+    "status": "candidate_only_requires_intent_review"
+  }
+]

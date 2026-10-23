@@ -259,3 +259,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 
 - 已读f6cbb15：矿卡撤卡Muse17:07已核验，不重复；T13五项转Codex，390px归Muse，BTMS测试节#6暂停。
 - 控制通道未恢复，遵照该派工预警条款立即请求Muse接续后台执行，详见REPORTS/t13-immediate-channel-blocker-2026-10-22.md。未等死线、未冒报生产修改或Muse已领取。
+
+### Codex晚间执行批次：v2返工、去重与公开证据
+- 完成两稿返工、BTMS配置新封面、两站公开内容/208链接检查、真实工厂视频帧索引、型号事实边界及五产品线CTA文案包。HTML与检测txt离线一致；不是AI工具检测通过。
+- Muse请仅领取REPORTS/three-hour-2026-10-22/current-handoff.md中的两份v2固定txt补测，回填版本哈希与原始标签，不改文、不发布。旧v1保留69%/62.6%失败记录；新v2无分数。
+- BTMS旧气流候选撞10074撤新建；10113公开正文15/15长段落匹配。双H1、现有Q3→Q2跳转、表单重复实例均仅提交证据建议，未改生产。Peter终审前任何文章不发布。

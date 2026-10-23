@@ -1,0 +1,596 @@
+[
+  {
+    "id": 10033,
+    "date": "2026-10-14T12:12:56",
+    "modified": "2026-10-14T12:12:56",
+    "slug": "800v-ptc-coolant-heater-electric-bus",
+    "status": "publish",
+    "link": "https://evbtms.com/products/800v-ptc-coolant-heater-electric-bus/",
+    "title": {
+      "rendered": "800V PTC Coolant Heater for Electric Bus"
+    }
+  },
+  {
+    "id": 10016,
+    "date": "2026-10-14T00:52:20",
+    "modified": "2026-10-15T07:00:45",
+    "slug": "braking-resistor",
+    "status": "publish",
+    "link": "https://evbtms.com/products/braking-resistor/",
+    "title": {
+      "rendered": "Liquid-Cooled Braking Resistors for Electric Commercial Vehicles"
+    }
+  },
+  {
+    "id": 9337,
+    "date": "2026-09-15T07:52:20",
+    "modified": "2026-09-24T02:23:34",
+    "slug": "z-series-high-voltage-coolant-heater-2",
+    "status": "publish",
+    "link": "https://evbtms.com/z-series-high-voltage-coolant-heater-2/",
+    "title": {
+      "rendered": "Z series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9287,
+    "date": "2026-09-15T07:07:03",
+    "modified": "2026-09-18T07:02:51",
+    "slug": "w-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/w-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "w series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9231,
+    "date": "2026-09-15T06:03:39",
+    "modified": "2026-09-18T06:53:56",
+    "slug": "k-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/k-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "K series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9189,
+    "date": "2026-09-15T02:46:09",
+    "modified": "2026-09-18T06:59:56",
+    "slug": "h2-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/h2-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "H2 series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9126,
+    "date": "2026-09-15T02:18:50",
+    "modified": "2026-09-18T06:57:41",
+    "slug": "h-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/h-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "H1 series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9077,
+    "date": "2026-09-14T07:38:51",
+    "modified": "2026-09-20T06:46:54",
+    "slug": "e-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/e-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "E Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 9001,
+    "date": "2026-09-14T06:49:46",
+    "modified": "2026-09-18T09:27:21",
+    "slug": "b5series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/b5series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "B5Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 8976,
+    "date": "2026-09-14T06:14:11",
+    "modified": "2026-09-18T09:26:43",
+    "slug": "b4-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/b4-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "B4 Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 8926,
+    "date": "2026-09-14T05:36:18",
+    "modified": "2026-09-18T09:25:40",
+    "slug": "b3-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/b3-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "B3 Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 8893,
+    "date": "2026-09-14T05:03:06",
+    "modified": "2026-09-18T09:24:32",
+    "slug": "b2-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/b2-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "B2 Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 8819,
+    "date": "2026-09-11T07:23:20",
+    "modified": "2026-09-18T09:23:29",
+    "slug": "b-series-high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/b-series-high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "B1 Series High Voltage Coolant Heater"
+    }
+  },
+  {
+    "id": 5452,
+    "date": "2026-08-27T07:48:28",
+    "modified": "2026-09-18T07:12:04",
+    "slug": "a7-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a7-series/",
+    "title": {
+      "rendered": "A7 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 5436,
+    "date": "2026-08-27T06:09:11",
+    "modified": "2026-09-18T09:16:31",
+    "slug": "thanks",
+    "status": "publish",
+    "link": "https://evbtms.com/thanks/",
+    "title": {
+      "rendered": "Thanks"
+    }
+  },
+  {
+    "id": 5294,
+    "date": "2026-08-26T08:04:26",
+    "modified": "2026-09-18T07:11:20",
+    "slug": "a6-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a6-series/",
+    "title": {
+      "rendered": "A6 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 5213,
+    "date": "2026-08-26T06:45:52",
+    "modified": "2026-09-18T07:10:41",
+    "slug": "a5-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a5-series/",
+    "title": {
+      "rendered": "A5 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 5157,
+    "date": "2026-08-26T06:01:15",
+    "modified": "2026-09-18T07:09:52",
+    "slug": "a4-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a4-series/",
+    "title": {
+      "rendered": "A4 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 5095,
+    "date": "2026-08-26T04:56:32",
+    "modified": "2026-09-18T07:09:21",
+    "slug": "a3-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a3-series/",
+    "title": {
+      "rendered": "A3 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 5041,
+    "date": "2026-08-26T02:46:19",
+    "modified": "2026-09-18T07:08:21",
+    "slug": "a2-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a2-series/",
+    "title": {
+      "rendered": "A2 SERIES | EV COOLANT HEATING"
+    }
+  },
+  {
+    "id": 4942,
+    "date": "2026-08-25T08:42:10",
+    "modified": "2026-09-18T07:07:36",
+    "slug": "a1-series",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/a1-series/",
+    "title": {
+      "rendered": "A1 SERIES | COMPACT EV HEATING"
+    }
+  },
+  {
+    "id": 4919,
+    "date": "2026-08-25T08:16:52",
+    "modified": "2026-09-18T07:16:38",
+    "slug": "ev-high-voltage-heating-q-4",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/ev-high-voltage-heating-q-4/",
+    "title": {
+      "rendered": "EV HIGH VOLTAGE HEATING Q-4"
+    }
+  },
+  {
+    "id": 4860,
+    "date": "2026-08-25T06:59:12",
+    "modified": "2026-09-29T07:00:58",
+    "slug": "high-voltage",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/high-voltage/",
+    "title": {
+      "rendered": "All models"
+    }
+  },
+  {
+    "id": 4736,
+    "date": "2026-08-25T01:55:11",
+    "modified": "2026-09-18T07:15:06",
+    "slug": "q-series-2",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-2/",
+    "title": {
+      "rendered": "EV THERMAL MANAGEMENT-Q-2"
+    }
+  },
+  {
+    "id": 4593,
+    "date": "2026-08-24T05:53:28",
+    "modified": "2026-09-22T07:14:38",
+    "slug": "qseries",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/qseries/",
+    "title": {
+      "rendered": "HIGH VOLTAGE EV THERMAL MANAGEMENT-Q-1"
+    }
+  },
+  {
+    "id": 4591,
+    "date": "2026-08-24T05:06:04",
+    "modified": "2026-09-18T07:16:09",
+    "slug": "ev-high-voltage-heating-q-3",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/ev-high-voltage-heating-q-3/",
+    "title": {
+      "rendered": "EV HIGH VOLTAGE HEATING Q-3"
+    }
+  },
+  {
+    "id": 3177,
+    "date": "2026-08-14T06:17:25",
+    "modified": "2026-09-23T05:36:38",
+    "slug": "12kw",
+    "status": "publish",
+    "link": "https://evbtms.com/products/battery-thermal-management-system/12kw/",
+    "title": {
+      "rendered": "12KW"
+    }
+  },
+  {
+    "id": 3175,
+    "date": "2026-08-14T06:17:12",
+    "modified": "2026-09-23T06:13:48",
+    "slug": "5kw",
+    "status": "publish",
+    "link": "https://evbtms.com/products/battery-thermal-management-system/5kw/",
+    "title": {
+      "rendered": "5KW"
+    }
+  },
+  {
+    "id": 3172,
+    "date": "2026-08-14T06:17:02",
+    "modified": "2026-09-18T08:52:23",
+    "slug": "3kw",
+    "status": "publish",
+    "link": "https://evbtms.com/products/battery-thermal-management-system/3kw/",
+    "title": {
+      "rendered": "3kw"
+    }
+  },
+  {
+    "id": 2977,
+    "date": "2026-08-12T05:30:35",
+    "modified": "2026-09-18T06:27:19",
+    "slug": "prototype-validation",
+    "status": "publish",
+    "link": "https://evbtms.com/prototype-validation/",
+    "title": {
+      "rendered": "Prototype &#038; Validation"
+    }
+  },
+  {
+    "id": 2975,
+    "date": "2026-08-12T05:30:26",
+    "modified": "2026-09-18T08:22:16",
+    "slug": "custom-development",
+    "status": "publish",
+    "link": "https://evbtms.com/custom-development/",
+    "title": {
+      "rendered": "Custom Development"
+    }
+  },
+  {
+    "id": 2973,
+    "date": "2026-08-12T05:30:17",
+    "modified": "2026-09-18T09:15:10",
+    "slug": "system-design-integration",
+    "status": "publish",
+    "link": "https://evbtms.com/system-design-integration/",
+    "title": {
+      "rendered": "System Design &#038; Integration"
+    }
+  },
+  {
+    "id": 2971,
+    "date": "2026-08-12T05:30:06",
+    "modified": "2026-09-24T01:17:07",
+    "slug": "engineering-services",
+    "status": "publish",
+    "link": "https://evbtms.com/engineering-services/",
+    "title": {
+      "rendered": "Engineering Services"
+    }
+  },
+  {
+    "id": 2965,
+    "date": "2026-08-12T05:12:44",
+    "modified": "2026-09-18T08:39:56",
+    "slug": "faq",
+    "status": "publish",
+    "link": "https://evbtms.com/faq/",
+    "title": {
+      "rendered": "FAQ"
+    }
+  },
+  {
+    "id": 2963,
+    "date": "2026-08-12T05:12:34",
+    "modified": "2026-09-18T07:50:54",
+    "slug": "case-studies",
+    "status": "publish",
+    "link": "https://evbtms.com/case-studies/",
+    "title": {
+      "rendered": "Case Studies"
+    }
+  },
+  {
+    "id": 2961,
+    "date": "2026-08-12T05:12:16",
+    "modified": "2026-09-23T00:53:57",
+    "slug": "technical-insights",
+    "status": "publish",
+    "link": "https://evbtms.com/technical-insights/",
+    "title": {
+      "rendered": "Technical Insights"
+    }
+  },
+  {
+    "id": 2952,
+    "date": "2026-08-12T04:42:02",
+    "modified": "2026-09-22T02:20:54",
+    "slug": "electric-compressor",
+    "status": "publish",
+    "link": "https://evbtms.com/products/electric-compressor/",
+    "title": {
+      "rendered": "Electric Compressor"
+    }
+  },
+  {
+    "id": 2950,
+    "date": "2026-08-12T04:41:53",
+    "modified": "2026-10-13T00:45:49",
+    "slug": "high-voltage-coolant-heater",
+    "status": "publish",
+    "link": "https://evbtms.com/products/high-voltage-coolant-heater/",
+    "title": {
+      "rendered": "High Voltage Coolant Heater Manufacturer | EVLINK"
+    }
+  },
+  {
+    "id": 2948,
+    "date": "2026-08-12T04:41:43",
+    "modified": "2026-10-16T08:52:33",
+    "slug": "three-in-one-controller",
+    "status": "publish",
+    "link": "https://evbtms.com/products/three-in-one-controller/",
+    "title": {
+      "rendered": "Three-in-One Controller"
+    }
+  },
+  {
+    "id": 2946,
+    "date": "2026-08-12T04:41:31",
+    "modified": "2026-10-22T09:44:31",
+    "slug": "battery-thermal-management-system",
+    "status": "publish",
+    "link": "https://evbtms.com/products/battery-thermal-management-system/",
+    "title": {
+      "rendered": "Battery Thermal Management System"
+    }
+  },
+  {
+    "id": 2941,
+    "date": "2026-08-12T03:25:52",
+    "modified": "2026-09-29T02:40:08",
+    "slug": "resources",
+    "status": "publish",
+    "link": "https://evbtms.com/resources/",
+    "title": {
+      "rendered": "Resources"
+    }
+  },
+  {
+    "id": 2931,
+    "date": "2026-08-12T03:11:00",
+    "modified": "2026-09-21T09:31:23",
+    "slug": "agricultural-machinery",
+    "status": "publish",
+    "link": "https://evbtms.com/agricultural-machinery/",
+    "title": {
+      "rendered": "Agricultural Machinery"
+    }
+  },
+  {
+    "id": 2929,
+    "date": "2026-08-12T03:10:45",
+    "modified": "2026-09-24T07:38:11",
+    "slug": "data-center-liquid-cooling",
+    "status": "publish",
+    "link": "https://evbtms.com/data-center-liquid-cooling/",
+    "title": {
+      "rendered": "Data Center Liquid Cooling"
+    }
+  },
+  {
+    "id": 2927,
+    "date": "2026-08-12T03:10:34",
+    "modified": "2026-09-18T06:18:40",
+    "slug": "construction-machinery",
+    "status": "publish",
+    "link": "https://evbtms.com/construction-machinery/",
+    "title": {
+      "rendered": "Construction Machinery"
+    }
+  },
+  {
+    "id": 2925,
+    "date": "2026-08-12T03:09:41",
+    "modified": "2026-09-18T06:17:42",
+    "slug": "electric-truck",
+    "status": "publish",
+    "link": "https://evbtms.com/electric-truck/",
+    "title": {
+      "rendered": "Electric Truck"
+    }
+  },
+  {
+    "id": 2923,
+    "date": "2026-08-12T03:09:15",
+    "modified": "2026-09-18T06:16:42",
+    "slug": "electric-bus",
+    "status": "publish",
+    "link": "https://evbtms.com/electric-bus/",
+    "title": {
+      "rendered": "Electric Bus"
+    }
+  },
+  {
+    "id": 2919,
+    "date": "2026-08-12T03:07:31",
+    "modified": "2026-10-22T09:05:11",
+    "slug": "electric-mining-truck",
+    "status": "publish",
+    "link": "https://evbtms.com/electric-mining-truck/",
+    "title": {
+      "rendered": "Electric Mining Truck"
+    }
+  },
+  {
+    "id": 2916,
+    "date": "2026-08-12T03:06:18",
+    "modified": "2026-09-23T02:32:17",
+    "slug": "applications",
+    "status": "publish",
+    "link": "https://evbtms.com/applications/",
+    "title": {
+      "rendered": "Applications"
+    }
+  },
+  {
+    "id": 2912,
+    "date": "2026-08-12T03:02:07",
+    "modified": "2026-10-15T05:10:18",
+    "slug": "products",
+    "status": "publish",
+    "link": "https://evbtms.com/products/",
+    "title": {
+      "rendered": "Products"
+    }
+  },
+  {
+    "id": 1038,
+    "date": "2024-02-10T13:43:18",
+    "modified": "2026-10-19T06:07:58",
+    "slug": "contact",
+    "status": "publish",
+    "link": "https://evbtms.com/contact/",
+    "title": {
+      "rendered": "Contact"
+    }
+  },
+  {
+    "id": 1036,
+    "date": "2024-02-10T13:43:00",
+    "modified": "2026-09-18T06:30:43",
+    "slug": "services",
+    "status": "publish",
+    "link": "https://evbtms.com/services/",
+    "title": {
+      "rendered": "Engineering"
+    }
+  },
+  {
+    "id": 1034,
+    "date": "2024-02-10T13:42:35",
+    "modified": "2026-09-21T08:04:11",
+    "slug": "about-us",
+    "status": "publish",
+    "link": "https://evbtms.com/about-us/",
+    "title": {
+      "rendered": "About"
+    }
+  },
+  {
+    "id": 565,
+    "date": "2024-02-09T10:51:12",
+    "modified": "2026-10-15T05:06:16",
+    "slug": "about-us-2",
+    "status": "publish",
+    "link": "https://evbtms.com/",
+    "title": {
+      "rendered": "Home"
+    }
+  },
+  {
+    "id": 1504,
+    "date": "2024-01-29T16:48:15",
+    "modified": "2026-09-17T09:25:46",
+    "slug": "news",
+    "status": "publish",
+    "link": "https://evbtms.com/news/",
+    "title": {
+      "rendered": "Company News"
+    }
+  }
+]

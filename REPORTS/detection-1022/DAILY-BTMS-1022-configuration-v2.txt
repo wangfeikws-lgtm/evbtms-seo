@@ -1,0 +1,37 @@
+We would not accept “5 kW BTMS” as a complete selection specification. It identifies a cooling-capacity class, but it does not settle the heating configuration, voltage window or duty the unit must support. Those omissions can survive a quotation comparison and appear only when the vehicle team starts connecting systems.
+
+EVLINK's own model list contains two useful examples: LDC502HA-5KW and LDC560HA-5KW. Both are listed at 5 kW cooling, 400–860 V DC, 24 V DC control supply, 32 kg and 775 × 594 × 286 mm. The heating entries are not the same. LDC502HA lists heating as optional without a capacity in that row; LDC560HA lists 6 kW PTC heating. The shared “5 kW” label cannot answer whether a quotation includes the required winter function.
+
+Ask what the quoted configuration includes
+
+For a cooling-only project, an optional heating entry may be perfectly reasonable. For a vehicle that requires preconditioning, it leaves a question to resolve: which heater, control arrangement and installation items are included? We would write those items into the comparison rather than infer them from a cooling rating.
+
+The published 5 kW BTMS product page describes the LDC560HA configuration with 6 kW heating. That does not convert every 5 kW unit in the range into the same configuration. Use the model and revision on the actual quotation.
+
+More cooling capacity can still be the wrong electrical fit
+
+Our existing specification summary lists LDC300HA-3KW and LDC280HA-12KW at 400–750 V DC. The two 5 kW models above are listed at 400–860 V DC. A buyer comparing only 3, 5 and 12 kW could miss that difference.
+
+Consider a hypothetical vehicle connection that can reach 820 V. On the listed ranges alone, a direct connection to a unit whose maximum is 750 V is not an acceptable selection. A 12 kW cooling label does not override its electrical limit. The 400–860 V models merit further electrical review, but that range alone does not prove the complete vehicle match.
+
+If the architecture includes a separate converter or another supply arrangement, assess the voltage actually presented to the BTMS. Do not compare an upstream battery nominal voltage with the wrong interface. Record the minimum, maximum and relevant operating conditions at the unit's connection.
+
+Keep cooling, heating and electrical input separate
+
+A 5 kW cooling rating describes a heat-removal duty under its stated conditions. It is not a claim that electrical input is 5 kW. Likewise, a heating-capacity entry and a cooling-capacity entry are different duties, not values to add into a single universal system rating.
+
+For an illustration, delivering a constant 6 kW of heat for half an hour transfers 3 kWh of thermal energy. That calculation says nothing by itself about how quickly a specific battery warms. Pack thermal mass, initial temperature, heat losses, coolant distribution and the actual available heater output still determine the response. It is not an EVLINK warm-up test.
+
+Use the load record to select the capacity
+
+A larger unit is worth considering when the required cooling duty exceeds the smaller unit's available output at matching conditions. It is not automatically necessary because the battery capacity is larger. Establish the heat-generation profile, coolant limits, ambient conditions and operating cycle first.
+
+For charging and driving, distinguish the peak from the duration and repetition of the load. For heating, state the starting condition, target and time available. If those data are unknown, the sensible next step is a requirements review, not a confident recommendation of 12 kW.
+
+The existing battery heat-load worksheet and BTMS rating-condition guide cover those two parts of the decision. This comparison supplies the model-level configuration distinction rather than repeating the complete sizing process.
+
+What belongs on the comparison sheet
+
+Put the model and configuration revision beside the cooling duty, heating duty and voltage limits. Then add the low-voltage supply, controls, mechanical envelope and the applicable performance conditions. Where an option has not been defined, leave a visible open item rather than quietly assuming it is included.
+
+We can start a product discussion from the available information without claiming a finished vehicle design. When you ask EVLINK for a BTMS configuration review, identify the vehicle, actual supply range, cooling and heating needs, ambient conditions and any installation drawing you can share. State which inputs remain unknown. That is a more useful enquiry than a request for “the biggest 5 kW unit”.

@@ -1,0 +1,8 @@
+--- post-9949-rendered-before
++++ post-9949-heading-proposal
+@@ -1,4 +1,4 @@
+-<h1>How Integrated Thermal Management Controllers Reduce the Cost of Electric Bus Systems</h1>
++<h2>How Integrated Thermal Management Controllers Reduce the Cost of Electric Bus Systems</h2>
+ <p>According to data from Dataintelo, the electric bus thermal management market is projected to grow from approximately US$3.2 billion in 2025 to US$8.7 billion in 2034, at a compound annual growth rate of 11.8 per cent. Within this market, compressors account for nearly 29 per cent of the total component value, heat exchangers for 24 per cent, and heating, ventilation and air conditioning (HVAC) controllers for over 21 per cent. As the scale of applications expands, cost pressures have shifted from individual components to the system architecture level—specifically issues relating to the number of controllers, the extent of cabling and the workload involved in validation.</p>
+ <p>One of the most obvious approaches to architectural optimisation is ‘integration’—merging the electric compressor controller, the refrigeration system’s electronic control unit (ECU) and the high-pressure PTC heater controller into a single integrated thermal management controller. Whilst the industry generally recognises that integration can ‘save costs’, few have provided specific quantitative analyses. This article will explore this issue in depth: where exactly are the costs incurred in the traditional ‘three-controller’ architecture? And which specific components can be eliminated through a ‘three-in-one’ design?</p>
+ <h2>Traditional Electric Bus Thermal Management Architecture and the Reasons for Its High Costs</h2>

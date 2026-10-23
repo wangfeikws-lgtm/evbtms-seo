@@ -1,0 +1,2 @@
+# Raw local cache is compressed in Git to avoid huge routine diffs.
+page-snapshots.json

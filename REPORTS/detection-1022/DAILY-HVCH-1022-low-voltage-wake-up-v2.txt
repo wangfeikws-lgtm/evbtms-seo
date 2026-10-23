@@ -1,0 +1,49 @@
+We would not replace a high-voltage coolant heater just because the vehicle sends an enable request and the coolant stays cold. Before calling the heater faulty, establish what that particular unit is meant to accept. A power connection, a control request and useful heat in the coolant are different observations.
+
+Our B and E Series make the distinction concrete. Both appear in the EVLINK specification summary at 20–24 kW and 400–800 V. B Series is listed with CAN and an enable interface. E Series uses thermostat control, without CAN or an external control interface. Choosing a unit from the power and voltage columns alone can therefore leave the vehicle expecting a conversation the heater was never designed to have.
+
+The same kilowatts do not mean the same start command
+
+Suppose a project requires the vehicle controller to request heating and read a defined status over CAN. B Series is a candidate to investigate; the E Series entry does not meet that communication requirement. That is a selection mismatch to resolve before commissioning, not evidence that an E Series unit has a CAN fault.
+
+The exact B variant still needs its approved interface document. “CAN plus enable” does not provide a pinout, message identifier, wake-up sequence or diagnostic definition. We would not fill those gaps from another heater's manual. Similar power ratings do not make the wiring or software interchangeable.
+
+What a 22 kW calculation can tell you
+
+Consider a deliberately simplified electrical example: a heater taking 22 kW from a 600 V DC source. Dividing power by voltage gives 22,000 / 600, or approximately 36.7 A. That is an arithmetic reference for those assumed conditions, not a measured current from an EVLINK heater.
+
+It does not establish that the control electronics have their required supply, that a command was accepted or that the heater delivers 22 kW at every point in its voltage range. It is not a cable or fuse recommendation either. Those decisions need the selected unit's actual limits and the vehicle electrical design.
+
+If the available evidence consists only of a nominal battery voltage and an enable request in the VCU log, the diagnosis is still open. A calculation cannot supply the missing observations.
+
+Start with the event that failed
+
+For an intermittent no-start, a voltage reading taken several minutes later is a weak substitute for a record of the attempted start. We would ask the responsible engineer to capture the relevant control-supply condition at the approved observation point, together with the documented wake-up or enable input and any feedback the variant actually provides.
+
+Keep the timing relationship. Did the unit reach its defined ready state before a heating request arrived? Did a supply or vehicle-state change coincide with the failed attempt? These are questions for the evidence package. They are not universal timing rules; the released interface specification determines the required sequence.
+
+Do not invent a ready-state signal if the model has none. For a thermostat-controlled unit, follow its own control architecture. An empty CAN trace cannot prove that a non-CAN heater is defective.
+
+Awake is not the same as allowed to heat
+
+A controller may be awake while heating remains inhibited. The particular heater and vehicle documentation determines which conditions matter and which states are observable. Use those definitions to interpret an alarm or a refusal to heat, rather than treating every inhibit as an internal hardware failure.
+
+Preserve the original fault information before a reset. If a restart makes the symptom disappear, retain that result alongside the failed attempt; do not rewrite the history as “no fault found”. A controlled comparison between successful and unsuccessful attempts can be more useful than another catalogue page.
+
+Cold coolant does not identify an electrical cause
+
+Even when electrical input is established, the thermal side remains a separate question. Coolant flow, starting temperature, circuit mass, sensor positions and the observation period affect what a temperature trace means. Use the existing HVCH power-verification guide to distinguish a requested output, electrical input and delivered heat.
+
+A no-start investigation should stay focused. First establish whether the documented start and heating conditions were met. If the unit is taking power but the coolant response is unexpected, move to the thermal investigation with those electrical observations attached. Do not keep changing communication settings to solve an unverified hydraulic problem.
+
+Keep the test within the approved procedure
+
+High-voltage access and measurements require qualified personnel and the vehicle's approved isolation and service procedures. Do not bridge an interlock, force a power stage on, apply an assumed test voltage or use an unverified connector pin assignment. The purpose of the review is to identify the next justified inspection, not to improvise a live test.
+
+A useful evidence package identifies the heater part and software version, the interface revision, the requested operation, the observed supply and states, and the fault information. Include the measurement location and the differences between runs. Where a channel was not captured, write “not recorded”. That is more useful than reconstructing a plausible value afterwards.
+
+What we need for a model-specific review
+
+Send the exact heater identity, vehicle voltage range, required control method and the available start-event record when you contact EVLINK about an HVCH integration. State whether the problem is a missing start response, a reported inhibit or an unexpected thermal result. We can then identify which product documents and project inputs the discussion needs.
+
+For network mapping, the separate HVCH CAN integration checklist covers the wider interface task. The coolant heater product range supports selection. Neither should be used to turn a series-level description into a made-up protocol for an individual unit.

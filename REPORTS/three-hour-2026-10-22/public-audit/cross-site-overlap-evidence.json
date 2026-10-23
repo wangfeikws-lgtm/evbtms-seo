@@ -1,0 +1,407 @@
+{
+  "method": "TF-IDF across public text with common-site terms excluded; no search-volume/GSC conclusions",
+  "documents": 87,
+  "pairs": [
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.3104,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+      "b_title": "Electric Truck Growth in 2025 Highlights the Growing Importance of High-Voltage PTC Coolant Heaters",
+      "tfidf_cosine": 0.2574,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+      "a_title": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.2241,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/cold-weather-battery-preconditioning-electric-buses-trucks/",
+      "a_title": "Cold-Weather Battery Preconditioning for Electric Buses and Trucks: What to Define Before Integration",
+      "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "b_title": "Electric Bus Battery Preheating at −30°C: Five Planning Mistakes",
+      "tfidf_cosine": 0.2148,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/ptc-coolant-heater-vs-air-heater/",
+      "a_title": "PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.2103,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "b_title": "Electric Bus Battery Preheating at −30°C: Five Planning Mistakes",
+      "tfidf_cosine": 0.2033,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+      "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1905,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+      "a_title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1873,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1868,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/ptc-coolant-heater-vs-air-heater/",
+      "a_title": "PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need",
+      "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+      "b_title": "Electric Truck Growth in 2025 Highlights the Growing Importance of High-Voltage PTC Coolant Heaters",
+      "tfidf_cosine": 0.1733,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "b": "https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html",
+      "b_title": "Why Electric Bus Range Falls in Winter—and Five Levers Fleets Can Control",
+      "tfidf_cosine": 0.1721,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-can-integration-oem-checklist/",
+      "a_title": "HVCH CAN Integration: An OEM Control Interface Checklist",
+      "b": "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html",
+      "b_title": "CAN-Controlled vs Thermostat-Controlled HVCH: Which Architecture Fits Your Vehicle?",
+      "tfidf_cosine": 0.1671,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+      "a_title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1628,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+      "a_title": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1624,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/",
+      "a_title": "Battery Heat Load Before BTMS Sizing: A Practical OEM Worksheet",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1622,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+      "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1602,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-rfq-checklist/",
+      "a_title": "High-Voltage Coolant Heater RFQ Checklist for Electric Buses and Trucks",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1568,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/what-is-a-ptc-coolant-heater-and-why-is-it-essential-for-electric-commercial-vehicles-376416.html",
+      "b_title": "What Is a PTC Coolant Heater and Why Is It Essential for Electric Commercial Vehicles?",
+      "tfidf_cosine": 0.153,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html",
+      "b_title": "CAN-Controlled vs Thermostat-Controlled HVCH: Which Architecture Fits Your Vehicle?",
+      "tfidf_cosine": 0.1528,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+      "a_title": "How to Select a BTMS for an Electric Truck or Bus",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.152,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/",
+      "a_title": "Battery Heat Load Before BTMS Sizing: A Practical OEM Worksheet",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1511,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+      "a_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1498,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1471,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+      "a_title": "How to Select a BTMS for an Electric Truck or Bus",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1465,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/400v-800v-high-voltage-coolant-heater/",
+      "a_title": "400V vs 800V High-Voltage Coolant Heater: An OEM Matching Guide",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1462,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+      "a_title": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1452,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/btms-temperature-sensor-placement/",
+      "a_title": "BTMS Temperature Sensor Placement: An OEM Measurement Guide",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1452,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+      "a_title": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026",
+      "b": "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html",
+      "b_title": "CAN-Controlled vs Thermostat-Controlled HVCH: Which Architecture Fits Your Vehicle?",
+      "tfidf_cosine": 0.1441,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-installation-checklist/",
+      "a_title": "High-Voltage Coolant Heater Installation: An OEM Review Checklist",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1422,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/cold-weather-battery-preconditioning-electric-buses-trucks/",
+      "a_title": "Cold-Weather Battery Preconditioning for Electric Buses and Trucks: What to Define Before Integration",
+      "b": "https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html",
+      "b_title": "Why Electric Bus Range Falls in Winter—and Five Levers Fleets Can Control",
+      "tfidf_cosine": 0.137,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/btms-can-integration-bms-vcu/",
+      "a_title": "BTMS CAN Integration with the BMS and VCU: An OEM Checklist",
+      "b": "https://www.evptc.com/news/can-controlled-vs-thermostat-controlled-hvch-which-architecture-fits-your-vehicle-422917.html",
+      "b_title": "CAN-Controlled vs Thermostat-Controlled HVCH: Which Architecture Fits Your Vehicle?",
+      "tfidf_cosine": 0.1367,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/btms-coolant-flow-rate-commercial-ev/",
+      "a_title": "BTMS Coolant Flow Rate for Electric Buses and Trucks: Estimate and Validate",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1358,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "b_title": "Electric Bus Battery Preheating at −30°C: Five Planning Mistakes",
+      "tfidf_cosine": 0.1337,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1329,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/how-high-voltage-coolant-heaters-enhance-vehicle-performance-and-efficiency-262653.html",
+      "b_title": "How High Voltage Coolant Heaters Enhance Vehicle Performance and Efficiency",
+      "tfidf_cosine": 0.1328,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/btms-refrigerant-circuit-vs-coolant-loop/",
+      "a_title": "BTMS Refrigerant Circuit vs Coolant Loop: An OEM Integration Guide",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1327,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1292,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/heat-pump-hvch-backup-heating-duty/",
+      "a_title": "Heat Pump and HVCH: Define the Backup Heating Duty",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1282,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+      "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+      "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "b_title": "Electric Bus Battery Preheating at −30°C: Five Planning Mistakes",
+      "tfidf_cosine": 0.128,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/evlink-showcases-advanced-ev-thermal-management-solutions-at-automechanika-frankfurt-2026-401749.html",
+      "b_title": "EVLINK Showcases Advanced EV Thermal Management Solutions at Automechanika Frankfurt 2026",
+      "tfidf_cosine": 0.1267,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-manufacturers/",
+      "a_title": "8 High-Voltage PTC Coolant Heater Manufacturers and HVCH Suppliers Worth Shortlisting in 2026",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1264,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/why-electric-bus-range-falls-in-winter-and-five-levers-fleets-can-control-422923.html",
+      "b_title": "Why Electric Bus Range Falls in Winter—and Five Levers Fleets Can Control",
+      "tfidf_cosine": 0.1258,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/cold-weather-battery-preconditioning-electric-buses-trucks/",
+      "a_title": "Cold-Weather Battery Preconditioning for Electric Buses and Trucks: What to Define Before Integration",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1245,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-coolant-flow-pressure-drop-oem-guide/",
+      "a_title": "HVCH Coolant Flow Rate and Pressure Drop: An OEM Integration Guide",
+      "b": "https://www.evptc.com/news/electric-bus-battery-preheating-at-30-c-five-planning-mistakes-422919.html",
+      "b_title": "Electric Bus Battery Preheating at −30°C: Five Planning Mistakes",
+      "tfidf_cosine": 0.1241,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-to-select-btms-electric-truck-bus/",
+      "a_title": "How to Select a BTMS for an Electric Truck or Bus",
+      "b": "https://www.evptc.com/news/ptc-coolant-heater-vs-heat-pump-for-commercial-evs-where-each-system-wins-422921.html",
+      "b_title": "PTC Coolant Heater vs Heat Pump for Commercial EVs: Where Each System Wins",
+      "tfidf_cosine": 0.1236,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/high-voltage-coolant-heater-sizing-electric-bus/",
+      "a_title": "High-Voltage Coolant Heater Sizing for Electric Buses: A Duty-Cycle Guide",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1227,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/ptc-coolant-heater-vs-air-heater/",
+      "a_title": "PTC Coolant Heater vs Air Heater: Which One Does Your Electric Vehicle Actually Need",
+      "b": "https://www.evptc.com/news/how-to-choose-a-high-voltage-ptc-coolant-heater-7-inputs-oems-must-define-422912.html",
+      "b_title": "How to Choose a High-Voltage PTC Coolant Heater: 7 Inputs OEMs Must Define",
+      "tfidf_cosine": 0.1226,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/how-high-voltage-coolant-heater-works/",
+      "a_title": "How Does a High Voltage Coolant Heater Work in Electric Vehicles?",
+      "b": "https://www.evptc.com/news/high-voltage-coolant-heaters-hvch-the-heart-of-thermal-management-in-modern-evs-285625.html",
+      "b_title": "High Voltage Coolant Heaters (HVCH): The Heart of Thermal Management in Modern EVs",
+      "tfidf_cosine": 0.1225,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/hvch-warm-up-response-validation/",
+      "a_title": "High-Voltage Coolant Heater Warm-Up Response: An OEM Test Brief",
+      "b": "https://www.evptc.com/news/how-does-a-high-voltage-coolant-heater-work-262644.html",
+      "b_title": "How Does a High Voltage Coolant Heater Work?",
+      "tfidf_cosine": 0.1215,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    },
+    {
+      "a": "https://evbtms.com/integrated-thermal-management-controller-cost/",
+      "a_title": "How an Integrated Thermal Management Controller Cuts Electric Bus System Cost",
+      "b": "https://www.evptc.com/news/electric-truck-growth-in-2025-highlights-the-growing-importance-of-high-voltage-ptc-coolant-heaters-423702.html",
+      "b_title": "Electric Truck Growth in 2025 Highlights the Growing Importance of High-Voltage PTC Coolant Heaters",
+      "tfidf_cosine": 0.1206,
+      "interpretation": "topic-overlap candidate, not proof of duplicate wording or Google cannibalization"
+    }
+  ],
+  "shared_sentences": []
+}

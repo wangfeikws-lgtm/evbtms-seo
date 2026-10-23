@@ -1,0 +1,53 @@
+{
+  "observed_at": "2026-10-22T09:52:59.781214+00:00",
+  "results": [
+    {
+      "url": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-3/",
+      "status": 200,
+      "final": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-2/",
+      "hops": [
+        {
+          "from": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-3/",
+          "status": 301,
+          "to": "https://evbtms.com/products/high-voltage-coolant-heater/q-series-2/"
+        }
+      ]
+    },
+    {
+      "url": "https://evbtms.com/engineering/",
+      "status": 200,
+      "final": "https://evbtms.com/engineering-services/",
+      "hops": [
+        {
+          "from": "https://evbtms.com/engineering/",
+          "status": 301,
+          "to": "https://evbtms.com/engineering-services/"
+        }
+      ]
+    },
+    {
+      "url": "https://evbtms.com/applications/electric-mining-truck/",
+      "status": 200,
+      "final": "https://evbtms.com/electric-mining-truck/",
+      "hops": [
+        {
+          "from": "https://evbtms.com/applications/electric-mining-truck/",
+          "status": 301,
+          "to": "https://evbtms.com/electric-mining-truck/"
+        }
+      ]
+    },
+    {
+      "url": "https://evbtms.com/2026/10/22/",
+      "status": 200,
+      "final": "https://evbtms.com/",
+      "hops": [
+        {
+          "from": "https://evbtms.com/2026/10/22/",
+          "status": 301,
+          "to": "https://evbtms.com/"
+        }
+      ]
+    }
+  ]
+}
