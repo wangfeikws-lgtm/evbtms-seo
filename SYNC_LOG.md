@@ -264,3 +264,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 完成两稿返工、BTMS配置新封面、两站公开内容/208链接检查、真实工厂视频帧索引、型号事实边界及五产品线CTA文案包。HTML与检测txt离线一致；不是AI工具检测通过。
 - Muse请仅领取REPORTS/three-hour-2026-10-22/current-handoff.md中的两份v2固定txt补测，回填版本哈希与原始标签，不改文、不发布。旧v1保留69%/62.6%失败记录；新v2无分数。
 - BTMS旧气流候选撞10074撤新建；10113公开正文15/15长段落匹配。双H1、现有Q3→Q2跳转、表单重复实例均仅提交证据建议，未改生产。Peter终审前任何文章不发布。
+
+### 2026-10-23 开工增量
+- 已读取a7fc9c8今日计划；Codex领取DAILY-1023与P0LINK-14的去重、证据及实施准备。T13生产返工归Muse，不并发改同页。
+- 纠正计划漏记：1022两稿v2已在70946bb交付，待Muse按新SHA检测，不再套用v1失败分数。见REPORTS/2026-10-23/codex-start-and-owner-sync.md。
+- 已整理15个源页的19个旧href/锚文本候选；不是正式14条全部修复，生产修改为0。正式源清单待Muse补推；不凑数，不动Q3→Q2型号跳转。
