@@ -1,0 +1,154 @@
+[
+  {
+    "page": "https://evbtms.com/products/high-voltage-coolant-heater/high-voltage/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "Explore Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/custom-development/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/system-design-integration/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/engineering-services/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/faq/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "View Engineering",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/technical-insights/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/products/electric-compressor/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/products/electric-compressor/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "View Engineering",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/products/high-voltage-coolant-heater/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "Explore Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/products/high-voltage-coolant-heater/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "Review Engineering Services",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/products/three-in-one-controller/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/resources/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/applications/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "Explore Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/applications/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Complete Application Page",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/contact/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "View Engineering",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T09:41:11.705480+00:00"
+  },
+  {
+    "page": "https://evbtms.com/about-us/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "Explore Engineering Services",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/about-us/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Application",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/",
+    "old": "https://evbtms.com/applications/electric-mining-truck/",
+    "new": "https://evbtms.com/electric-mining-truck/",
+    "anchor": "View Complete Application Page",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  },
+  {
+    "page": "https://evbtms.com/news/",
+    "old": "https://evbtms.com/engineering/",
+    "new": "https://evbtms.com/engineering-services/",
+    "anchor": "View Engineering",
+    "state": "PROPOSED_NOT_CHANGED",
+    "evidence_time": "2026-10-22T10:01:00.363413+00:00"
+  }
+]
