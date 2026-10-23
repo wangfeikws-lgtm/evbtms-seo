@@ -79,3 +79,16 @@
 - 390px 验收：⚠️ 未完成——实况浏览器无改视口能力、无头截图被站点验证门与浏览器包下载超时挡住；新增板块均为 Elementor 标准组件，风险低，待补验。
 - 全站 P0 14 条内链：✅ 2026-10-23 凌晨全部修复并逐条前台核验（首页 6/resources 3/case-studies 3/about-us 1/HVCH 产品页 q-series-3→2 一条）。
 - #6 BTMS 测试板块：✅ 2026-10-23 上午完成（Peter 09:12 拍板：他没有 BTMS 自有测试数据，按"正常发布"处理）。按无数字安全版上线：文案包原文其余逐字保留，仅将"25-point test program"改"full test program"、删除"9,360 cycles"改为反复循环的通用说法（正文 1 处＋FAQ 2 处）；FAQ3 中制动电阻 140 kW/160 L/min 型式试验引用归属正确、保留。新增 H2《How Every EVLINK BTMS Is Tested Before It Ships》＋4 段（选型板块后、Applications 前），FAQ 追加 3 条，前台逐条展开核验通过、无占位文字；Title/Meta/H1 与 #1 内容未动。本页 FAQ 为文本部件（H3＋段落），无 FAQ Schema 开关。入站链 2 条（T11 文、T8#5 文 → BTMS 页）无现成字样可挂，按"不改字"约定跳过。编辑中曾误生成「Which Size」板块重复副本，已删除并确认前台仅一份。**→ T13 六项主体全部完成，仅剩 390px 手机端验收待补。**
+
+## 390px 手机端验收 — 2026-10-23 14:50 +08 补验完成（Muse）
+
+方法：实况浏览器不能改视口、直连无头浏览器被沙箱出口代理的证书拦截与限流挡住；最终两条通道实测——① BTMS 产品页经本地 CONNECT 中继＋CDP 设备仿真在**线上页面**直测；② 其余四页用与源站逐字节一致的本地镜像（HTML/CSS/JS/图片全量抓取）以 file:// 渲染＋CDP 仿真 390×844（iPhone UA、触摸）。镜像与源站差异仅第三方脚本（字体/Clarity），不影响 Elementor 网格排版。证据截图与原始测量 JSON 存 evbtms 目标 hidden_files/t13-390px/。
+
+逐页结果（390px）：
+- BTMS 产品页（#1＋#6）：✅ 线上直测。scrollWidth＝390＝innerWidth，无横向溢出，无超宽元素；新板块《Which Size Do You Actually Need?》《How Every EVLINK BTMS Is Tested Before It Ships》均在位、单列正常。
+- Applications（#2）：✅ 无横向溢出；矿卡 H3《The Descent Is the Hard Part》在位、单列正常；四张产品卡（含 04 Braking Resistor）在列。
+- HVCH 产品页（#3）：✅ 无横向溢出；新板块《How to Size a Coolant Heater Without Guessing》单列正常。
+- 三合一页（#4）：✅ 无横向溢出；新板块《Three Separate Controllers vs. One Integrated Unit》正常；页内两张表 337/330px，在视口内。
+- HVCH 厂家页（#5）：✅ T13 新增板块《Inside the EVLINK Heater Line》单列正常、无溢出。⚠️ **存量问题（非 T13 改动）**：页内「Quick Comparison」对比表两张分别为 577px / 502px，无横向滚动容器，且 body overflow-x:hidden，390px 下右半截被裁切、手指滑不过去（桌面端无此问题）。建议修复：给两张表外层套 overflow-x:auto 滚动容器（低风险改动），等 Peter 点头后执行。
+
+**→ T13《8 个老页面升级》六项＋390px 验收全部完成、正式收官。** 厂家页表格问题转 P1 跟进项。
