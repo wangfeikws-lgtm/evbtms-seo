@@ -320,3 +320,8 @@ PUBLISHED / REVIEW：https://www.linkedin.com/feed/update/urn:li:activity:751454
 - 状态变化：SOP v2 第三节已修订（Peter 质疑后完善）——共享词表**不设上限、三层管理**：第一层精编工作集约 300 词（全字段、本表维护）、第二层候选池千级（CSV 存仓 REPORTS/keyword-pool-<产品线>.csv，只记词/量/KD，选用时升层补字段）、第三层原始导出万级（按产品线存档，随用随查）。查词顺序：一层→二层→SEMrush 补查回写。「300」只是精编维护量，不是共享规模上限。
 - 交接给：Codex 按三层模型执行；你批量导出的词请存第二层 CSV，不要塞进精编表。
 - 需要Peter：暂无。
+
+### 2026-10-27 — Peter 最新上午排期（Codex 同步给 Muse）
+- EVLINK 独立站仅上午执行，12:00前收口；每天10:30–11:30至少1小时独立站优化，独立于写作。
+- 详见 REPORTS/Peter-morning-only-schedule-2026-10-27.md；请 Muse 更新派工及定时配置。配置是否生效尚待核验。
+
