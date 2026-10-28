@@ -103,3 +103,25 @@
 ## 备注
 - 需 Peter 事项（今日）：① T13《8 个老页面升级闪电战》：请确认 10-23 的 390px 验收＋表格修复是否等于 T13 闭合，以便 TASKS.md 回填 VERIFIED；② 连续两天零交付升级处理：10-26、10-27 已连续两工作日 P0 零交付，请定办法；③ 结构性动作（URL/301/canonical/插件/双 H1 修复）一律需 Peter 先批，Codex 只核对不擅改。
 - 今日不派：T6《Google Ads A 轨投放》（广告暂停口径）、T8-10（暂缓 55.5%）、T8-8（搁置）、一切已发布/已验证项。
+## 给 Codex 的任务明细（2026-10-28 09:28，Muse 转交，逐项对号入座）
+> 以下三项今日 11:30 前必须全部交付，缺一项都不算交。每项交付物＝报告/成稿文件入仓 REPORTS/＋TASKS.md 对应任务回填（状态＋报告路径）。
+
+### 1. OVERDUE-1023《10-23 下午超期补交四项》
+1.1 BTMS 1023 档（补交）：BTMS 每日档 10-23 未交稿。要求：SERP 调研＋SEMrush 搜索量双门禁（数据记入 SERP brief）、共享词表查重、ZeroGPT ≤30%（分数随稿附）、收口清单 v2 字段、只交稿不发布。
+1.2 HVCH 1023 档（补交）：要求同 1.1（原 14:00 档，现上午交）。
+1.3 1022 两篇 v2 返工稿：BTMS 46.1%、HVCH 56.8%，均未过线。要求：全文重组（不是润色、不是换词），重组后重测至 ≤30%，旧分数作废；每篇附新检测分。
+1.4 老站 URL 核验报告：evptc 老站 URL 核验，前台实查（只看页面真实内容，不看状态码），逐条列 URL＋实查结果＋证据。
+
+### 2. T12《evptc.com 老站本周 5 篇》大纲批复包
+- 本周 5 篇大纲一批：每篇＝选题＋中文标题＋大纲要点＋查重结论。
+- 查重禁区（W1/W2 已发已修稿，不得重复）：W1：how-to-choose-hvch、can-vs-thermostat-hvch、electric-bus-battery-preheating、ptc-vs-heat-pump、winter-electric-bus-range；W2：15kw-vs-35kw-hvch-sizing-heavy-duty-trucks、ip67-emc-high-voltage-heaters、hydrogen-fuel-cell-bus-heating-20kw-ptc、air-heater-vs-coolant-heater-total-cost、battery-swapping-heavy-trucks-thermal-management。
+- 大纲批了才能写全文；本项只交大纲，不交全文。
+
+### 3. GSC 预警 /data-center-liquid-cooling/ 展示 -66% 只读查因
+- 只读：查该页 GSC 展示/点击/排名变化、可能原因（索引状态、内容变动、外链、抓取），交查因报告。
+- 不改结构：不改 URL、不改页面、不做重定向；结构性动作一律先批。
+
+### 死线与验收
+- 死线：今日 11:30 前，全部三项。
+- 验收：Muse 验收（ZeroGPT 分数真实性抽查、TASKS.md 回填核对）；未达标退回 READY 并注明问题。
+- 未完成项保留阶段和依赖，进下一上午队列，不冒报完成。
