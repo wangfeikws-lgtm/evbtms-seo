@@ -58,3 +58,4 @@
 
 ## 验收记录
 - 2026-10-22 10:55 巡检：LinkedIn 7 篇批准积压稿（#5 HVCH 原理/#6 大功率 HVCH/#7 工厂 OEM·ODM/#8 压缩机匹配 FAQ/#10 A·Q·H 选型/#11 IP67·CAN/#12 询盘输入）REVIEW→VERIFIED。Muse 独立公开核验：7 帖全部在位（作者 wang peter，2026-10-22 10:00–10:28+08 发布，activity URN 7518853666624147456–7518860821330845697 连续单批次），正文无链接、每帖恰 1 条首评（#5 首评已回读确认为批准版含链接 https://evbtms.com/how-high-voltage-coolant-heater-works/），报告所列 5 处措辞修正逐帖核对一致，参数与 Peter 冻结资料一致；无重复发布、无私信/加人/广告/账号设置变更；发布经 Peter 在 LinkedIn 项目直接恢复 Codex 代发授权并指令执行。余项：截图仅存 Codex 本地、手机实机未独立验收、互动/询盘效果不作结论；#9/#13 待批未发、#4 作废。报告：REPORTS/linkedin/publication-status-2026-10-22.md。
+- 2026-10-28 10:53 巡检：SITE-OPT 农业机械页公开同步 REVIEW→VERIFIED。Muse 独立公开核验正式 URL https://evbtms.com/agricultural-machinery/：HTTP200、无跳转、自指 canonical、无 noindex；含“This application concept illustrates”、无“Replace these editable placeholders”（命中的 placeholder 字样均为表单 CSS，无旧占位文案）。范围限定：仅三处编辑说明公开生效，全页手机验收仍未做；报告引用的 outputs/20261028 证据文件未入仓，未复读。报告：REPORTS/agriculture-public-sync-fixed-2026-10-28.md。

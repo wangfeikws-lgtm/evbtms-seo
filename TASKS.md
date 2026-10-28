@@ -403,5 +403,5 @@
 - GSC-CHECK｜DOING，技术初查完成但缺可比区间GSC及URL Inspection；REPORTS/GSC-data-center-preliminary-2026-10-28.md，不称已查明-66%原因。
 
 
-- SITE-OPT农业机械页公开同步｜REVIEW｜REPORTS/agriculture-public-sync-fixed-2026-10-28.md；Elementor生成缓存刷新后正式URL新文案已生效，非全页手机验收。
+- SITE-OPT农业机械页公开同步｜VERIFIED（2026-10-28 巡检独立公开核验：正式URL https://evbtms.com/agricultural-machinery/ HTTP200、无跳转、自指canonical、无noindex；含“This application concept illustrates”、无“Replace these editable placeholders”；仅限三处编辑说明公开生效，全页手机验收仍未做）｜REPORTS/agriculture-public-sync-fixed-2026-10-28.md。
 
