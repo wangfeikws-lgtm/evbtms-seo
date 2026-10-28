@@ -1,0 +1,23 @@
+﻿[
+    {
+        "url":  "https://evbtms.com/products/high-voltage-coolant-heater/",
+        "http":  200,
+        "id":  2950,
+        "public_links_verified":  true,
+        "node":  "19529d73",
+        "backend_verified":  true,
+        "links":  "https://evbtms.com/hvch-low-voltage-supply-integration/"
+    },
+    {
+        "url":  "https://evbtms.com/products/three-in-one-controller/",
+        "http":  200,
+        "id":  2948,
+        "public_links_verified":  true,
+        "node":  "651e6a9d",
+        "backend_verified":  true,
+        "links":  [
+                      "https://evbtms.com/ev-thermal-management-control-strategy/",
+                      "https://evbtms.com/integrated-thermal-management-controller-cost/"
+                  ]
+    }
+]

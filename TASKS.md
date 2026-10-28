@@ -405,3 +405,11 @@
 
 - SITE-OPT农业机械页公开同步｜VERIFIED（2026-10-28 巡检独立公开核验：正式URL https://evbtms.com/agricultural-machinery/ HTTP200、无跳转、自指canonical、无noindex；含“This application concept illustrates”、无“Replace these editable placeholders”；仅限三处编辑说明公开生效，全页手机验收仍未做）｜REPORTS/agriculture-public-sync-fixed-2026-10-28.md。
 
+
+### 新站249词排名推进｜2026-10-28 Codex增量
+- Peter最新要求：只优化evbtms.com，相关词争取10–15名，逐项继续执行；不是全部249词排名保证。
+- 249词初步分类：8保位、33优先推进、68长期建设、93先核实业务意图、47不作为本轮目标；仅10查询实际页面关系已验证，239待验证。
+- HVCH及控制器产品页补3条相关工程指南内链，后台回读+公开200/链接已核验；参数、标题和slug不变。A5精确301获Peter批准后完成，单次301到目标200。
+- 明细与证据：REPORTS/newsite-249-ranking-execution-2026-10-28.md、newsite-249-ranking-actions-2026-10-28.csv、newsite-priority-links-verified-2026-10-28.json、a5-301-verified-2026-10-28.json。
+- 已读Muse最新词库终态说明；300买家候选词与249个GSC实际查询分开，不将待验证搜索量作为实测。先以相关采购意图推进；单次CTR波动不自动回滚。
+- 12kW原表中英电压及型号冲突仍待Peter确认；不猜参数。未新增对外联络，不声称Google已重收录或排名已达成。

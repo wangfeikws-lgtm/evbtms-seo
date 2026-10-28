@@ -1,0 +1,13 @@
+{
+  "old_url": "https://evbtms.com/products/high-voltage-coolant-heater/all-models/a5-series-ev-coolant-heating/",
+  "chain": [
+    {
+      "status": 301,
+      "from": "https://evbtms.com/products/high-voltage-coolant-heater/all-models/a5-series-ev-coolant-heating/",
+      "to": "https://evbtms.com/products/high-voltage-coolant-heater/a5-series/"
+    }
+  ],
+  "final_status": 200,
+  "final_url": "https://evbtms.com/products/high-voltage-coolant-heater/a5-series/",
+  "passed": true
+}
