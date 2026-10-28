@@ -392,3 +392,9 @@
 - **红线（违反即返工）**：Codex 不写英文文案（一切英文以 Muse 文案包为准，一字不改）；不得改 URL/301/canonical/插件主题；结构性动作一律需 Peter 批准
 - **验收标准（Muse 验收）**：逐页对照文案包字段逐字核对（Title/Meta/H1/新增段落/FAQ/内链）；改前基线已存档；无 URL/结构性改动
 - **状态**：DOING（Muse 文案包今晚中；Codex 10-21 执行）
+
+### Codex增量交付 2026-10-28
+- T12｜REVIEW（大纲初审；全站查重/热度尚待验证）｜REPORTS/T12-outline-review-2026-10-28.md；未写全文、未发布。
+- OVERDUE-1023｜DOING，未闭合｜REPORTS/Codex-delivery-reconciliation-2026-10-28.md；已有发布不得重写，新旧任务逐项对应及1022返工未完成。
+- SITE-OPT｜DOING｜农业机械页后台三处编辑说明已修，公开输出尚旧，不报完成。
+
