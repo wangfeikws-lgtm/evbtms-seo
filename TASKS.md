@@ -398,3 +398,10 @@
 - OVERDUE-1023｜DOING，未闭合｜REPORTS/Codex-delivery-reconciliation-2026-10-28.md；已有发布不得重写，新旧任务逐项对应及1022返工未完成。
 - SITE-OPT｜DOING｜农业机械页后台三处编辑说明已修，公开输出尚旧，不报完成。
 
+
+- T12｜Peter最新要求：老站五题改每天推进一篇交审核；REPORTS/Peter-oldsite-one-per-day-2026-10-28.md。
+- GSC-CHECK｜DOING，技术初查完成但缺可比区间GSC及URL Inspection；REPORTS/GSC-data-center-preliminary-2026-10-28.md，不称已查明-66%原因。
+
+
+- SITE-OPT农业机械页公开同步｜REVIEW｜REPORTS/agriculture-public-sync-fixed-2026-10-28.md；Elementor生成缓存刷新后正式URL新文案已生效，非全页手机验收。
+
