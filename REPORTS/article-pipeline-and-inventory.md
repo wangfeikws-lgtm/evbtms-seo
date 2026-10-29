@@ -34,6 +34,9 @@
 | T8-9 | Where Does Regenerative Braking Energy Go When the Battery Is Full?（电池满了再生制动能量去哪；发布标题用 Peter 问句版） | ✅ 已发布（2026-10-23）：发布版为 Peter 改定稿，ZeroGPT 17.5% ✅ 过线，Muse 按其逐篇授权代发 | REPORTS/T8-article-09-regen-energy-battery-full.md | https://evbtms.com/regen-braking-energy-battery-full/（post 10251，2026-10-23）|
 | T8-10~30 | 制动电阻 30 篇规划其余 21 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
 | DAILY-1029 | EV Coolant Is Not Engine Antifreeze: What to Specify for Battery Thermal Loops（每日档合并：DAILY-1028 补交＋DAILY-1029 今日档） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10353；ZeroGPT 22.8%） | REPORTS/DAILY-1029-merged-ev-coolant-peter-version-2026-10-29.md | https://evbtms.com/ev-coolant-battery-thermal-loops/ |
+| HVCH-1023 | Full Power on a Mild Day: Why Your HVCH Needs Modulated Output（HVCH 1023档） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10356；Peter 审过版不检测） | REPORTS/HVCH-1023-modulated-output-peter-version-2026-10-29.md | https://evbtms.com/hvch-modulated-output-mild-days/ |
+| HVCH-1022v2 | HVCH Not Starting? Check Low-Voltage Supply and Wake-Up（1022 HVCH v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10357；Peter 审过版不检测） | REPORTS/HVCH-1022v2-not-starting-peter-version-2026-10-29.md | https://evbtms.com/hvch-not-starting-low-voltage-wake-up/ |
+| BTMS-1022v2 | Reading a BTMS Quotation: Five Lines That Decide Whether the Unit Fits Your Vehicle（1022 BTMS v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10362；Peter 审过版不检测） | REPORTS/BTMS-1022v2-quotation-audit-peter-version-2026-10-29.md | https://evbtms.com/btms-quotation-five-lines-fit/ |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
