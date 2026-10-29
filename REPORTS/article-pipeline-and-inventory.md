@@ -33,6 +33,7 @@
 | T8-8 | What Is a Brake Chopper? Resistor + Chopper Architectures Explained（制动斩波器与三架构） | ⏸ 搁置：五版 ZeroGPT 均未过线（v1 38%｜v2 32.9%｜v3 39.5%｜v4 43.2%｜v5 34.2%，2026-10-23 v5 复测）；日后换故障诊断切入点重写 | REPORTS/T8-article-08-brake-chopper-v5.md | ❌ 未发布 |
 | T8-9 | Where Does Regenerative Braking Energy Go When the Battery Is Full?（电池满了再生制动能量去哪；发布标题用 Peter 问句版） | ✅ 已发布（2026-10-23）：发布版为 Peter 改定稿，ZeroGPT 17.5% ✅ 过线，Muse 按其逐篇授权代发 | REPORTS/T8-article-09-regen-energy-battery-full.md | https://evbtms.com/regen-braking-energy-battery-full/（post 10251，2026-10-23）|
 | T8-10~30 | 制动电阻 30 篇规划其余 21 篇（见 REPORTS/T8-30-articles-plan-2026-10-15.md） | 写作中（周一到周五每天 1 篇） | — | ❌ 未写完 |
+| DAILY-1029 | EV Coolant Is Not Engine Antifreeze: What to Specify for Battery Thermal Loops（每日档合并：DAILY-1028 补交＋DAILY-1029 今日档） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10353；ZeroGPT 22.8%） | REPORTS/DAILY-1029-merged-ev-coolant-peter-version-2026-10-29.md | https://evbtms.com/ev-coolant-battery-thermal-loops/ |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
