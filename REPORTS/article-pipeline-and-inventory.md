@@ -37,6 +37,7 @@
 | HVCH-1023 | Full Power on a Mild Day: Why Your HVCH Needs Modulated Output（HVCH 1023档） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10356；Peter 审过版不检测） | REPORTS/HVCH-1023-modulated-output-peter-version-2026-10-29.md | https://evbtms.com/hvch-modulated-output-mild-days/ |
 | HVCH-1022v2 | HVCH Not Starting? Check Low-Voltage Supply and Wake-Up（1022 HVCH v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10357；Peter 审过版不检测） | REPORTS/HVCH-1022v2-not-starting-peter-version-2026-10-29.md | https://evbtms.com/hvch-not-starting-low-voltage-wake-up/ |
 | BTMS-1022v2 | Reading a BTMS Quotation: Five Lines That Decide Whether the Unit Fits Your Vehicle（1022 BTMS v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10362；Peter 审过版不检测） | REPORTS/BTMS-1022v2-quotation-audit-peter-version-2026-10-29.md | https://evbtms.com/btms-quotation-five-lines-fit/ |
+| BTMS-1023 | Will Your Bus Leave the Depot Warm? Specifying BTMS Preconditioning Before Winter（BTMS 1023档，德语版） | ✅ 已发布 2026-10-29（Peter 德语修订版，Muse 按其逐篇授权代发 post 10367；Peter 审过版不检测） | REPORTS/BTMS-1023-preconditioning-peter-german-version-2026-10-29.md | https://evbtms.com/electric-bus-btms-preconditioning-depot/ |
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
