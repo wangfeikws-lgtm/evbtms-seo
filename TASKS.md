@@ -418,7 +418,7 @@
 
 - OVERDUE-1023-CLOSE｜DONE（2026-11-02 Muse 补位回填：10-29 落定事实——5 篇补写发布 post 10353/10356/10357/10362/10367＋T12-1 Peter 手动发布＋老站 URL 核验异常 0；闭合口径按 10-29 落定事实计；原 10-28 DOING 行 superseded）。
 - T12-2｜处置待定（Muse 补写稿：按 10-28 批大纲第 2 篇，OEM 图纸评审清单角度；ZeroGPT 58.5% 未过线，不进待审清单；等 Peter 处置：自己改／换题／另定方向；SEMrush 结果待补；稿存 REPORTS/T12-2-draft-2026-11-02.md）。
-- DAILY-1102｜REVIEW 待 Peter 审核发布（Muse 补写稿：BTMS 选型 3/5/12kW 角度；ZeroGPT 25.3% 过线；SEMrush 三个选型词美国库无量，Peter 2026-11-02 批进待审清单；slug 建议 btms-sizing-3kw-5kw-12kw；稿存 REPORTS/DAILY-1102-btms-sizing-draft-2026-11-02.md）。
+- DAILY-1102｜DONE（2026-11-02 已发布：Peter 全文版，Muse 按其逐篇授权“发布吧”代发 post 10395，https://evbtms.com/btms-sizing-3kw-5kw-12kw/；Guide 分类；无特色图；含四型号对照表；Peter 审过版不检测；发布版存 REPORTS/DAILY-1102-btms-sizing-peter-version-2026-11-02.md）。
 - KW-249｜DONE（33 优先词承接页全部逐个核验：8 页全部存在且内容匹配，无需换页；仅 high voltage coolant heater 在 10-28 快照中有点击 16 次；清单 REPORTS/KW-249-priority-33-verification-2026-11-02.md）。
 - SITE-OPT-390｜DONE（2026-11-02 390px 全页验收通过：0 超宽元素，0 坏图，正文 16px；报告 REPORTS/site-opt-390-acceptance-2026-11-02.md；10-28 VERIFIED 行“全页手机验收仍未做”余项就此关闭）。
 - GSC-CHECK｜DONE（2026-10-29 定论：-66% 无法复现、无持续下滑、GSC/索引侧不用改；真问题＝0 点击、排名 45 位之后；定论报告 2026-10-30 随派工单补推入仓；原 10-28 DOING 初查行 superseded）。

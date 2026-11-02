@@ -39,6 +39,7 @@
 | HVCH-1022v2 | HVCH Not Starting? Check Low-Voltage Supply and Wake-Up（1022 HVCH v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10357；Peter 审过版不检测） | REPORTS/HVCH-1022v2-not-starting-peter-version-2026-10-29.md | https://evbtms.com/hvch-not-starting-low-voltage-wake-up/ |
 | BTMS-1022v2 | Reading a BTMS Quotation: Five Lines That Decide Whether the Unit Fits Your Vehicle（1022 BTMS v2返工稿） | ✅ 已发布 2026-10-29（Peter 修订版，Muse 按其逐篇授权代发 post 10362；Peter 审过版不检测） | REPORTS/BTMS-1022v2-quotation-audit-peter-version-2026-10-29.md | https://evbtms.com/btms-quotation-five-lines-fit/ |
 | BTMS-1023 | Will Your Bus Leave the Depot Warm? Specifying BTMS Preconditioning Before Winter（BTMS 1023档，德语版） | ✅ 已发布 2026-10-29（Peter 德语修订版，Muse 按其逐篇授权代发 post 10367；Peter 审过版不检测） | REPORTS/BTMS-1023-preconditioning-peter-german-version-2026-10-29.md | https://evbtms.com/electric-bus-btms-preconditioning-depot/ |
+| DAILY-1102 | What specification of battery thermal management system (BTMS) does your electric bus require? 3 kW, 5 kW or 12 kW?（BTMS 选型：3kW／5kW／12kW 怎么选） | ✅ 已发布 2026-11-02（Peter 全文版，Muse 按其逐篇授权“发布吧”代发 post 10395；Peter 审过版不检测；Guide 分类；无特色图；含四型号对照表；Muse 初稿 ZeroGPT 25.3%，SEMrush 三个选型词美国库无量，Peter 批进清单作产品页支撑内容） | REPORTS/DAILY-1102-btms-sizing-peter-version-2026-11-02.md | https://evbtms.com/btms-sizing-3kw-5kw-12kw/（post 10395，2026-11-02）|
 
 ## 三、每日自动发布规则（Codex 自动化，2026-10-09 修正版）
 
