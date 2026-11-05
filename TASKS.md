@@ -417,7 +417,7 @@
 ### Muse补位 2026-11-02（Codex 当日零交付，Peter 令补欠账）
 
 - OVERDUE-1023-CLOSE｜DONE（2026-11-02 Muse 补位回填：10-29 落定事实——5 篇补写发布 post 10353/10356/10357/10362/10367＋T12-1 Peter 手动发布＋老站 URL 核验异常 0；闭合口径按 10-29 落定事实计；原 10-28 DOING 行 superseded）。
-- T12-2｜等 Peter 自改版发回（Peter 2026-11-03 授权 Muse 定夺：原题作废——Muse 补写稿 ZeroGPT 58.5% 未过线，SEMrush 三词美国库均无量，两道门都没过；替换题定大纲第 4 篇《样件验收》，Muse 补位写作完成；替换稿两门未过（ZeroGPT 51.7%、SEMrush 三词美国库均无量）已作废；Peter 2026-11-03 定自己改一版，等他发回后 Muse 只排版＋测分、不重写；原稿存 REPORTS/T12-2-draft-2026-11-02.md，替换稿存 REPORTS/T12-2-replacement-draft-2026-11-03.md）。
+- T12-2｜已发布（ECER 后台，2026-11-05 13:52，文章 436307；Peter 自改版按明确指令代发，正文逐字未改、只排版＋SEO，未检测；公开 URL https://www.evptc.com/news/hvch-sample-acceptance-linking-test-results-to-the-production-configuration-436307.html（平台按标题自动生成 slug＋编号，未用建议 slug）；前台 13:54 查为 404，ECER 同步滞后数小时至隔夜，待前台复核）。（原题作废；Muse 替换稿两门未过已作废；原稿存 REPORTS/T12-2-draft-2026-11-02.md，替换稿存 REPORTS/T12-2-replacement-draft-2026-11-03.md）
 - DAILY-1102｜DONE（2026-11-02 已发布：Peter 全文版，Muse 按其逐篇授权“发布吧”代发 post 10395，https://evbtms.com/btms-sizing-3kw-5kw-12kw/；Guide 分类；无特色图；含四型号对照表；Peter 审过版不检测；发布版存 REPORTS/DAILY-1102-btms-sizing-peter-version-2026-11-02.md）。
 - KW-249｜DONE（33 优先词承接页全部逐个核验：8 页全部存在且内容匹配，无需换页；仅 high voltage coolant heater 在 10-28 快照中有点击 16 次；清单 REPORTS/KW-249-priority-33-verification-2026-11-02.md）。
 - SITE-OPT-390｜DONE（2026-11-02 390px 全页验收通过：0 超宽元素，0 坏图，正文 16px；报告 REPORTS/site-opt-390-acceptance-2026-11-02.md；10-28 VERIFIED 行“全页手机验收仍未做”余项就此关闭）。
