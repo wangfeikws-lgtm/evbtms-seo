@@ -47,6 +47,35 @@
 
 how a braking resistor works｜how do braking resistors work｜how does a braking resistor work｜how does a dynamic braking resistor work｜how to calculate braking resistor for vfd｜how to calculate dynamic braking resistor for vfd｜how to check braking resistor｜how to connect braking resistor to vfd｜how to test a dynamic braking resistor｜what does a braking resistor do｜what is a braking resistor｜what is braking resistor｜what is braking resistor in vfd｜what is dynamic braking resistor｜why braking resistor used in vfd
 
+## HVCH 高压加热器关键词意见全量（魔法工具，美国库，2026-11-06 Muse 拉取）
+
+总量口径：种子词 1「high voltage coolant heater」全部变体 17 个、总搜索量 150，平均 KD 不可用；种子词 2「PTC coolant heater」全部变体 3 个、总搜索量 20，平均 KD 不可用；两种子词问题区均为 0 条、相关性匹配均为 0。下表为留词（美国量≥10 且属产品线，共 7 条；其中 2 条种子词为 2026-10-23 已有数据，本次复核一致、未重查；新增 5 条为车型适配长尾）。
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| high voltage coolant heater | 美国/英语 | 20 | 330 | 不可用 | $0 | 持平（每月 20） | 不可用 | 2026-11-06（10-23 值复核一致） | Muse |
+| PTC coolant heater | 美国/英语 | 20 | 240 | 不可用 | $0 | 基本持平，个别月份冲高 | 不可用 | 2026-11-06（10-23 值复核一致） | Muse |
+| high voltage coolant heater volvo | 美国/英语 | 20 | 110 | 不可用 | $0 | 持平 | 不可用 | 2026-11-06 | Muse |
+| volvo high voltage coolant heater | 美国/英语 | 20 | 90 | 不可用 | $0 | 持平 | 不可用 | 2026-11-06 | Muse |
+| high voltage coolant heater land rover | 美国/英语 | 20 | 50 | 不可用 | $0 | 基本持平，1 个月无数据 | 不可用 | 2026-11-06 | Muse |
+| high voltage coolant heater volvo xc90 | 美国/英语 | 20 | 40 | 不可用 | $0 | 基本持平，1 个月无数据 | 不可用 | 2026-11-06 | Muse |
+| volvo xc90 high voltage coolant heater | 美国/英语 | 20 | 40 | 不可用 | $0 | 持平 | 不可用 | 2026-11-06 | Muse |
+
+### HVCH 剔除记录（有量但不收）
+
+- P0599 故障码诊断词（节温器加热器控制电路高电压，非 HVCH 产品词）：engine coolant thermostat heater control circuit high voltage（美国 20／全球 80）、p0599 00 engine coolant thermostat heater control circuit high voltage（美国 10／全球 20，仅最近约 2 个月有量）。
+- 供应商品牌词（美国量均为 0）：borgwarner high voltage coolant heater、eberspächer high voltage ptc coolant heater 3rd generation、eberspächer ptc coolant heater、high voltage coolant heater valeo、webasto high voltage coolant heater。
+- 市场类信息词（美国量均为 0）：high voltage coolant heater market、high voltage water coolant heater market。
+
+### HVCH 结论（Muse，2026-11-06）
+
+1. **HVCH 线极薄**：两种子词全量加起来只有 20 个变体，留词 7 条、且全部只有 20/月；问题区 0 条，暂无问题词可作 FAQ 素材。靠核心词＋长尾吃量的空间很小，选题必须先过 SERP 验证再定。
+2. **车型适配词是唯一长尾增量**：5 条 Volvo／Land Rover 适配词（volvo、volvo xc90、land rover）各 20/月。它们是整车品牌＋产品词，不是竞品供应商品牌词，留作长尾；但成文时不得暗示原厂背书或原厂适配认证，承接页与选题待 SERP 验证后定。
+3. **是否需新增文章：待定**——核心词与长尾均仅 20/月，单篇吃「high voltage coolant heater＋PTC coolant heater＋车型适配词」一串的可行性待 SERP 验证，不单独为 20 量词开篇；承接页暂定新站 HVCH 产品页（待核验）。
+4. **数据口径说明**：全部 KD／意图不可用、CPC $0，系 SEMrush 未提供数据，非遗漏；趋势为图表形态定性描述，无逐月数值；全球量仅对美国量≥10 的词逐个用关键词概览补查。
+5. **节点与额度**：节点 20 起查（API 当日 0/5000→52/5000，余量充足），关键词概览两次报错后按规矩换节点 19→18→17 完成，最终节点 17；未改任何设置。
+6. **累计**：查出量级的词由 169 项增至 174 项（HVCH 新增 5 条车型适配长尾；2 条种子词已计入 10-23 的 9 核心词，不重复计）。
+
 ## 分析结论（Muse，2026-10-23）
 
 1. **制动电阻主线成立**：核心词 braking resistor 全球 4.2K、KD 16%，长尾普遍 KD ≤21%——量不大但难度极低，适合我们这种新站靠内容吃词。
@@ -57,3 +86,4 @@ how a braking resistor works｜how do braking resistors work｜how does a brakin
 6. **HVCH / BTMS 核心词量小**：high voltage coolant heater 美国仅 20（全球 330）、PTC coolant heater 20/240、BTMS 170/KD 33%——两条线靠长尾和已排名词吃饭，写前必须先挖长尾，不许只盯核心词。
 7. **品牌词不碰**：西门子/ABB/安川/台达等 VFD 品牌词数量多但属商标词＋非我方受众，只吃通用词。
 8. **商业意图词留档**：braking resistor manufacturer（20）、supplier（20）、manufacturers（10）、price（10）——询盘意图最强，后续评估是否单建厂家/采购型页面承接。
+9. **HVCH 一线已挖完（2026-11-06 补）**：见上节 HVCH 全量；两种子词全量仅 20 变体、留词 7 条全为 20/月、问题区 0 条——HVCH 靠长尾吃量的空间很小，下一线按队列走 BTMS；车型适配词（Volvo／Land Rover）成文时不得暗示原厂背书。
