@@ -34,6 +34,7 @@
 - **T12-3《冷却液配方更改后高压加热器需重新确认项》：移交新人，不再派给 Codex。** 老站归新人专管后，T12 系列全部停派；10-28 已批大纲留仓库备查。
 - DAILY-1105 新写：11-06 当日未交，档期已过不补交；周一每日档以 DAILY_PLAN.md 11-09 新派为准。
 - T8-8 已关闭：Peter 自改版 post 10409 已发并实链核验；本表正文的 T8-8 旧状态行待订正为 DONE（周一回填时一并改）。
+- T8-11 已关闭：Muse 按 11-06 新流程 DeepL 中转回译，ZeroGPT 上半 1.9%／下半 3.5% 过线，5 处事实相反词按 Peter 2026-11-09 决定改回原文意思，按达标直发规则代发 post 10447，实链核验通过（https://evbtms.com/ntc-temperature-sensing-hvil-braking-resistor-safety-loop/）。
 - 不重派：T13、T8-10、T12-2、DAILY-1102、GSC 两项复核（11-05 日检已结案）、OVERDUE-1023-CLOSE、KW-249 33、SITE-OPT-390、GSC-CHECK。
 
 

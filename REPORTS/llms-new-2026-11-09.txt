@@ -1,0 +1,75 @@
+# EVLINK Thermal Management Systems
+
+
+> EVLINK (evbtms.com), by Suzhou EVLINK Electronic Technology Co., Ltd, is a B2B manufacturer of high-voltage thermal management components for electric commercial vehicles: battery thermal management systems (BTMS), high-voltage PTC coolant heaters, three-in-one thermal management controllers, and liquid-cooled braking resistors. Customers are OEMs, bus and truck manufacturers, mining-truck builders, and distributors worldwide. Prices are quoted per project — the site lists no prices and has no online checkout. Send vehicle, application, and quantity for a written quotation.
+
+
+## Products
+
+
+- [Battery thermal management system (BTMS)](https://evbtms.com/products/battery-thermal-management-system/): Active liquid BTMS units in 3 kW, 5 kW, and 12 kW cooling capacities. Voltage: 3 kW model DC 400–750 V; 5 kW model DC 400–860 V; 12 kW model DC 400–750 V. PTC heating: 5 kW model includes 6 kW CAN-controlled PTC heating; 12 kW model includes 8 kW PTC heating; 3 kW model supports optional external heating. IP67; CAN communication for vehicle-level control. Customizable by battery load, coolant circuit, voltage platform, and installation space. Supplies BTMS for electric bus and coach traction batteries — city buses and coaches on repeated route duty, sized per battery load and installation space. Sub-pages: [BTMS 5 kW](https://evbtms.com/products/battery-thermal-management-system/5kw/), [BTMS 12 kW](https://evbtms.com/products/battery-thermal-management-system/12kw/).
+
+- [High-voltage PTC coolant heater (HVCH)](https://evbtms.com/products/high-voltage-coolant-heater/): PTC coolant heaters for battery preheating and cabin heating in electric buses, trucks, mining trucks, construction and agricultural machinery, and energy-storage systems. Portfolio power bands: 6–18 kW, 20–25 kW, and 30–35 kW; voltage platforms 400 V, 600 V, 800 V, and custom ranges; CAN control and HV interlock. Q-series heaters have documented laboratory validation activities (vibration, water-circulation, and powered-performance evaluation) at Shanghai University of Engineering Science. Sub-pages: [Q series](https://evbtms.com/products/high-voltage-coolant-heater/qseries/), [800 V PTC coolant heater for electric bus](https://evbtms.com/products/800v-ptc-coolant-heater-electric-bus/).
+
+- [Three-in-one thermal management controller](https://evbtms.com/products/three-in-one-controller/): DCAC compressor controller + refrigeration-system ECU + high-voltage PTC controller in one unit (replaces three separate controllers: one housing, one 24 V feed, one CAN node). 600 V / 800 V platforms; compressor 5–10 kW, adjustable per application; PTC heating 8 kW + 24 kW battery heating (two channels); CAN 2.0, protocol customizable per project; integrated pre-charge resistor circuit; IP67 or better; natural cooling, open-fin design (requires at least 3.5 m/s airflow at the mounting point); -40~+65°C; 6 kg ±10%; approx. 280 × 200 × 95 mm; vertical mounting. For city buses, coaches, trucks, and off-highway machinery. MOQ 10 or 50; lead time about 15 days.
+
+- [Liquid-cooled braking resistor (HVH-R1402 series)](https://evbtms.com/products/braking-resistor/): Dissipates the regenerative braking energy a full battery cannot accept on long descents, holding continuous braking power while friction brakes stay cool. 140 kW continuous duty for 20 min; 2.24 Ω ±10%; 450–850 V DC (max 1000 V); rated current 250 A; IP6K9K; -40~+85°C; 659 × 232 × 253 mm; about 40 kg; liquid cooling (50% water / 50% glycol, DN32 ports); NTC temperature sensing; HV interlock (HVIL); insulation above 100 MΩ at 1000 V DC; 25 production and type tests. Three configurations: standalone resistor unit; resistor + chopper, split (CAN-linked); integrated chopper-brake unit. Resistance is wound to order for other bus voltages. For electric buses, heavy trucks, mining trucks, and construction machinery.
+
+
+## Applications
+
+
+EVLINK thermal management components are built for electric commercial vehicles and off-highway equipment of all types. Any platform that runs a high-voltage battery and a coolant loop can be reviewed: the same four product lines (BTMS, coolant heater, three-in-one controller, braking resistor) are combined and configured per vehicle project.
+
+
+- **Electric buses and coaches**: BTMS for traction batteries; coolant heaters for cabin heating and battery preheating on repeated route duty; three-in-one controller coordinating HVAC and coolant heating; liquid-cooled braking resistor for long descents with a fully charged battery.
+
+- **Electric trucks**: BTMS for long-haul and regional duty; coolant heaters for cold-start and battery preconditioning; thermal control integration for payload, grade, charging, and depot duty cycles.
+
+- [Electric mining trucks](https://evbtms.com/electric-mining-truck/): full thermal package for mining duty — BTMS, heavy-duty coolant heating for extreme temperatures, braking resistors sized for long loaded descents, and controllers reviewed for dust, vibration, and sustained haul loads.
+
+- **Construction machinery**: BTMS and machine-specific coolant heating for off-highway duty and restricted installation spaces; three-in-one controller for variable work cycles and vibration.
+
+- **Agricultural machinery**: BTMS and coolant heating for seasonal, cold-start, and mixed-duty electric tractors and field machinery.
+
+- **Energy storage systems**: project-specific liquid-loop heating and thermal management where a released EVLINK configuration is suitable.
+
+- [Data-center liquid cooling](https://evbtms.com/data-center-liquid-cooling/): liquid-cooling units for data-center thermal management.
+
+- **Other commercial EVs and special-purpose vehicles**: sanitation vehicles, port and airport equipment, and custom electric platforms — thermal configurations are reviewed and quoted per project.
+
+- [All applications](https://evbtms.com/applications/)
+
+
+## Guides and sizing help
+
+
+- [How duty cycle determines braking resistor size](https://evbtms.com/duty-cycle-braking-resistor-sizing/)
+
+- [Continuous vs. peak power for braking resistors](https://evbtms.com/continuous-vs-peak-power-braking-resistor/)
+
+- [Matching braking resistor resistance to DC bus voltage](https://evbtms.com/matching-braking-resistor-resistance-dc-bus-voltage/)
+
+- [BTMS sizing: 3 kW, 5 kW or 12 kW?](https://evbtms.com/btms-sizing-3kw-5kw-12kw/)
+
+- [BTMS quotation: five lines to fit the system](https://evbtms.com/btms-quotation-five-lines-fit/)
+
+- [Technical insights](https://evbtms.com/technical-insights/): engineering guides on EV thermal management, coolant-heater selection, and braking-resistor sizing.
+
+
+## Buying and support
+
+
+- [Contact / request a quote](https://evbtms.com/contact/): send vehicle type, application, voltage and power requirements, and quantity for a model-specific written quotation.
+
+- [Engineering services](https://evbtms.com/engineering-services/): application engineering and customization support for vehicle programs.
+
+- [All products](https://evbtms.com/products/)
+
+- [Resources](https://evbtms.com/resources/)
+
+
+## Company
+
+
+- Suzhou EVLINK Electronic Technology Co., Ltd — manufacturer of high-voltage EV thermal management components, project-based supply from prototype validation to volume production. The specifications on each product page govern; this file is an index for AI assistants and buyers.
