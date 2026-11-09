@@ -76,6 +76,41 @@ how a braking resistor works｜how do braking resistors work｜how does a brakin
 5. **节点与额度**：节点 20 起查（API 当日 0/5000→52/5000，余量充足），关键词概览两次报错后按规矩换节点 19→18→17 完成，最终节点 17；未改任何设置。
 6. **累计**：查出量级的词由 169 项增至 174 项（HVCH 新增 5 条车型适配长尾；2 条种子词已计入 10-23 的 9 核心词，不重复计）。
 
+### PTC 补充：high voltage PTC heater 一线（魔法工具，美国库，2026-11-09 Muse 拉取，为 11-10 PTC 每日一篇备选题）
+
+总量口径：新种子词「high voltage PTC heater」全部变体 76 个、总搜索量 10,560，平均 KD 15%；「PTC heater electric vehicle」全部变体 14 个、总搜索量 40；「electric bus coolant heater」美国库无数据。种子词 1「high voltage coolant heater」（17 变体/总量 150）与种子词 2「PTC coolant heater」（3 变体/总量 20）本次复核与 11-06 一致，其中 7 条 EV／巴士／出售长尾本次补记为留词（11-06 未收）。问题区：5 个种子词均无独立问题清单。全球月量／CPC／趋势栏记“—（未提供）”系本次未逐条补查，非遗漏。
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| high voltage ptc heater | 美国/英语 | 50 | —（页面未提供） | 4% | —（未提供） | —（未提供） | 商业 | 2026-11-09 | Muse |
+| ptc heater automotive | 美国/英语 | 50 | —（页面未提供） | 8% | —（未提供） | —（未提供） | 信息+商业 | 2026-11-09 | Muse |
+| ptc heater manufacturer | 美国/英语 | 40 | —（页面未提供） | 11% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| high voltage heater | 美国/英语 | 40 | —（页面未提供） | 7% | —（未提供） | —（未提供） | 信息+商业 | 2026-11-09 | Muse |
+| ptc heater for ev market | 美国/英语 | 40 | —（页面未提供） | 2% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| ptc heater | 美国/英语 | 1600 | —（页面未提供） | 27% | —（未提供） | —（未提供） | 信息+商业 | 2026-11-09 | Muse |
+| ptc heaters | 美国/英语 | 480 | —（页面未提供） | 15% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| what is a ptc heater | 美国/英语 | 260 | —（页面未提供） | 13% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| what is ptc heater | 美国/英语 | 170 | —（页面未提供） | 13% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| what are ptc heaters | 美国/英语 | 110 | —（页面未提供） | 10% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| what is ptc heating | 美国/英语 | 90 | —（页面未提供） | 4% | —（未提供） | —（未提供） | 信息 | 2026-11-09 | Muse |
+| high voltage coolant heater for electric vehicles | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| hvch high voltage coolant heater | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage coolant heater for ev | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage coolant heater electric vehicle | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage coolant heater for electric bus | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage coolant heater for electric buses | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage coolant heater for sale | 美国/英语 | 10 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| electric vehicle cabin ptc heater | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| ptc heater electric vehicle | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| custom high voltage ptc heater | 美国/英语 | 20 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage ptc heater supplier | 美国/英语 | 10 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage ptc heater manufacturer | 美国/英语 | 10 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+| high voltage ptc heater for ev platforms | 美国/英语 | 10 | —（页面未提供） | 不可用 | —（未提供） | —（未提供） | 不可用 | 2026-11-09 | Muse |
+
+KD 30–49 中等备选（另列，不计入留词）：ceramic ptc heater（260、KD 31%、信息+商业）、ptc space heater（210、KD 39%、信息）、ptc heating element heater（40、KD 31%、信息+商业）。无数据：electric bus coolant heater（美国库未找到任何数据）。
+
+PTC 补充结论：留词新增 24 条（11 条 KD≤29＋13 条 KD 不可用有量），累计查出量级词 286→**310 项**。通用大词（ptc heater 1600、ptc heaters 480、what is a ptc heater 260 等）偏向家用／风暖，与 EV 冷却液相关性弱，不当主词，只作流量锚或正文词。明日（11-10）首选：high voltage ptc heater（50／月、KD 4%、商业意图）做选型指南——SERP 首页只有元器件与空气加热器产品页，缺冷却液选型指南；核心词 high voltage coolant heater（20／月）写进同一篇当重点词，后天单开一篇；what is a ptc heater（260／月、KD 13%）作流量锚排后面。
+
 ## BTMS 电池热管理关键词意见全量（魔法工具，美国库，2026-11-09 Muse 拉取）
 
 总量口径：种子词 1「battery thermal management system」全部变体 242 个、总搜索量 6,970，平均 KD 19%；种子词 2「battery cooling system」全部变体 514 个、总搜索量 7,240，平均 KD 17%；两表合计 150 条次、去重后 112 条、留词美国月量合计（去重后）8,340／月。问题区：种子词 1 共 6 问、总搜索量 1,430，平均 KD 10%；种子词 2 共 14 问、总搜索量 480，平均 KD 8%。全球月量栏除两枚种子词本词外均记“—（页面未提供）”：魔法工具美国库与批量分析均不提供全球月量列，逐条查单个概览会耗尽节点额度，未编造数字。意图栏同理记“不可用”，系 SEMrush 未提供，非遗漏。趋势为 12 个月迷你趋势图的形态判读。合计复核：种子词 1 留词合计 6,490 与浏览器回报一致；种子词 2 留词合计浏览器回报为 6,250，逐项加总复核应为 5,790（回报加总有误），本表与去重合计均以逐项值为准。
@@ -323,3 +358,4 @@ how a braking resistor works｜how do braking resistors work｜how does a brakin
 8. **商业意图词留档**：braking resistor manufacturer（20）、supplier（20）、manufacturers（10）、price（10）——询盘意图最强，后续评估是否单建厂家/采购型页面承接。
 9. **HVCH 一线已挖完（2026-11-06 补）**：见上节 HVCH 全量；两种子词全量仅 20 变体、留词 7 条全为 20/月、问题区 0 条——HVCH 靠长尾吃量的空间很小，下一线按队列走 BTMS；车型适配词（Volvo／Land Rover）成文时不得暗示原厂背书。
 10. **BTMS 一线已挖完（2026-11-09 补）**：见 BTMS 全量一节；两种子词全量 756 变体、去重留词 112 条、美国月量合计（去重后）8,340／月、问题区有量词去重后 10 条；累计查出量级词 175→286 项；下一线按队列走三合一控制器。
+11. **PTC 补充一线已挖完（2026-11-09 补）**：见 HVCH 节 PTC 补充；high voltage PTC heater 种子组 76 变体、总量 10,560，留词新增 24 条（11 条 KD≤29＋13 条 KD 不可用有量），累计 286→310 项；明日首选 high voltage ptc heater（50／月、KD 4%、商业意图）做选型指南，核心词 high voltage coolant heater（20／月）后天单开一篇。
