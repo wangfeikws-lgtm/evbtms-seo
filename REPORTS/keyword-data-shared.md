@@ -318,6 +318,145 @@ PTC 补充结论：留词新增 24 条（11 条 KD≤29＋13 条 KD 不可用有
 8. **累计**：查出量级的词由 175 项增至 **286 项**（BTMS 新增 111 条：主表去重 110 条＋问题区独有 1 条；两枚种子词已计入 10-23 的 9 核心词，不重复计）。
 9. **是否需新增文章：待定**——留词已够开选题，但主词组合与承接页（新站 BTMS 产品页）待 SERP 验证后定；下一线按队列走三合一控制器。
 
+## 三合一控制器关键词意见全量（魔法工具，美国库，2026-11-10 Muse 拉取）
+
+总量口径：两轮共 9 枚种子词。第一轮 4 枚精确产品词全部无数据（three in one thermal management controller、EV thermal management controller、integrated thermal management controller、3-in-1 thermal management controller；魔法工具“未找到任何数据”，问题区 0 条，关键词概览双重确认无数据）。第二轮 5 枚：compressor controller electric bus、PTC heater controller CAN、thermal management controller electric bus 均无数据；thermal management controller 全部变体 60 条、总搜索量 140，留词 7 条；EV thermal controller 全部变体 4 条、总搜索量 20，留词 2 条。留词共 9 条、美国月量合计 160／月，全部 KD 不可用（工具未提供），CPC 均为 $0.00。问题区：有量词 0 条（唯一问题词 a hybrid electric vehicle thermal management system nonlinear controller design 量为 0，不收）。KD 30–49 中等备选 0 条。全球月量／意图栏记“—（页面未提供）”系工具本视图未显示，非遗漏；趋势为 12 个月迷你趋势图的形态判读。
+
+### 留词（9 条：美国量≥10）
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| thermal management for control panel | 美国/英语 | 50 | —（页面未提供） | 不可用 | $0.00 | 前期平稳、后期持续上升 | 不可用 | 2026-11-10 | Muse |
+| electronic control unit thermal management | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 中段单次冲高后回落至平稳 | 不可用 | 2026-11-10 | Muse |
+| motor control center bus bar ratings thermal management | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 中段单次冲高后回落至平稳 | 不可用 | 2026-11-10 | Muse |
+| thermal management controller | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 多次波动 | 不可用 | 2026-11-10 | Muse |
+| control unit thermal management | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 开局较高后波动下行 | 不可用 | 2026-11-10 | Muse |
+| thermal management control for electronics enclosures | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 长期平稳、末端急升 | 不可用 | 2026-11-10 | Muse |
+| thermal management valve control | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 多峰波动 | 不可用 | 2026-11-10 | Muse |
+| ev thermal control | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 开局较高后急降、随后长期平稳 | 不可用 | 2026-11-10 | Muse |
+| heat pump technology for ev battery thermal control | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 上升后小幅波动、多峰上升 | 不可用 | 2026-11-10 | Muse |
+
+### 无数据种子词（已查行，30 天内不重查）
+
+| 关键词 | 美国月量 | 查询日期 | 查询人 |
+|---|---|---|---|
+| three in one thermal management controller | 无数据 | 2026-11-10 | Muse |
+| EV thermal management controller | 无数据 | 2026-11-10 | Muse |
+| integrated thermal management controller | 无数据 | 2026-11-10 | Muse |
+| 3-in-1 thermal management controller | 无数据 | 2026-11-10 | Muse |
+| compressor controller electric bus | 无数据 | 2026-11-10 | Muse |
+| PTC heater controller CAN | 无数据 | 2026-11-10 | Muse |
+| thermal management controller electric bus | 无数据 | 2026-11-10 | Muse |
+
+### 0 量已核对行（摘记，不计入有量总数）
+
+- battery thermal management control／battery thermal management control system（含拼写变体 batery thermal management control）均为 0；octovalve thermal management control for electric vehicle 为 0；ev thermal control cold plate oem、turnkey solutions for ev battery thermal control 均为 0。
+- 0 量行中见到的噪音类别（本身已因 0 量不保留，仅作记录）：数据中心类（ai driven controls data center thermal management roi 及其变体 7 条、data center thermal management control、intelligent lighting controls for data center thermal management、johnson controls data center thermal management）；品牌词（Intel 系列 thermal management controller 相关 broadwell／ivy bridge／r processor／sunrise point 等 8 条、johnson controls thermal management、tyco thermal controls pentair thermal management、meggitt control systems thermal management）；车型品牌词（bmw tme thermal management electronics control unit、kia ev9 battery thermal management ai control module supplier）；消费／DIY 类（alienware thermal controller not in device manager、digital storm thermal management control board 及其 software 变体）；招聘类（careers quality control manager thermal spray suwanee）；市场报告类（fusion energy／semiconductor／space industry 的 thermal management and contamination control market size 2030 相关 4 条）。
+
+### 三合一结论（Muse，2026-11-10）
+
+1. **精确产品词全线无量**：三合一产品本名及 ★ 词的 7 枚精确表述在美国库均为“未找到任何数据”，印证产品总档“英文尚无成熟品类词”的判断；裸词 three in one controller 未作种子词（SERP 为电驱义，选题避开）。三合一页继续靠品牌词／GSC 已曝光词＋博客承接工程流量，不靠品类词。
+2. **留词 9 条多为泛工业语境**：thermal management for control panel（50）、motor control center bus bar ratings thermal management（20）、thermal management control for electronics enclosures（10）、thermal management valve control（10）等属控制柜／电机控制中心／机柜／阀控语境，与 EV 热管理距离远，只作记录、不当主词。仅 thermal management controller（20）、ev thermal control（10）、heat pump technology for ev battery thermal control（10）与 EV 相关，其中 ev thermal control 竞争程度 0.33、其余均为 0.00。
+3. **无主词候选**：9 条留词量级 10–50／月且 KD 均不可用，无一条可直接作三合一文章主词；如要选题，须先过 SERP 验证再定，不单独为 10–20 量词开篇。
+4. **问题区 0 条**：两轮问题列表均无有量词，暂无问题词可作 FAQ 素材。
+5. **节点与额度**：节点 19／4／1 打开时均报“超出同一时间设备数量限制”，节点 1 亦未能进入；节点 8 完成第一轮前三词，第四词报错后按规矩换节点 9 完成；第二轮全程节点 9，未报错、未限流。API 今日配额 0% → 7%，余量充足。节点 9 页内“更新指标”显示 5,000／5,000，下次如该节点异常先换节点。另：浏览器实测运行 08:48–09:05（登录准备自 08:48 起，查询在 09:00 分时前开始，09:05 结束；未与 Codex 10:00–10:30 分时冲突）。
+6. **累计**：查出量级的词由 310 项增至 **319 项**（三合一新增 9 条；7 枚无数据种子词记为已查行，不计入有量总数）；下一线按队列走通用线。
+
+## 通用线关键词意见全量（魔法工具，美国库，2026-11-11 Muse 拉取）
+
+总量口径：种子词 1「electric bus thermal management」全部变体 2 条、总搜索量 0，问题区 0 条，留词 0 条；种子词 2「electric vehicle thermal management」全部变体 215 条、总搜索量 6,550，平均 KD 21%，问题区 14 条、总搜索量 630，平均 KD 24%。浏览器回报原数：KD≤29 组 43 条（3,270）、KD 30–49 组 10 条（900）、KD 不可用组 23 条（390）；逐项与共享词表全表去重后，43 条中有 25 条、10 条中有 5 条、23 条中有 8 条已于 2026-11-09 BTMS 一线或 10-23 核心词表查过（数值与本次一致），不重复计；另 6 条大词（590／260／260／210／210／170，合计 1,700）亦为 11-09 已有；本次精确新增 38 条，其中 5 条按 11-09 剔除口径新剔除（市场报告／仿真软件／综述概览类），新增留词 **33 条**（KD≤29 组 18 条＋KD 30–49 组 5 条＋KD 不可用组 10 条）、美国月量合计 **1,580／月**。全球月量栏除种子词本词外均记“—（页面未提供）”系工具本视图未显示，非遗漏；意图栏 I＝信息意图、C＝商业意图（魔法工具原值，(c) 组工具未提供记“不可用”）；趋势为 12 个月迷你趋势图的形态判读。合计复核：(a) 3,270＋(b) 900＋(c) 390＋已查大词 1,700＋噪声 290＝6,550，与种子词 2 总搜索量一致；有量行 89 条＝新增留词 33＋已查重合 38＋已查大词 6＋噪声 7＋新剔除 5，账平。
+
+### 种子词 1：electric bus thermal management（0 量，已查行）
+
+种子词本身无数据；全部变体 2 条均为 0 量：electric bus battery thermal management system market、maintenance spare parts plan electric bus fleet battery thermal management。问题区 0 条。词库通用线 ★ 词 electric bus thermal management 本词美国库无量，不当主词。
+
+### 种子词 2 留词（a）KD≤29（新增 18 条，美国月量合计 1,180／月）
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| air conditioning in electric cars | 美国/英语 | 140 | —（页面未提供） | 17% | $0.16 | 先降后升、末端高位 | I | 2026-11-11 | Muse |
+| automotive thermal management | 美国/英语 | 140 | —（页面未提供） | 19% | $0.00 | 波动、近末端一峰后略降 | I | 2026-11-11 | Muse |
+| how does a heater work in an electric car | 美国/英语 | 110 | —（页面未提供） | 27% | $0.19 | 中段单尖峰后回落 | I | 2026-11-11 | Muse |
+| how does the heater work in an electric car | 美国/英语 | 110 | —（页面未提供） | 26% | $0.19 | 低位平稳、中段小幅隆起 | I | 2026-11-11 | Muse |
+| electric vehicle heat pump | 美国/英语 | 90 | —（页面未提供） | 26% | $0.00 | 基本平稳、低位微波 | I | 2026-11-11 | Muse |
+| electric motor thermal management | 美国/英语 | 70 | —（页面未提供） | 11% | $0.00 | 基本平稳、微波 | C | 2026-11-11 | Muse |
+| air conditioning in electric vehicles | 美国/英语 | 50 | —（页面未提供） | 27% | $0.00 | 波动、近末端一尖峰 | I | 2026-11-11 | Muse |
+| cabin thermal management | 美国/英语 | 50 | —（页面未提供） | 4% | $0.00 | 开局高位后急降并低位平稳 | I | 2026-11-11 | Muse |
+| how does heating work in an electric car | 美国/英语 | 50 | —（页面未提供） | 24% | $0.19 | 中段一峰后波动回落 | I | 2026-11-11 | Muse |
+| how does the heating work in an electric car | 美国/英语 | 50 | —（页面未提供） | 22% | $0.19 | 中段一峰后波动回落 | I | 2026-11-11 | Muse |
+| thermal management automotive | 美国/英语 | 50 | —（页面未提供） | 20% | $0.00 | 中段一峰后回落至低位平稳 | I | 2026-11-11 | Muse |
+| heat management in compact electric motors | 美国/英语 | 40 | —（页面未提供） | 0% | $0.00 | 平稳中近末端单尖峰 | I | 2026-11-11 | Muse |
+| heating electric cars | 美国/英语 | 40 | —（页面未提供） | 23% | $0.37 | 基本平稳、微波 | I | 2026-11-11 | Muse |
+| how do electric cars heat the cabin | 美国/英语 | 40 | —（页面未提供） | 25% | $0.00 | 低位平稳、中段一小峰 | I | 2026-11-11 | Muse |
+| integrated thermal management system | 美国/英语 | 40 | —（页面未提供） | 13% | $0.00 | 平稳小幅波动 | I | 2026-11-11 | Muse |
+| thermal imaging system for ev batteries | 美国/英语 | 40 | —（页面未提供） | 7% | $0.00 | 平稳小幅波动 | I+C | 2026-11-11 | Muse |
+| thermal management components | 美国/英语 | 40 | —（页面未提供） | 18% | $0.00 | 中段小峰后回落 | I | 2026-11-11 | Muse |
+| electric vehicles with heat pump | 美国/英语 | 30 | —（页面未提供） | 21% | $2.37 | 平稳小幅波动 | I | 2026-11-11 | Muse |
+
+### 种子词 2 留词（b）KD 30–49 中等备选（新增 5 条，美国月量合计 240／月）
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| electric cars heating | 美国/英语 | 50 | —（页面未提供） | 36% | $0.33 | 波动剧烈、双尖峰后回落 | I | 2026-11-11 | Muse |
+| how do electric cars heaters work | 美国/英语 | 50 | —（页面未提供） | 34% | $0.19 | 单峰：中段高峰后回落 | I | 2026-11-11 | Muse |
+| how does electric cars heating work | 美国/英语 | 50 | —（页面未提供） | 37% | $0.19 | 单峰：中段尖峰后回落 | I | 2026-11-11 | Muse |
+| how does heat work in an electric car | 美国/英语 | 50 | —（页面未提供） | 33% | $0.19 | 单峰：中段尖峰后回落 | I | 2026-11-11 | Muse |
+| electric cars heat | 美国/英语 | 40 | —（页面未提供） | 39% | $0.39 | 波动剧烈、多尖峰 | I | 2026-11-11 | Muse |
+
+### 种子词 2 留词（c）KD 不可用、待复核（新增 10 条，美国月量合计 160／月）
+
+| 关键词 | 国家/语言 | 美国月量 | 全球月量 | KD | CPC | 趋势（12 个月） | 意图 | 查询日期 | 查询人 |
+|---|---|---|---|---|---|---|---|---|---|
+| electric vehicle battery thermal management | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 基本平稳（平线） | 不可用 | 2026-11-11 | Muse |
+| electric vehicle thermal management system | 美国/英语 | 20 | —（页面未提供） | 不可用 | $3.45 | 平稳小幅波动 | 不可用 | 2026-11-11 | Muse |
+| thermal management of electric vehicle | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 中段尖峰后回落 | 不可用 | 2026-11-11 | Muse |
+| thermal management of lithium ion batteries for electric vehicles | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 波动、小幅起伏 | 不可用 | 2026-11-11 | Muse |
+| thermal management of lithium-ion batteries for electric vehicles | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 开局高位急降后高位平稳 | 不可用 | 2026-11-11 | Muse |
+| top rated thermal management solutions for electric vehicle batteries | 美国/英语 | 20 | —（页面未提供） | 不可用 | $0.00 | 低位平稳、末端上升 | 不可用 | 2026-11-11 | Muse |
+| battery thermal management for electric vehicles | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 先降后升至高位平稳 | 不可用 | 2026-11-11 | Muse |
+| best thermal management solutions battery cooling electric vehicles | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 前段单尖峰后低位平稳 | 不可用 | 2026-11-11 | Muse |
+| thermal management materials for electric vehicles | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 急降后高位平稳 | 不可用 | 2026-11-11 | Muse |
+| thermal management system electric vehicles | 美国/英语 | 10 | —（页面未提供） | 不可用 | $0.00 | 先降后升至高位平稳 | 不可用 | 2026-11-11 | Muse |
+
+### 种子词 2 问题区（14 问，留 10 条有量词；其余 4 条 0 量不收）
+
+| 问题词 | 美国月量 | KD | 查询日期 | 查询人 |
+|---|---|---|---|---|
+| how does a heater work in an electric car | 110 | 27% | 2026-11-11 | Muse |
+| how does the heater work in an electric car | 110 | 26% | 2026-11-11 | Muse |
+| what is thermal management | 70 | 19% | 2026-11-11 | Muse |
+| how do electric cars heaters work | 50 | 34% | 2026-11-11 | Muse |
+| how does electric cars heating work | 50 | 37% | 2026-11-11 | Muse |
+| how does heat work in an electric car | 50 | 33% | 2026-11-11 | Muse |
+| how does heating work in an electric car | 50 | 24% | 2026-11-11 | Muse |
+| how does the heating work in an electric car | 50 | 22% | 2026-11-11 | Muse |
+| what types of cooling systems do evs and hevs have | 50 | 2% | 2026-11-11 | Muse |
+| how do electric cars heat the cabin | 40 | 25% | 2026-11-11 | Muse |
+
+问题区 10 条均为全部关键词列表的子集，其中 8 条为本次新增（均已在上表 (a)(b) 组内，不重复计），2 条（what is thermal management、what types of cooling systems do evs and hevs have）为 11-09 BTMS 问题区已有。0 量问题词 4 条不收：a hybrid electric vehicle thermal management system nonlinear controller design（三合一 11-10 已记 0 量）、a review on battery thermal management in electric vehicle application、what is thermal management for electric vehicles、what is thermal management system in electric vehicles。
+
+### 去重说明（与 11-09 BTMS／10-23 核心表重合，不重复计）
+
+- (a) 组重合 25 条：thermal management electric vehicles（170／29%）、thermal management for electric vehicles（170／29%）、battery thermal management systems（140／29%）、ev battery cooling（140／18%）、thermal management in electric vehicles（140／29%）、battery cooling system（110／14%）、electric vehicle cooling system（110／19%）、ev battery thermal management（110／25%）、ev cooling system（90／19%）、thermal management system for electric vehicles（90／28%）、automotive thermal management system（70／27%）、battery thermal（70／29%）、ev battery cooling system（70／10%）、ev battery thermal management system（70／24%）、thermal management system in electric vehicles（70／29%）、what is thermal management（70／19%）、best thermal management systems for high-performance evs（50／28%）、thermal management of electric vehicle battery systems（50／27%）、thermal management of electric vehicles（50／25%）、what types of cooling systems do evs and hevs have（50／2%）、battery cooling system for electric vehicle（40／19%）、battery thermal management system for electric vehicles（40／21%）、cooling battery（40／14%）、electric vehicle battery cooling（40／18%）、li ion battery thermal management（40／21%）——数值与本次回报一致。
+- (b) 组重合 5 条：thermal management systems（210／31%）、battery thermal management system（170／33%）、ev thermal（140／31%）、ev thermal management（110／31%）、thermal management in ev（30／30%）。
+- (c) 组重合 8 条：其中 4 条为 11-09 已留词（thermal barriers for battery management 40；battery thermal management systems of electric vehicles 20；electric vehicle battery thermal management system with thermoelectric cooling 20；electric vehicle battery thermal management system 10）；4 条为 11-09 已剔除（review of battery thermal management systems in electric vehicles 20、review on battery thermal management system for electric vehicles 20、thermal management of electric vehicle battery systems pdf 20、electric vehicle battery thermal management system market 10），本次仍按剔除处理，不转入留词。
+- 另 6 条大词重现、数值与共享表完全一致：battery thermal management（590／19%）、battery pack thermal management（260／7%）、thermal management system（260／35%）、battery cooling（210／5%）、ev thermal management system（210／30%）、electric vehicle thermal management（170／29%）。
+
+### 通用剔除记录（有量但不收）
+
+- 浏览器噪声 7 条：品牌／车型 3 条——nissan electric suv battery performance in cold temperatures（70／KD 2%）、mg zs ev battery thermal management liquid cooling（40／21%，11-09 已剔除）、nissan leaf heat pump option（40／9%）；新闻类 2 条——automotive thermal management news（40／17%）、electric vehicle thermal management news（10／KD 不可用）；跑题 2 条——introduction to electric vehicles（50／27%，通用电动车介绍、非热管理）、ship battery cooling（40／9%，船用，11-09 已剔除）。
+- (c) 组新剔除 5 条（与 11-09 BTMS 剔除口径一致）：市场报告类 3 条——electric vehicle thermal management system market（20）、us electric vehicle thermal management system market（10）、electric vehicle thermal management valve market（10）；仿真软件类 1 条——electric vehicle thermal management matlab（20）；综述／概览类 1 条——electric vehicle technology overview battery thermal management（10）。
+- 0 量行：种子词 2 共 126 条 0 量（含 electric vehicle charger thermal management 充电桩冷却类，0 量）；种子词 1 两条均为 0 量。0 量不收。本次两种子词列表中未出现数据中心液冷、Electric Compressor、招聘类词。
+
+### 通用结论（Muse，2026-11-11）
+
+1. **★ 种子词本词无量**：词库通用线 ★ 词 electric bus thermal management 美国库无数据（2 变体全为 0 量），不能作通用线主词；通用线靠 electric vehicle thermal management（170／月、KD 29%，11-09 已有）＋本次新增的座舱制热／空调词簇。
+2. **新增留词 33 条集中在座舱热管理**：air conditioning in electric cars（140／KD 17%）、how does a heater work in an electric car（110／KD 27%）等制热／空调问句成簇，KD 多在 20% 上下，属信息意图，宜作 FAQ／科普选题，不当产品页主词；electric vehicle heat pump（90／KD 26%）、cabin thermal management（50／KD 4%）可作热泵／座舱方向选题候选，须先过 SERP 验证。thermal imaging system for ev batteries（40／KD 7%）为热成像检测类，选题慎用。
+3. **通用线与 BTMS 高度重叠**：种子词 2 的 89 条有量行中 44 条已于 11-09 查过（含 6 条大词 1,700 量），精确新增 38 条、去噪后留 33 条；四线新增数：BTMS 111、通用 33、PTC 24、三合一 9，通用居第二，但重叠率最高。
+4. **无商业意图主词候选**：新增 33 条意图除 electric motor thermal management（C）外均为信息意图（I），无 manufacturer／supplier 类采购词；通用采购词仍靠词库未验量行（EV thermal management supplier China 等），待后续验量或 GSC 侧验证。
+5. **节点与额度**：节点 9 打开即报设备数量限制，按规矩换节点 8 完成全部查询，未再报错、未限流；订阅页打不开（404），配额未直接看到，工具栏“更新指标 0/5,000”即本次未消耗指标更新配额。查询 09:00–09:13（浏览器实测 08:47–09:15，登录准备在前、查询在 09:00 分时内），未触发 10:00 停止规则。
+6. **累计**：查出量级的词由 319 项增至 **352 项**（通用新增 33 条；种子词 1 两条 0 量行＋种子词 2 四条 0 量问题词记为已查行，不计入有量总数）；四线全挖完，挖词小结见运行记录 hidden_files/keyword-mining-2026-11-11-generic.md。
+
 ## 门禁复核补记（2026-10-26～11-03 各篇简报回写，2026-11-06 补）
 
 > 缺口原因：10-26～11-03 各轮写稿门禁查过的词只记在各篇 SERP 简报里，当时共享词表在本地找不到（T8-11 简报两次注明“待词表定位后回写”），定位到后一直没补。Peter 2026-11-06 指出内容太少后逐篇核对补回。下表 14 行均为本次新增；其中有量 1 条，无量／0 量 13 条。
@@ -359,3 +498,5 @@ PTC 补充结论：留词新增 24 条（11 条 KD≤29＋13 条 KD 不可用有
 9. **HVCH 一线已挖完（2026-11-06 补）**：见上节 HVCH 全量；两种子词全量仅 20 变体、留词 7 条全为 20/月、问题区 0 条——HVCH 靠长尾吃量的空间很小，下一线按队列走 BTMS；车型适配词（Volvo／Land Rover）成文时不得暗示原厂背书。
 10. **BTMS 一线已挖完（2026-11-09 补）**：见 BTMS 全量一节；两种子词全量 756 变体、去重留词 112 条、美国月量合计（去重后）8,340／月、问题区有量词去重后 10 条；累计查出量级词 175→286 项；下一线按队列走三合一控制器。
 11. **PTC 补充一线已挖完（2026-11-09 补）**：见 HVCH 节 PTC 补充；high voltage PTC heater 种子组 76 变体、总量 10,560，留词新增 24 条（11 条 KD≤29＋13 条 KD 不可用有量），累计 286→310 项；明日首选 high voltage ptc heater（50／月、KD 4%、商业意图）做选型指南，核心词 high voltage coolant heater（20／月）后天单开一篇。
+12. **三合一控制器一线已挖完（2026-11-10 补）**：见三合一全量一节；两轮 9 枚种子词，7 枚精确产品词（含 4 枚 ★ 词）美国库全部无数据，宽泛词 thermal management controller（60 变体／总量 140）与 EV thermal controller（4 变体／总量 20）留词 9 条、美国月量合计 160／月、全部 KD 不可用，问题区有量词 0 条；累计 310→319 项；留词多为控制柜／电机控制中心等泛工业语境，无主词候选，选题须先过 SERP 验证；下一线按队列走通用线。
+13. **通用线已挖完（2026-11-11 补）**：见通用全量一节；种子词 1 electric bus thermal management（词库 ★ 词）美国库无数据，2 变体全为 0 量；种子词 2 electric vehicle thermal management 全量 215 变体／总量 6,550，浏览器回报 76 条分组词经全表去重后精确新增 38 条、去噪后留词 33 条（KD≤29 组 18 条＋KD 30–49 组 5 条＋KD 不可用组 10 条）、美国月量合计 1,580／月；问题区有量词 10 条（8 条新增，均已在留词表内）；累计 319→**352 项**；新增集中在座舱制热／空调问句簇（air conditioning in electric cars 140、how does a heater work in an electric car 110），无商业意图主词候选；四线全挖完，挖词小结见运行记录 hidden_files/keyword-mining-2026-11-11-generic.md。
