@@ -32,7 +32,7 @@ A coolant heater can only deliver the power the loop can carry away. That is the
 
 ## Control interface: who decides when the heater runs
 
-Two of our series cover the same heating job with different control. The B series takes CAN plus an enable signal, so the vehicle controller decides when the heater runs and at what output. The E series runs on a thermostat and needs no CAN at all. Neither is better in the abstract. A vehicle with a thermal management controller already on the bus will usually want the CAN version, because the controller can coordinate the heater with the compressor, the pump and the fan. A simpler vehicle, or a retrofit, often wants the thermostat version, because there is nothing to integrate. The mistake is ordering one and discovering the vehicle expects the other. State the control the vehicle provides. If the vehicle has a CAN bus and a thermal controller, say so. If it has neither, say that too. The interface record below is the one-page version of this whole article, and it is the page we ask every buyer to fill in.
+Two of our series cover the same heating job with different control. The A and Q series take CAN plus an enable signal, so the vehicle controller decides when the heater runs and at what output. The E series runs on a thermostat and needs no CAN at all. Neither is better in the abstract. A vehicle with a thermal management controller already on the bus will usually want the CAN version, because the controller can coordinate the heater with the compressor, the pump and the fan. A simpler vehicle, or a retrofit, often wants the thermostat version, because there is nothing to integrate. The mistake is ordering one and discovering the vehicle expects the other. State the control the vehicle provides. If the vehicle has a CAN bus and a thermal controller, say so. If it has neither, say that too. The interface record below is the one-page version of this whole article, and it is the page we ask every buyer to fill in.
 
 ## One shared interface record
 
@@ -71,7 +71,7 @@ It depends on the heat load, the lowest ambient, and the target coolant temperat
 A defined flow, inlet temperature range, and glycol type and concentration. Without a flow figure the heater cannot be validated in the loop. If the flow is not fixed yet, share the planned pump and piping so we can size from a range.
 
 **Does it need CAN?**
-Not always. The B series uses CAN plus an enable signal, so the vehicle controller commands it. The E series runs on a thermostat with no CAN. Tell us what control the vehicle provides and we will match the series.
+Not always. The A and Q series use CAN plus an enable signal, so the vehicle controller commands them. The E series runs on a thermostat with no CAN. Tell us what control the vehicle provides and we will match the series.
 
 **Can one heater serve both the battery and the cabin?**
 It can, if the loop is designed for it and the heat load covers both jobs. State both jobs in the enquiry with their temperatures and flows, because a heater sized for one job will not automatically cover the other.

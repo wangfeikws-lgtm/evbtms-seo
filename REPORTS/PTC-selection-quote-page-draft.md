@@ -21,7 +21,7 @@ This page does two things: it helps you select the right high voltage coolant he
 
 **3. Coolant loop.** State the coolant type and concentration, the inlet temperature range, and the flow rate. A heater can only deliver the power the loop can carry away, so the flow figure is not optional.
 
-**4. Control interface.** The B series takes CAN plus an enable signal, so the vehicle controller commands it. The E series runs on a thermostat with no CAN. Tell us what control the vehicle provides.
+**4. Control interface.** The A and Q series take CAN plus an enable signal, so the vehicle controller commands them. The E series runs on a thermostat with no CAN. Tell us what control the vehicle provides.
 
 For the full reasoning behind each step, read the selection guide and the sizing article. For the product range, see the HVCH product page.
 
