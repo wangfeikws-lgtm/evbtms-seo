@@ -22,3 +22,11 @@
 ## 修复方案（待 Peter 定）
 
 重加 21 页 Product schema，但**不带 offers 块**（只写产品名、描述、品牌 EVLINK）。理由：11-13 那批带了 offers（Availability In Stock）却无价格，正是 GSC 11-23 抓到的缺价报错根源；站上按项目报价、无公开价，编不出价格。重加后逐页验证 live 输出＋富媒体测试。
+
+## 2026-11-24 13:22–13:28 重加实测：此路走不通（Rank Math 强制生成 offers）
+
+Peter 13:21 点选“不带 offers 重加 21 页”后实测第 1 页（HVCH，ID 2950）：按要求填产品名／描述／品牌，SKU／价格／货币／评分留空、未主动设可用性；但 Rank Math Product 表单的 Availability 下拉默认即“In Stock”，选项只有 In Stock / Sold Out / Preorder，无空白项，无法清空。保存后富媒体测试验证：Product 正确生成，但同时生成 offers 对象（type Offer、availability InStock、无 price、无 priceCurrency），Google 判 1 个严重问题“应指定 price 或 priceSpecification.price”。按任务停止条件，第 1 页已撤销（面板恢复为空、修订版仍为 497），其余 20 页未动。结论：**Rank Math 的 Product 表单无法输出不带 offers 的 Product schema**，逐页重加只会复制同一问题。
+
+后续两条路（待 Peter 定）：
+1. 改用代码片段加 Product schema：用 Code Snippets 插件（当前列表为空）或同类方式直接写 JSON-LD，不走 Rank Math 表单，可做到无 offers。但这是往生产页加自定义代码，需他批准。
+2. 先不动：产品页无 Product schema，GSC 的 HVCH 缺价报错是旧抓取数据、下次抓取自消；产品页排名未因此受损（制动电阻页仍是全站点击第 1 页）。
