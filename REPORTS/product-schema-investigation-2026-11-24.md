@@ -23,7 +23,14 @@
 
 重加 21 页 Product schema，但**不带 offers 块**（只写产品名、描述、品牌 EVLINK）。理由：11-13 那批带了 offers（Availability In Stock）却无价格，正是 GSC 11-23 抓到的缺价报错根源；站上按项目报价、无公开价，编不出价格。重加后逐页验证 live 输出＋富媒体测试。
 
-## 2026-11-24 13:22–13:28 重加实测：此路走不通（Rank Math 强制生成 offers）
+## 2026-11-24 13:46–14:08 代码片段方案已落地（21/21 核验通过）
+
+Peter 点选“改用代码片段加 Product schema”后执行：
+
+- **工具纠正**：站上**没有** Code Snippets 插件——此前查因报告写的“Code Snippets 为空”查错了对象，菜单里那个“Code Snippets”是 Blocksy/Angie 的片段工具（angie_snippet），它会误判产品名里的 System 一词为禁用函数、且部署要登录 Angie，无法运行此代码（误建的副本已移至回收站，列表恢复为空）。实际用的是本站**已安装但未启用的 WPCode Lite**（菜单也叫 Code Snippets，启用后建片段，未装任何新插件）。
+- **片段**：WPCode → “EVLINK Product Schema (no offers)”（ID 10644，Active，Frontend Only，PHP，Priority 10），一个片段按页面 ID 输出 21 页 Product JSON-LD（name＋description＋brand EVLINK＋url，无 offers／价格／SKU／评分）。产品名、描述取自各页标题与 meta 描述。代码原文见 REPORTS/product-schema-snippet-2026-11-24.php（与上线代码一致）。
+- **核验（我 curl 全量复核，2026-11-24 14:0x）**：21 页每页恰好 1 个 Product、无 offers、名字与页对应，全部 200；首页无 Product。浏览器另用富媒体测试抽查 3 页（HVCH／BTMS／制动电阻）＋首页，结果一致。
+- **Google 的一点说明**：富媒体测试给每页标 1 个严重问题“应指定 offers、review 或 aggregateRating”——即没有价格／评价／评分，Product 拿不到富媒体展示资格。这是无价格设计的固有代价，不是缺价报错（块里完全没有 offers，也就没有 offers 缺价的问题）。结构化数据本身在位，Ahrefs 的“21 页缺 Product schema”项已闭合；富媒体卡片要等有公开价或评价才可能出。
 
 Peter 13:21 点选“不带 offers 重加 21 页”后实测第 1 页（HVCH，ID 2950）：按要求填产品名／描述／品牌，SKU／价格／货币／评分留空、未主动设可用性；但 Rank Math Product 表单的 Availability 下拉默认即“In Stock”，选项只有 In Stock / Sold Out / Preorder，无空白项，无法清空。保存后富媒体测试验证：Product 正确生成，但同时生成 offers 对象（type Offer、availability InStock、无 price、无 priceCurrency），Google 判 1 个严重问题“应指定 price 或 priceSpecification.price”。按任务停止条件，第 1 页已撤销（面板恢复为空、修订版仍为 497），其余 20 页未动。结论：**Rank Math 的 Product 表单无法输出不带 offers 的 Product schema**，逐页重加只会复制同一问题。
 
