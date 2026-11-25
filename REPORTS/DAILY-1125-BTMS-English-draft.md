@@ -6,7 +6,7 @@
 - Proposed meta description: One battery pack runs hotter even when total coolant flow is on target. See what an electric bus team should measure before changing the BTMS.
 - Proposed slug: electric-bus-btms-battery-pack-flow-balance
 - Search topic: electric bus battery thermal management. The specific diagnostic question is a candidate angle. US search volume for the long-tail wording has not been confirmed.
-- Publication status: English working draft. DeepL return translation and ZeroGPT scores pending. Featured image pending.
+- Publication status: English working draft. English-to-Spanish pass returned all five segments. Spanish-to-British-English returned four segments; the FAQ segment stayed on the previous result after retry. Whole-text ZeroGPT scores are pending.
 
 ---
 
@@ -46,5 +46,6 @@ Use the requirement for each pack. Identical packs with the same duty may share 
 
 - The existing coolant-flow guide covers estimating and verifying loop flow. This draft focuses on a hot-pack diagnostic sequence and uses no model-specific limits or numerical temperature thresholds.
 - Existing coverage checked: [air removal](https://evbtms.com/btms-coolant-loop-air-removal/), [rating conditions](https://evbtms.com/btms-cooling-capacity-rating-conditions/), [battery heat-load sizing](https://evbtms.com/battery-heat-load-btms-sizing-commercial-ev/).
-- Featured image brief: EVLINK’s real BTMS unit beside a bus in a service bay with battery-cooling commissioning equipment. Show the real enclosure unchanged. Create a new scene and export WebP.
+- Featured image brief: EVLINK’s real BTMS unit beside a bus in a service bay with battery-cooling commissioning equipment. Show the real enclosure unchanged. [Prepared WebP](DAILY-1125-assets/electric-bus-btms-commissioning.webp). Alt: EVLINK BTMS unit in an illustrated electric bus service bay. Edited application illustration based on product media 6087.
 - External reference: Birgül and Meydan, Anadolu Isuzu, SAE Technical Paper 2025-01-5017.
+- Translation notes: DeepL rendered the example climb as a generic increase and changed repeating the original operating condition into simulating it. Both wording shifts need resolution before publication.

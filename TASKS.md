@@ -4,7 +4,7 @@
 
 - **GSC API 对接 — REVIEW**。Search Analytics 只读取数已验证。采用 A，由 Codex 交快照，Muse 从仓库读取。首份快照见 [GSC API snapshot](hidden_files/gsc-snapshots/GSC-API-snapshot-2026-11-25.json)。[接入说明](REPORTS/GSC-API-handoff-2026-11-25.md)。索引覆盖总数和每日调度仍待落实。
 - **IMG-1113 — REVIEW**。旧附件已清理，五张正式 JPG 及缩略图、九个引用页实测通过。[核验报告](REPORTS/IMG-1113-verification-2026-11-25.md)。
-- **DAILY-1125 — DOING**。Codex 英文工作稿及 SEO 字段已交。Semrush 连接器没有查询额度，精确词搜索量待核。DeepL 回译、ZeroGPT 两半实测和独立 WebP 特色图尚未完成，未发布。[英文工作稿](REPORTS/DAILY-1125-BTMS-English-draft.md)。
+- **DAILY-1125 — DOING**。Codex 英文工作稿及 SEO 字段已交。Semrush 连接器没有查询额度，精确词搜索量待核。独立 WebP 已入仓。DeepL 英→西 5/5，西→英式英语 4/5，FAQ 原样重试与拆段均未返回新译文，发现两处语义偏移待核。未取得全文两半 ZeroGPT 分数，未发布。[英文工作稿](REPORTS/DAILY-1125-BTMS-English-draft.md)。
 - **LinkedIn 周数据、三篇发布者归属 — 暂缓**。按 Peter 在本对话的指示暂缓。
 
 
