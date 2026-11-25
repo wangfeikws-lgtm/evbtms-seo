@@ -1,0 +1,397 @@
+{
+  "source": "Google Search Console Search Analytics API",
+  "property": "https://evbtms.com/",
+  "periods": [
+    {
+      "endDate": "2026-11-22",
+      "startDate": "2026-11-16",
+      "totals": {
+        "clicks": 3,
+        "impressions": 688,
+        "ctr": 0.00436046511627907,
+        "position": 24.627906976744185
+      },
+      "topPages": [
+        {
+          "keys": [
+            "https://evbtms.com/case-studies/"
+          ],
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 1,
+          "position": 1
+        },
+        {
+          "keys": [
+            "https://evbtms.com/how-braking-resistors-work-electric-vehicles/"
+          ],
+          "clicks": 1,
+          "impressions": 76,
+          "ctr": 0.013157894736842105,
+          "position": 32.10526315789474
+        },
+        {
+          "keys": [
+            "https://evbtms.com/what-is-a-ptc-heater/"
+          ],
+          "clicks": 1,
+          "impressions": 51,
+          "ctr": 0.0196078431372549,
+          "position": 10.549019607843137
+        },
+        {
+          "keys": [
+            "https://evbtms.com/"
+          ],
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0,
+          "position": 2
+        },
+        {
+          "keys": [
+            "https://evbtms.com/400v-800v-high-voltage-coolant-heater/"
+          ],
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0,
+          "position": 10.571428571428571
+        },
+        {
+          "keys": [
+            "https://evbtms.com/about-us/"
+          ],
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0,
+          "position": 20.6
+        },
+        {
+          "keys": [
+            "https://evbtms.com/agricultural-machinery/"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 47
+        },
+        {
+          "keys": [
+            "https://evbtms.com/applications/"
+          ],
+          "clicks": 0,
+          "impressions": 13,
+          "ctr": 0,
+          "position": 43.15384615384615
+        },
+        {
+          "keys": [
+            "https://evbtms.com/battery-liquid-cooling-vs-air-cooling/"
+          ],
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0,
+          "position": 5.5
+        },
+        {
+          "keys": [
+            "https://evbtms.com/brake-chopper-fault-diagnosis/"
+          ],
+          "clicks": 0,
+          "impressions": 25,
+          "ctr": 0,
+          "position": 11.52
+        }
+      ],
+      "topQueries": [
+        {
+          "keys": [
+            "ptc coolant heater"
+          ],
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 1,
+          "position": 12
+        },
+        {
+          "keys": [
+            "ac motor brake resistor"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 34
+        },
+        {
+          "keys": [
+            "and df(x) services for thermal management products"
+          ],
+          "clicks": 0,
+          "impressions": 28,
+          "ctr": 0,
+          "position": 92.10714285714286
+        },
+        {
+          "keys": [
+            "automotive high voltage coolant heaters market"
+          ],
+          "clicks": 0,
+          "impressions": 7,
+          "ctr": 0,
+          "position": 27.571428571428573
+        },
+        {
+          "keys": [
+            "battery thermal management hoses"
+          ],
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0,
+          "position": 49.333333333333336
+        },
+        {
+          "keys": [
+            "bms temperature sensor"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 74
+        },
+        {
+          "keys": [
+            "bms testing and validation"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 37
+        },
+        {
+          "keys": [
+            "brake chopper"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 56
+        },
+        {
+          "keys": [
+            "brake resistance"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 43
+        },
+        {
+          "keys": [
+            "brake resistor"
+          ],
+          "clicks": 0,
+          "impressions": 5,
+          "ctr": 0,
+          "position": 42.6
+        }
+      ],
+      "days": 7
+    },
+    {
+      "endDate": "2026-11-22",
+      "startDate": "2026-10-26",
+      "totals": {
+        "clicks": 20,
+        "impressions": 1946,
+        "ctr": 0.010277492291880781,
+        "position": 28.22147995889003
+      },
+      "topPages": [
+        {
+          "keys": [
+            "https://evbtms.com/products/braking-resistor/"
+          ],
+          "clicks": 3,
+          "impressions": 89,
+          "ctr": 0.033707865168539325,
+          "position": 21.325842696629213
+        },
+        {
+          "keys": [
+            "https://evbtms.com/how-braking-resistors-work-electric-vehicles/"
+          ],
+          "clicks": 2,
+          "impressions": 235,
+          "ctr": 0.00851063829787234,
+          "position": 38.36595744680851
+        },
+        {
+          "keys": [
+            "https://evbtms.com/products/battery-thermal-management-system/5kw/"
+          ],
+          "clicks": 2,
+          "impressions": 23,
+          "ctr": 0.08695652173913043,
+          "position": 8.652173913043478
+        },
+        {
+          "keys": [
+            "https://evbtms.com/"
+          ],
+          "clicks": 1,
+          "impressions": 36,
+          "ctr": 0.027777777777777776,
+          "position": 39
+        },
+        {
+          "keys": [
+            "https://evbtms.com/braking-resistor-sizing-mistakes/"
+          ],
+          "clicks": 1,
+          "impressions": 14,
+          "ctr": 0.07142857142857142,
+          "position": 11.357142857142858
+        },
+        {
+          "keys": [
+            "https://evbtms.com/btms-temperature-spread-diagnosis/"
+          ],
+          "clicks": 1,
+          "impressions": 15,
+          "ctr": 0.06666666666666667,
+          "position": 9.133333333333333
+        },
+        {
+          "keys": [
+            "https://evbtms.com/case-studies/"
+          ],
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 1,
+          "position": 1
+        },
+        {
+          "keys": [
+            "https://evbtms.com/electric-bus/"
+          ],
+          "clicks": 1,
+          "impressions": 51,
+          "ctr": 0.0196078431372549,
+          "position": 40.588235294117645
+        },
+        {
+          "keys": [
+            "https://evbtms.com/electric-truck/"
+          ],
+          "clicks": 1,
+          "impressions": 36,
+          "ctr": 0.027777777777777776,
+          "position": 30.27777777777778
+        },
+        {
+          "keys": [
+            "https://evbtms.com/heat-pump-hvch-backup-heating-duty/"
+          ],
+          "clicks": 1,
+          "impressions": 3,
+          "ctr": 0.3333333333333333,
+          "position": 3.6666666666666665
+        }
+      ],
+      "topQueries": [
+        {
+          "keys": [
+            "high voltage heater"
+          ],
+          "clicks": 1,
+          "impressions": 7,
+          "ctr": 0.14285714285714285,
+          "position": 21
+        },
+        {
+          "keys": [
+            "high voltage ptc heater"
+          ],
+          "clicks": 1,
+          "impressions": 19,
+          "ctr": 0.05263157894736842,
+          "position": 11.263157894736842
+        },
+        {
+          "keys": [
+            "liquid cooled resistor"
+          ],
+          "clicks": 1,
+          "impressions": 32,
+          "ctr": 0.03125,
+          "position": 18.5625
+        },
+        {
+          "keys": [
+            "ptc coolant heater"
+          ],
+          "clicks": 1,
+          "impressions": 1,
+          "ctr": 1,
+          "position": 12
+        },
+        {
+          "keys": [
+            "ac motor brake resistor"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 34
+        },
+        {
+          "keys": [
+            "air cooled resistor"
+          ],
+          "clicks": 0,
+          "impressions": 2,
+          "ctr": 0,
+          "position": 12.5
+        },
+        {
+          "keys": [
+            "air-cooled heat exchangers for mining truck"
+          ],
+          "clicks": 0,
+          "impressions": 3,
+          "ctr": 0,
+          "position": 91
+        },
+        {
+          "keys": [
+            "and df(x) services for thermal management products"
+          ],
+          "clicks": 0,
+          "impressions": 42,
+          "ctr": 0,
+          "position": 92.47619047619048
+        },
+        {
+          "keys": [
+            "aode electric vehicle thermal management solution"
+          ],
+          "clicks": 0,
+          "impressions": 1,
+          "ctr": 0,
+          "position": 61
+        },
+        {
+          "keys": [
+            "automotive battery cooling system integration"
+          ],
+          "clicks": 0,
+          "impressions": 6,
+          "ctr": 0,
+          "position": 73.66666666666667
+        }
+      ],
+      "days": 28
+    }
+  ],
+  "dataState": "final"
+}

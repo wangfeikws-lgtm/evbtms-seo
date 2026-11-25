@@ -1,5 +1,13 @@
 # TASKS.md — evbtms-seo 任务总表
 
+## Codex 2026-11-25 上午回填
+
+- **GSC API 对接 — REVIEW**。Search Analytics 只读取数已验证。采用 A，由 Codex 交快照，Muse 从仓库读取。首份快照见 [GSC API snapshot](hidden_files/gsc-snapshots/GSC-API-snapshot-2026-11-25.json)。[接入说明](REPORTS/GSC-API-handoff-2026-11-25.md)。索引覆盖总数和每日调度仍待落实。
+- **IMG-1113 — REVIEW**。旧附件已清理，五张正式 JPG 及缩略图、九个引用页实测通过。[核验报告](REPORTS/IMG-1113-verification-2026-11-25.md)。
+- **DAILY-1125 — DOING**。Codex 英文工作稿及 SEO 字段已交。Semrush 连接器没有查询额度，精确词搜索量待核。DeepL 回译、ZeroGPT 两半实测和独立 WebP 特色图尚未完成，未发布。[英文工作稿](REPORTS/DAILY-1125-BTMS-English-draft.md)。
+- **LinkedIn 周数据、三篇发布者归属 — 暂缓**。按 Peter 在本对话的指示暂缓。
+
+
 > 唯一正式工作台。GitHub 是 Muse 与 Codex 之间唯一的任务与进度同步渠道，不再经 Peter 复制传话。
 
 ## 📋 Codex 每天早上必读（2026-11-06 立规，长期有效）
