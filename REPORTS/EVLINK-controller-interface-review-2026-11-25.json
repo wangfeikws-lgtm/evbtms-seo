@@ -1,0 +1,30 @@
+{
+  "id": 2948,
+  "url": "https://evbtms.com/products/three-in-one-controller/",
+  "before": {
+    "editor": "<p>Unknown conditions should be recorded as assumptions and closed before design release.</p>",
+    "button": "Send Your Requirements",
+    "link": "#controller-contact"
+  },
+  "after": {
+    "editor": "<p>If the design is still open, start with your high- and low-voltage ranges, the loads the controller must coordinate, and any known CAN requirements. If drawings are available, also share the connector or harness drawing, mounting envelope, and expected startup and fault responses. EVLINK can review these inputs with your engineering team. Confirm model-specific ratings and interfaces against the selected controller documentation before design release.</p>",
+    "button": "Request a Controller Interface Review",
+    "link": "#controller-contact"
+  },
+  "beforeH1Count": 1,
+  "afterH1Count": 1,
+  "contactStatus": 200,
+  "publicStatus": 200,
+  "publicVerified": true,
+  "cache": "hit",
+  "verificationNote": "Regenerated Elementor render cache using the existing WordPress REST path. Verified both ordinary and cache-busting URLs. Existing contact page returned HTTP 200.",
+  "baseline": {
+    "gscPosition": 20.8,
+    "ga4LandingSessions": 3,
+    "ga4EngagedSessions": 0,
+    "days": 28,
+    "gscClicks": 0,
+    "end": "2026-11-22",
+    "gscImpressions": 13
+  }
+}
