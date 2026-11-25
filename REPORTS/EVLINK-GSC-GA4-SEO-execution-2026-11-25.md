@@ -39,4 +39,4 @@ Suggested CTA: **Request a Controller Interface Review** → existing contact pa
 
 ## 本次上线记录
 
-后台保存已在带验收参数的公开请求核验。普通公开原链接仍返回旧摘要，待单页缓存刷新后复核。
+已按 URL 单页刷新 LiteSpeed 缓存。普通公开原链接返回 HTTP 200，新 SEO 标题和描述均已输出，H1 和 canonical 核对一致。
