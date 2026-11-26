@@ -1,0 +1,258 @@
+[
+  {
+    "days": 7,
+    "start": "2026-11-17",
+    "end": "2026-11-23",
+    "gsc": [
+      {
+        "clicks": 5,
+        "impressions": 767,
+        "ctr": 0.00651890482398957,
+        "position": 28.67014341590613
+      }
+    ],
+    "btmsPages": [
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/"
+        ],
+        "clicks": 0,
+        "impressions": 11,
+        "ctr": 0,
+        "position": 61.09090909090909
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/5kw/"
+        ],
+        "clicks": 0,
+        "impressions": 5,
+        "ctr": 0,
+        "position": 3.6
+      }
+    ],
+    "btmsQueries": [
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "battery thermal management hoses"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 49.25
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "battery thermal management solution"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "btms system"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 82
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "ev thermal management water pump"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 90
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "thermal management system"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 45
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "two-way thermal management system"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 93
+      }
+    ],
+    "ga4": [
+      {
+        "metricValues": [
+          {
+            "value": "5"
+          },
+          {
+            "value": "38"
+          },
+          {
+            "value": "12"
+          },
+          {
+            "value": "63"
+          },
+          {
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "ga4Metrics": [
+      "activeUsers",
+      "sessions",
+      "engagedSessions",
+      "screenPageViews",
+      "keyEvents"
+    ]
+  },
+  {
+    "days": 28,
+    "start": "2026-10-27",
+    "end": "2026-11-23",
+    "gsc": [
+      {
+        "clicks": 20,
+        "impressions": 1991,
+        "ctr": 0.010045203415369162,
+        "position": 28.20843797086891
+      }
+    ],
+    "btmsPages": [
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/5kw/"
+        ],
+        "clicks": 2,
+        "impressions": 21,
+        "ctr": 0.09523809523809523,
+        "position": 4.666666666666666
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/"
+        ],
+        "clicks": 0,
+        "impressions": 20,
+        "ctr": 0,
+        "position": 55.4
+      }
+    ],
+    "btmsQueries": [
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "automotive battery thermal management"
+        ],
+        "clicks": 0,
+        "impressions": 3,
+        "ctr": 0,
+        "position": 68.33333333333333
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "battery thermal management hoses"
+        ],
+        "clicks": 0,
+        "impressions": 4,
+        "ctr": 0,
+        "position": 49.25
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "battery thermal management solution"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 30
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "btms system"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 80
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "ev thermal management water pump"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 90
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "thermal management system"
+        ],
+        "clicks": 0,
+        "impressions": 2,
+        "ctr": 0,
+        "position": 45
+      },
+      {
+        "keys": [
+          "https://evbtms.com/products/battery-thermal-management-system/",
+          "two-way thermal management system"
+        ],
+        "clicks": 0,
+        "impressions": 1,
+        "ctr": 0,
+        "position": 93
+      }
+    ],
+    "ga4": [
+      {
+        "metricValues": [
+          {
+            "value": "24"
+          },
+          {
+            "value": "126"
+          },
+          {
+            "value": "50"
+          },
+          {
+            "value": "238"
+          },
+          {
+            "value": "0"
+          }
+        ]
+      }
+    ],
+    "ga4Metrics": [
+      "activeUsers",
+      "sessions",
+      "engagedSessions",
+      "screenPageViews",
+      "keyEvents"
+    ]
+  }
+]

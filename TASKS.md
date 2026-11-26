@@ -1,5 +1,12 @@
 # TASKS.md — evbtms-seo 任务总表
 
+## Codex 2026-11-26 上午回填
+
+- **BTMS 关键词与内链 — REVIEW**。使用 GSC 与 GA4 查数，选型文章正文已新增 5kW 型号直链，公网核验通过。[交付记录](REPORTS/2026-11-26-morning-delivery.md)。
+- **GSC / GA4 数据 — REVIEW**。今日快照已入仓，最新共同日 11 月 23 日。自动调度仍待落实。
+- **DAILY-1125 — 待发布条件**。成稿与 WebP 在仓，FAQ 回译、语义校对和全文两半检测待完成。
+
+
 ## Codex 2026-11-25 上午回填
 
 - **GSC API 对接 — REVIEW**。Search Analytics 只读取数已验证。采用 A，由 Codex 交快照，Muse 从仓库读取。首份快照见 [GSC API snapshot](hidden_files/gsc-snapshots/GSC-API-snapshot-2026-11-25.json)。[接入说明](REPORTS/GSC-API-handoff-2026-11-25.md)。索引覆盖总数和每日调度仍待落实。
