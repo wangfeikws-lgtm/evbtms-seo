@@ -4,7 +4,7 @@
 
 - **BTMS 关键词与内链 — REVIEW**。使用 GSC 与 GA4 查数，选型文章正文已新增 5kW 型号直链，公网核验通过。[交付记录](REPORTS/2026-11-26-morning-delivery.md)。
 - **GSC / GA4 数据 — REVIEW**。今日快照已入仓，最新共同日 11 月 23 日。自动调度仍待落实。
-- **DAILY-1125 — REVIEW / 待发布决定**。WordPress 草稿 10656 和 WebP 10655 已核验。英文原稿两半 100%／100%，完整回译版尚未检测，未发布。[审核与检测记录](REPORTS/DAILY-1125-review-and-detection-2026-11-26.md)。
+- **DAILY-1125 — 已发布**。已核对公开文章与 WebP 特色图。[文章](https://evbtms.com/electric-bus-btms-battery-pack-flow-balance/) · [特色图](https://evbtms.com/wp-content/uploads/2026/11/electric-bus-btms-commissioning.webp)。
 
 
 ## Codex 2026-11-25 上午回填
