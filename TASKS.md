@@ -2,15 +2,15 @@
 
 ## Codex 2026-11-26 上午回填
 
-- **BTMS 关键词与内链 — REVIEW**。使用 GSC 与 GA4 查数，选型文章正文已新增 5kW 型号直链，公网核验通过。[交付记录](REPORTS/2026-11-26-morning-delivery.md)。
-- **GSC / GA4 数据 — REVIEW**。今日快照已入仓，最新共同日 11 月 23 日。自动调度仍待落实。
+- **BTMS 关键词与内链 — VERIFIED**（2026-11-26 Muse 巡检验收通过：选型文章 https://evbtms.com/how-to-select-btms-electric-truck-bus/ 正文含锚文“5 kW”直链至 5kW 规格页，源页与目标页均 HTTP 200；GSC/GA4 快照与交付表逐数一致——7 天 GSC 5／767／28.7、GA4 会话 38／参与 12，28 天 GSC 20／1,991／28.2、GA4 会话 126／参与 50，BTMS 总页 28 天 20 展示 0 点击、5kW 子页 21 展示 2 点击，最新共同日 11 月 23 日；报告如实写明本次证据无法确认关键词冲突，主型号页不动。[交付记录](REPORTS/2026-11-26-morning-delivery.md)。
+- **GSC / GA4 数据 — VERIFIED**（2026-11-26 Muse 巡检验收通过：快照 hidden_files/gsc-snapshots/EVLINK-GSC-GA4-BTMS-2026-11-26.json 与交付表逐数一致，最新共同日 11 月 23 日；余项：自动调度仍待落实）。
 - **DAILY-1125 — 已发布**。已核对公开文章与 WebP 特色图。[文章](https://evbtms.com/electric-bus-btms-battery-pack-flow-balance/) · [特色图](https://evbtms.com/wp-content/uploads/2026/11/electric-bus-btms-commissioning.webp)。
 
 
 ## Codex 2026-11-25 上午回填
 
-- **GSC API 对接 — REVIEW**。Search Analytics 只读取数已验证。采用 A，由 Codex 交快照，Muse 从仓库读取。首份快照见 [GSC API snapshot](hidden_files/gsc-snapshots/GSC-API-snapshot-2026-11-25.json)。[接入说明](REPORTS/GSC-API-handoff-2026-11-25.md)。索引覆盖总数和每日调度仍待落实。
-- **IMG-1113 — REVIEW**。旧附件已清理，五张正式 JPG 及缩略图、九个引用页实测通过。[核验报告](REPORTS/IMG-1113-verification-2026-11-25.md)。
+- **GSC API 对接 — VERIFIED**（2026-11-26 Muse 巡检验收通过：接入说明与首份快照逐项核对一致——Google Cloud CLI operator OAuth（Peter 电脑）→ IAM 凭证 impersonation → Search Analytics API，只读 scope webmasters.readonly，资产 https://evbtms.com/；7 天 3／688／0.44%／24.63、28 天 20／1,946／1.03%／28.22 与快照一致（dataState final，最新终定日 11 月 22 日）；交接选 A，由 Codex 交快照、Muse 从仓库读取。余项（报告已明示，巡检接受）：索引覆盖总数未走 API、仍用现有覆盖报告口径；每日 08:20 快照须在授权机上跑，本次提交未建自动调度。首份快照见 [GSC API snapshot](hidden_files/gsc-snapshots/GSC-API-snapshot-2026-11-25.json)。[接入说明](REPORTS/GSC-API-handoff-2026-11-25.md)。
+- **IMG-1113 — VERIFIED**（2026-11-26 Muse 巡检验收通过：9 个引用页独立复核——/applications/ 与 BTMS 5kW 页 HTTP 200、旧 PNG 文件名 0 命中、新 JPG 引用在位；新附件 10561–10565 原图＋1536 缩略图抽查字节数与报告 JSON 完全一致（2036 原图 407,458B、缩略图 371,285B；2038 原图 268,539B、缩略图 246,080B，均为 image/jpeg）；旧附件 2015／2036／2037／2038／2186 全部 HTTP 404；5 张缩略图均已变小（231–388KB），PNG 缩略图变大问题已解决。[核验报告](REPORTS/IMG-1113-verification-2026-11-25.md)。
 - **DAILY-1125 — DOING**。Codex 英文工作稿及 SEO 字段已交。Semrush 连接器没有查询额度，精确词搜索量待核。独立 WebP 已入仓。DeepL 英→西 5/5，西→英式英语 4/5，FAQ 原样重试与拆段均未返回新译文，发现两处语义偏移待核。未取得全文两半 ZeroGPT 分数，未发布。[英文工作稿](REPORTS/DAILY-1125-BTMS-English-draft.md)。
 - **LinkedIn 周数据、三篇发布者归属 — 暂缓**。按 Peter 在本对话的指示暂缓。
 
