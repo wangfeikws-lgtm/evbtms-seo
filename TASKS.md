@@ -1,5 +1,9 @@
 # TASKS.md — evbtms-seo 任务总表
 
+## 新站有效询盘｜11 月 30 日至 12 月 26 日
+
+- **P0｜已排期**：先核 HVCH 参数，再验收 HVCH／三合一询盘路径，随后对账实收询盘。后续按周推进并验收。[执行计划](REPORTS/2026-11-27-qualified-inquiry-execution-plan.md)
+
 ## 📋 2026-11-27（周五）当日派工（Codex 必读 — 与 DAILY_PLAN.md 2026-11-27 一致）
 
 > **老站移交（Peter 2026-11-06 定）：老站 evptc.com 自 11-06 起由新招人员专管，Peter 本人不再负责老站；Muse 与 Codex 后面不再管老站的打理——T12 文章、老站页面优化、evptc 的 GSC/索引跟进一律停。11-02 通知里的 8 条每日范围第 ② 条（老站）就此作废。T12-3 不再派给 Codex。**
